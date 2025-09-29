@@ -1,0 +1,1238 @@
+Customer_ID,Age,Gender,City,Category,Product_Name,Purchase_Date,Purchase_Amount,Payment_Method,Discount_Applied,Rating,Repeat_Customer
+7ef4d864-e416-4039-b739-471f88511e4f,37,Male,West Kelseyshire,Home,Cookware,2/8/2025,387.78,Cash on Delivery,Yes,4,Yes
+a533eb8e-4b54-434d-8f36-5006abf24f5e,43,Female,Johnmouth,Electronics,Smartwatch,2/6/2025,345.84,Debit Card,Yes,4,Yes
+29ceb838-7009-4724-9fc8-25bc72ce453f,46,Female,South Thomas,Home,Lamp,2/9/2025,230.95,Credit Card,Yes,4,No
+fa1e111b-2889-4fb3-b178-6f1e73b7f73f,25,Male,Port Lauren,Clothing,T-Shirt,2/9/2025,422.01,Cash on Delivery,Yes,1,Yes
+2c67d9cc-918f-464b-a7c0-05714105a7e3,43,Male,West Dawn,Home,Cookware,2/1/2025,167.63,Credit Card,Yes,5,No
+b236c753-826d-47f2-a366-a647afda2e57,37,Other,Hillstad,Electronics,Smartphone,2/5/2025,166.74,UPI,No,3,No
+4a6640f4-44b7-4c62-91cf-48d4754aa6b6,45,Other,Michaelport,Clothing,Jeans,2/6/2025,382.19,Credit Card,Yes,3,No
+684c2c30-59f7-4d52-b7b0-0d034fb7043b,54,Male,Jeffhaven,Clothing,T-Shirt,2/2/2025,390.16,Cash on Delivery,Yes,4,No
+5e9a48d3-80e8-40d6-abd5-4f66c0ba9b67,47,Other,East Andre,Clothing,Jacket,2/4/2025,368.78,Debit Card,No,2,Yes
+b16810cd-14c8-4086-adab-53c00df4071d,18,Other,Georgeville,Clothing,T-Shirt,2/5/2025,412.38,Debit Card,No,1,No
+71410e2a-d5e5-406c-9938-65ca0099e9a8,39,Other,Johnsonshire,Clothing,Jeans,2/4/2025,270.13,UPI,No,4,Yes
+0706a30f-ab15-440b-8e0b-5be80eb6ccd5,35,Female,North Thomasside,Clothing,Jeans,2/5/2025,296.95,Debit Card,Yes,2,Yes
+a0a0a551-e951-4d08-981e-dc826531c017,29,Male,New Christineborough,Home,Sofa Cover,2/6/2025,225.93,Cash on Delivery,No,5,Yes
+af96c949-efbb-4cbc-9286-e49fba2d0594,23,Female,West Colleen,Electronics,Headphones,2/7/2025,370.09,UPI,No,1,No
+f8ddf7f8-31bb-4fc6-9ba9-fc2ef3da8a67,45,Female,North Paula,Beauty,Face Cream,2/5/2025,418.01,Cash on Delivery,No,1,Yes
+652828dd-e663-4916-8e34-a2d7503a507a,25,Female,Lake Johntown,Clothing,Jeans,2/7/2025,166.45,Credit Card,Yes,3,Yes
+e8aef547-f335-4745-be3b-1fb8c3a98fb3,53,Other,East Douglasberg,Home,Curtains,2/5/2025,144.91,Credit Card,No,2,Yes
+d34b41e8-c51f-49aa-a20f-948e210d390d,55,Male,Ninaville,Electronics,Laptop,2/9/2025,111.57,Debit Card,Yes,3,No
+85aa3da8-069f-462c-a1b2-30c6641621e1,22,Male,Alexburgh,Home,Cookware,2/6/2025,223.39,UPI,Yes,4,No
+fd141fb8-1f7a-47ad-bb2c-9e3eee43cd70,57,Female,Dawnmouth,Electronics,Smartwatch,2/6/2025,170.46,Debit Card,Yes,1,No
+76fada82-e1bb-433b-980e-e9a3c58e99c1,58,Other,Sheriburgh,Beauty,Perfume,2/5/2025,210.18,Debit Card,Yes,4,No
+6622025c-f7d9-4421-aad5-4c5b8f29da80,30,Other,New Thomas,Beauty,Shampoo,2/8/2025,121.92,Credit Card,Yes,2,Yes
+3a70111d-fbb3-43b6-bcef-2bae981b6400,52,Other,Lake Patrickport,Clothing,T-Shirt,2/6/2025,64.14,UPI,Yes,3,No
+1a64db5b-b5d0-4947-b984-896414b18265,30,Other,Sarahmouth,Electronics,Smartphone,2/9/2025,222.13,UPI,Yes,4,No
+fecd0675-ff30-49c7-bf47-0733ec066466,25,Other,Melaniehaven,Home,Sofa Cover,2/3/2025,193.88,Cash on Delivery,Yes,5,No
+abcdb11d-6e40-4154-b768-d6f96e54e717,19,Other,Port Garrett,Clothing,Jeans,2/8/2025,114.21,Cash on Delivery,Yes,4,No
+fd4f5072-2f15-4fda-b863-2eff6b336825,43,Female,Stephenburgh,Home,Curtains,2/7/2025,422.22,UPI,No,3,Yes
+e4d697c1-f72d-4634-8ae9-3f4a966a7e5a,55,Male,Greenborough,Clothing,Dress,2/4/2025,177.34,Debit Card,No,1,No
+4ab09f2c-3477-4efe-a291-dc708028c0f7,38,Male,Mcgrathside,Home,Cookware,2/2/2025,353.97,Debit Card,Yes,3,Yes
+3fade969-50b3-4d03-948f-660b1ed44dec,42,Female,Garciaberg,Beauty,Face Cream,2/2/2025,310.29,Cash on Delivery,Yes,4,No
+7dff5f23-4453-447c-8990-08df6e2b5730,37,Female,Houseburgh,Clothing,T-Shirt,2/6/2025,155.61,Debit Card,Yes,1,Yes
+777e6d5f-4009-4742-ad2a-7cdbb264eb28,18,Other,Lake Jessica,Clothing,Jeans,2/4/2025,287.92,UPI,No,3,No
+22648b3e-ad0b-44a3-b512-ce609f077805,49,Other,Port Gloriaville,Clothing,Jacket,2/3/2025,98.68,Cash on Delivery,No,2,No
+4ac74e8f-84b9-4cac-a999-06ec54dac7a9,35,Female,North Jeff,Home,Sofa Cover,2/2/2025,134.9,Credit Card,Yes,4,No
+74ee99f0-dea8-4a9b-8264-70f241e9f082,23,Male,Kimstad,Beauty,Lipstick,2/4/2025,356.48,UPI,Yes,5,Yes
+ca4fcb8a-9dbf-4bca-a7df-83284ccf1caf,39,Male,South Jean,Electronics,Laptop,2/8/2025,50,Credit Card,No,4,Yes
+20a4161c-ae46-4e3d-ba69-808217150c83,25,Female,New Anna,Home,Sofa Cover,2/6/2025,42.49,Debit Card,Yes,4,Yes
+311b0c59-0969-41d4-972c-1c3e434309b4,38,Other,Port Elizabeth,Home,Lamp,2/7/2025,87.09,Debit Card,No,2,Yes
+7ce0fa00-9425-41a7-b937-7134724dc3d3,18,Female,North Amy,Electronics,Laptop,2/5/2025,138.48,Credit Card,No,1,No
+397d19f6-fd8a-427d-8ca7-88e6f1b08c9c,59,Other,South Alan,Home,Lamp,2/9/2025,476.32,Debit Card,Yes,5,Yes
+9927078c-9978-4983-9914-468659189dab,46,Other,Lewisfurt,Clothing,Dress,2/3/2025,360.27,Credit Card,Yes,4,No
+5852331a-6c17-4e24-89c0-dd5b87a4f963,28,Other,North Joseph,Beauty,Face Cream,2/6/2025,332.22,Credit Card,Yes,1,Yes
+60c67bd3-2f55-49ff-b7eb-6286144bec4b,40,Male,Floresfort,Electronics,Laptop,2/4/2025,189.83,Credit Card,No,3,No
+22b24b93-6f5f-45d5-ae2d-496abcbb4cef,25,Male,Port Laura,Home,Sofa Cover,2/6/2025,367.14,Cash on Delivery,Yes,5,Yes
+e7ab394f-4de2-4a5b-9b3e-32d60679859b,27,Other,Matthewsborough,Clothing,Dress,2/3/2025,283.32,Debit Card,Yes,1,No
+79443d52-a738-4a41-bd77-3555d868acbd,37,Male,Littlestad,Clothing,T-Shirt,2/8/2025,355.26,Cash on Delivery,Yes,3,Yes
+b5f331f9-217d-4b7a-aba6-97c31e8e3274,40,Female,Natashahaven,Clothing,Jeans,2/1/2025,473.28,Cash on Delivery,Yes,5,Yes
+4e9800f1-e79a-47a4-ab6a-c413aa574467,27,Female,Port Kellyshire,Clothing,Jacket,2/4/2025,246.18,UPI,No,2,Yes
+b67e7ae5-950d-48a4-bf01-cc85c8b99b3d,40,Other,Port Guy,Beauty,Perfume,2/8/2025,318.92,Cash on Delivery,Yes,1,Yes
+113ac8d5-b6d0-4af6-8224-0a9451165663,47,Other,South Randyton,Beauty,Perfume,2/5/2025,354.54,UPI,Yes,2,No
+735336a9-2655-4632-a87e-d720cd7fd904,25,Female,Lake Jamesfurt,Clothing,Dress,2/4/2025,369.75,Debit Card,Yes,2,No
+8c3190da-409e-4df3-86e9-fbcd0c1a5789,45,Female,Juliebury,Home,Lamp,2/5/2025,60.84,UPI,Yes,1,Yes
+1eb6f677-5228-4795-897e-f3072a26f5ab,41,Other,Christyfort,Home,Sofa Cover,2/6/2025,238.32,Cash on Delivery,Yes,1,Yes
+1461dcc0-c2a2-49cb-8117-eecef1b456d4,46,Male,Port Zacharyton,Clothing,Jeans,2/5/2025,305.63,Debit Card,No,4,Yes
+783b7dd1-f5a5-498f-899f-72b3558450c0,30,Other,Markside,Beauty,Lipstick,2/7/2025,225.66,Debit Card,Yes,3,No
+1e167d04-898c-4ca1-8f18-bf63e30c9e3f,30,Other,Robertview,Home,Lamp,2/9/2025,55.11,Cash on Delivery,Yes,1,No
+2aa15e7f-befa-441d-8d3b-a3a4b0d03e97,30,Female,West Erin,Home,Sofa Cover,2/5/2025,353.32,Credit Card,Yes,3,No
+e83dae13-b8c6-4999-9450-e42004aecaa1,26,Female,New Steven,Beauty,Shampoo,2/4/2025,69.39,UPI,No,2,Yes
+b293a584-6d60-4f17-b293-440dc41a1ce3,57,Male,Kellymouth,Home,Lamp,2/4/2025,57.68,UPI,No,3,Yes
+cae88781-157b-47ac-afaf-ddc2180b440a,57,Female,Edwardsview,Clothing,Jacket,2/9/2025,85.23,Cash on Delivery,No,2,No
+a4e1b41e-7bbe-4558-8552-1feef71706f8,41,Other,South Kimberlyshire,Clothing,Jacket,2/4/2025,323.69,UPI,No,4,No
+c3d643d7-6772-44a9-b4ff-9e7a0df649b4,35,Male,North Jacqueline,Electronics,Smartwatch,2/3/2025,11.25,Debit Card,No,1,Yes
+e55c27ea-acfd-4433-964b-9b2ecd37c6c3,29,Male,South Jackie,Electronics,Laptop,2/1/2025,413.73,Credit Card,Yes,2,Yes
+567aab2c-0594-4e89-b2ff-7409ca6c65e0,44,Female,Port Jeremybury,Beauty,Shampoo,2/9/2025,69.56,Debit Card,No,4,No
+82dc1392-6480-4f87-b98e-316465414bef,36,Male,Huntertown,Clothing,Jeans,2/1/2025,448.27,UPI,Yes,2,Yes
+2df0d94e-1e95-47ff-8e69-99b292e1d9b3,31,Other,Medinachester,Beauty,Perfume,2/2/2025,23.72,Debit Card,No,2,No
+6937c70f-c542-49a7-8ed8-1dd58cb9d843,35,Female,Clarkton,Home,Lamp,2/8/2025,398.86,UPI,Yes,1,No
+a6fbd572-8f8e-412e-961f-1a8d91073cf5,35,Male,Port Rayborough,Electronics,Smartwatch,2/5/2025,226,Credit Card,No,2,No
+77e803ff-6fef-4cde-9d19-981ac893aef8,57,Female,Mccallfort,Electronics,Smartwatch,2/8/2025,402.16,UPI,Yes,3,No
+39557001-8833-46b8-9d12-7b43507d357e,47,Female,New Thomas,Electronics,Smartwatch,2/7/2025,264.14,Credit Card,Yes,3,Yes
+6c327048-1b78-4f07-b9ec-0f5e15ec4c7a,21,Other,East Stacie,Electronics,Headphones,2/5/2025,360.1,Credit Card,Yes,4,No
+c79eb1ae-57e5-4290-a44a-c3567e564819,30,Other,Thompsonberg,Clothing,Jeans,2/7/2025,107.4,Cash on Delivery,No,2,Yes
+b76cec8a-f406-4b38-8b52-4b503bf92421,56,Other,East Patriciaborough,Electronics,Laptop,2/8/2025,136.1,Credit Card,Yes,1,No
+b7cec819-631c-4de8-a65f-32b53c9b9ae7,46,Male,Moonport,Electronics,Headphones,2/6/2025,165.6,Credit Card,Yes,5,Yes
+b42478b9-fcbe-4d6c-aa2a-5338acd92220,39,Female,Angelafort,Electronics,Smartwatch,2/1/2025,481.9,UPI,Yes,1,No
+f86e8a29-df23-4d8f-bd3a-92dddef92f57,47,Other,Port Joshuastad,Home,Cookware,2/1/2025,122.12,Debit Card,No,1,Yes
+de1b43cb-bf6b-4f7d-a63f-af38117467bc,44,Male,New Patrickville,Electronics,Smartwatch,2/6/2025,191.15,Debit Card,No,1,No
+1bb2598b-babf-48e7-ac65-dcce19974c47,49,Female,New Michaelview,Clothing,T-Shirt,2/6/2025,104.36,Credit Card,Yes,2,No
+6ef24635-8a82-4919-816e-d3cbf33fe73b,46,Other,Hansenview,Beauty,Lipstick,2/7/2025,387.52,Debit Card,Yes,5,Yes
+b28fbd67-38f9-41a0-b558-ccd9519d95fe,18,Female,West Justin,Electronics,Headphones,2/1/2025,237.28,Cash on Delivery,No,3,Yes
+7c37d899-54c8-4083-8eef-af803f6b1730,39,Other,Chaseberg,Home,Cookware,2/2/2025,197.24,Debit Card,No,2,Yes
+1fb100ec-4b93-4c6e-9cf5-40b98efedc0d,60,Female,Rebeccachester,Beauty,Lipstick,2/4/2025,190.3,UPI,No,3,Yes
+daef19af-5601-4eae-9a6b-716ce60118e6,53,Other,Darrenfurt,Home,Sofa Cover,2/1/2025,301.18,Cash on Delivery,Yes,2,No
+63218112-8275-4b94-9b2d-d9bd70305194,49,Other,North Nicholasburgh,Beauty,Shampoo,2/5/2025,352.85,UPI,No,2,Yes
+338011ff-94ab-4bbb-865d-6d804579b8c2,32,Male,Robinsonberg,Home,Curtains,2/1/2025,113.89,Credit Card,No,4,Yes
+60e94493-55d6-4724-93fa-3eb3e55ff3d5,25,Male,Stephensburgh,Electronics,Smartwatch,2/2/2025,188.55,Credit Card,Yes,4,No
+88bf1644-fab2-4c6a-bc91-6107464350c7,37,Other,Santanaville,Home,Cookware,2/3/2025,144.41,Debit Card,No,4,No
+8117b1b7-0e96-49e0-a55e-03adaccf847e,58,Male,North Melanieburgh,Clothing,Dress,2/8/2025,111.14,Credit Card,No,1,No
+0ab3d379-19b5-4678-9cb3-3554811c1372,20,Female,Dixonmouth,Home,Sofa Cover,2/5/2025,219.96,Cash on Delivery,Yes,5,Yes
+9b0b20c0-2507-4246-bccd-ab7ce2fc44d0,50,Female,Stephaniehaven,Home,Cookware,2/3/2025,315.09,Cash on Delivery,No,4,No
+8f2233fe-4a40-40f7-b4bd-5fdf4ea52943,44,Other,Caitlinborough,Home,Lamp,2/3/2025,405.62,UPI,Yes,5,No
+8cb5eed2-51e8-469c-890f-deedc6bd6ad7,18,Male,Brittanyside,Electronics,Headphones,2/2/2025,447.14,UPI,No,4,Yes
+2b97541b-cb63-4eba-ac9b-f726360aa244,53,Other,East Samuel,Beauty,Shampoo,2/8/2025,246.49,Debit Card,No,2,Yes
+b49e7924-967e-4c9e-956e-769325f6ecb2,55,Male,Coxshire,Home,Sofa Cover,2/5/2025,180.76,Credit Card,No,2,No
+24f97b97-dcd4-44fe-a49e-7970bf350c9c,47,Female,Port Christopherborough,Home,Sofa Cover,2/6/2025,28.17,Cash on Delivery,No,2,Yes
+85bcfa12-c2c0-487f-b3c5-d695490249c9,33,Male,West Jeremy,Beauty,Lipstick,2/8/2025,101.99,UPI,Yes,2,No
+6bbeafab-4e5f-4f16-968d-4c3a16a40cc9,49,Female,Alanland,Clothing,Dress,2/2/2025,306.03,Debit Card,Yes,5,Yes
+90e1b50a-3d03-44b4-9c14-551d2142d3bc,33,Female,South Cory,Home,Lamp,2/4/2025,341.1,Debit Card,No,4,No
+314641e8-fc96-4c55-8c84-db2ad1e96ea3,51,Other,Lake Herbertchester,Home,Sofa Cover,2/6/2025,142.97,Debit Card,Yes,2,Yes
+301a8dc4-4f84-4fcc-b1f6-912e84f1b3e9,60,Other,Carterfort,Clothing,T-Shirt,2/7/2025,178.35,Debit Card,No,2,No
+b1e913d9-7d6c-4398-8305-4bd6081f6ae1,20,Female,Lake George,Electronics,Smartwatch,2/3/2025,359.67,Debit Card,Yes,4,Yes
+dc41a33e-4501-4450-af95-d686480cb54f,32,Male,Randallview,Home,Lamp,2/4/2025,125.8,Credit Card,No,1,No
+7a43f240-f3fc-45fe-a08a-13642c9d7860,22,Female,East Josephberg,Beauty,Lipstick,2/5/2025,437.22,UPI,No,3,Yes
+f25eb7ca-4720-4974-b508-71af95965c23,31,Other,Robertton,Electronics,Smartphone,2/3/2025,27.02,UPI,Yes,3,Yes
+596f42eb-47dd-41d5-8dc4-dcf78fc536e6,26,Other,Lake Jasminehaven,Electronics,Smartphone,2/5/2025,169.75,Credit Card,No,3,Yes
+fd2719e7-4ced-4548-aa33-ba9b52a636e6,34,Other,West Alexandriaberg,Electronics,Laptop,2/8/2025,132.89,Debit Card,Yes,5,Yes
+45ba7f68-fd13-4997-b5f9-d1f79f14ab0f,44,Female,Susanfort,Beauty,Face Cream,2/8/2025,316.15,Cash on Delivery,No,1,No
+7b974ede-33b0-4141-85af-d5a751501740,24,Male,East Randy,Home,Lamp,2/2/2025,126.72,Cash on Delivery,Yes,5,Yes
+c7d6aabe-01da-4a09-a556-4e18dfea0749,58,Male,Amberland,Clothing,Jeans,2/8/2025,117.07,Debit Card,Yes,2,Yes
+394b83b3-e007-40da-842a-623787601264,56,Other,Lake Julia,Beauty,Shampoo,2/2/2025,470.37,Debit Card,No,2,Yes
+4c5b0fa9-f695-4893-bd03-ecfc782ba978,54,Female,New Jenniferborough,Beauty,Face Cream,2/6/2025,88.2,Cash on Delivery,Yes,3,Yes
+d3a32bac-2b18-49f6-8dcc-3d68ebf35ff7,60,Other,Alexanderland,Electronics,Smartphone,2/1/2025,465.58,Cash on Delivery,Yes,1,Yes
+810afad1-0dc3-4c15-bb4d-ba11a4f1ab65,47,Female,New Tiffany,Home,Sofa Cover,2/1/2025,275.68,UPI,No,5,Yes
+ba0a21c8-a574-4e74-afe6-31c94dc5b400,58,Female,Lake Robertview,Electronics,Laptop,2/4/2025,406.26,Debit Card,No,5,No
+167d6f15-2f27-4929-a1e8-73df4f70cdeb,51,Other,Anachester,Beauty,Face Cream,2/1/2025,481.42,UPI,No,2,No
+908b37aa-8c8e-466b-9f0f-197bf4291ccb,44,Male,South Virginiamouth,Clothing,Dress,2/1/2025,57.3,UPI,No,1,No
+61954b3d-35c0-4df0-8550-4323c51548f9,30,Other,East Angela,Beauty,Face Cream,2/3/2025,305.33,UPI,Yes,3,No
+75b5dd0d-1ea0-4145-afa6-6abf15afc937,30,Male,South Peggyhaven,Beauty,Lipstick,2/4/2025,77.57,Cash on Delivery,Yes,2,No
+ac045e19-1376-4e4f-87b8-0b6887c42899,57,Male,South Katelyn,Beauty,Lipstick,2/6/2025,368.56,UPI,Yes,5,No
+8bed3fbd-ad36-414f-b6a4-3025f892e7e2,35,Female,Emilyburgh,Clothing,T-Shirt,2/6/2025,277.77,Debit Card,No,5,No
+9fb60720-27a5-4b6b-84b9-d85da5dc72bf,35,Male,East Benjaminland,Electronics,Headphones,2/3/2025,206.19,UPI,No,2,Yes
+10963602-558f-4a36-927c-c129a91165bd,57,Other,Jacobsside,Beauty,Face Cream,2/8/2025,164.24,Credit Card,Yes,1,No
+407f2743-f2ac-4400-9ae5-8e3d00560e87,31,Male,Taylormouth,Clothing,Jeans,2/4/2025,191.04,Credit Card,Yes,3,No
+497b90f3-81c1-4407-9506-4f4a30eb160e,48,Other,East Arthur,Clothing,Jacket,2/2/2025,240.44,Debit Card,Yes,2,Yes
+39cc03b6-cc3f-4c60-aa84-9c71292165a7,23,Female,Hubbardfort,Electronics,Smartphone,2/2/2025,366.17,UPI,Yes,5,No
+44151285-c617-43a8-bf3b-1bcd5e2353e9,31,Male,Griffinland,Beauty,Face Cream,2/7/2025,32.33,Cash on Delivery,No,2,No
+3c85f266-fffa-4f81-8542-26d6dd75bf94,39,Female,West Lisa,Home,Lamp,2/8/2025,270.07,Cash on Delivery,Yes,4,Yes
+120169de-c1c2-4d41-8e7f-cd8a6c8d0f2b,25,Male,Port Kyle,Clothing,Dress,2/9/2025,342.63,Debit Card,Yes,1,Yes
+0022d111-8ffc-4523-a738-9296f7b9edd7,58,Female,North Evan,Home,Lamp,2/6/2025,150.36,UPI,No,2,No
+7d3068ea-f8d6-464d-9dae-b5d763226700,34,Male,Ramirezland,Electronics,Smartwatch,2/4/2025,467.34,Debit Card,No,1,Yes
+23390c17-104b-4909-a464-03d6cbcfd9a2,26,Other,New Hailey,Clothing,Jacket,2/5/2025,475.27,Cash on Delivery,Yes,5,Yes
+b44761c1-06b7-498d-933d-b4766ec5a9c3,50,Other,Lake Kylie,Beauty,Lipstick,2/5/2025,130.22,Credit Card,No,1,No
+b02752bd-ee3d-45e5-b730-90485a6c5bfc,23,Female,Port Melissahaven,Beauty,Face Cream,2/9/2025,448.02,UPI,No,5,Yes
+a7e72880-cc10-4954-80d0-f41f271d108e,40,Male,Duncanfort,Electronics,Smartphone,2/8/2025,491.17,Credit Card,No,5,Yes
+f2800946-8586-44de-9f36-12d4ff9836ab,32,Female,Theresaside,Clothing,Jeans,2/4/2025,492.5,Cash on Delivery,Yes,3,Yes
+ffa17c62-3622-44ad-a987-5706d8b87332,52,Male,Kimberlyberg,Electronics,Smartwatch,2/4/2025,38.48,Debit Card,Yes,3,No
+131e3ada-0833-46eb-a596-0dc4c217efc7,25,Female,Robinsonport,Beauty,Shampoo,2/1/2025,446.84,UPI,No,2,Yes
+3dd03d87-c660-4aac-a2b2-616227d6f724,36,Female,South Adam,Beauty,Shampoo,2/9/2025,436,UPI,Yes,2,No
+1823024a-0bcf-4d54-a256-74cb861ca690,31,Male,South Robert,Electronics,Smartphone,2/3/2025,52.93,Cash on Delivery,Yes,2,Yes
+aa61dd7c-e3d4-448b-9208-1296c3bfbab6,60,Female,West Amandaside,Electronics,Headphones,2/7/2025,408.49,UPI,No,3,No
+cf03e0a2-b5f9-446b-87cd-f022ca3b8f78,53,Other,North Timburgh,Beauty,Lipstick,2/4/2025,61.04,UPI,No,4,Yes
+56f4e486-6bc7-4c3a-9583-502f98081293,36,Female,East Saraberg,Electronics,Laptop,2/6/2025,300.71,Debit Card,No,1,No
+8954eb3a-4291-4786-8230-011845ec5517,56,Other,Maldonadoside,Clothing,T-Shirt,2/2/2025,326.97,Cash on Delivery,Yes,5,Yes
+301e5cc2-6cef-4009-ad31-4c52579a6734,57,Male,North Michaelville,Home,Lamp,2/8/2025,60.9,Cash on Delivery,No,5,Yes
+e8d8d290-1d9c-4e1f-a2fc-621f89279e2d,28,Male,South Katherinetown,Beauty,Face Cream,2/9/2025,403.49,Credit Card,No,3,Yes
+acba0568-7dbf-47c4-9c26-87cd864d150c,36,Male,Bryanburgh,Home,Cookware,2/8/2025,491.31,Debit Card,Yes,2,Yes
+46c58f84-0dd9-4040-a881-5297040aa413,54,Female,East Sara,Electronics,Smartphone,2/9/2025,85.17,Debit Card,No,1,No
+eb7f86cb-7cd0-4fec-aca9-3ff5d4e681c9,21,Other,Fieldsborough,Home,Curtains,2/3/2025,55.53,Cash on Delivery,No,1,No
+fc529195-c2bd-4e11-bdff-361515bae237,52,Female,South Monicaburgh,Home,Cookware,2/5/2025,291.6,Debit Card,Yes,2,Yes
+7fb7d2bf-bedb-4088-a055-a9eef112eef6,23,Female,Douglasmouth,Clothing,Dress,2/3/2025,470.39,Credit Card,No,5,Yes
+5e8bc904-ce5f-4e98-bf55-77d48600692a,18,Other,Michaeltown,Clothing,T-Shirt,2/3/2025,425.88,Debit Card,No,2,Yes
+d615500a-ea81-4281-b919-69e760e5218c,55,Male,Huntborough,Home,Lamp,2/3/2025,367.12,Cash on Delivery,Yes,3,No
+5b84951d-a49e-4bd5-8438-c196e8839282,32,Female,East Keithport,Home,Cookware,2/6/2025,41.3,UPI,No,4,Yes
+ff1f2064-c267-43ba-81f2-5e16986de3e9,54,Male,West Manuel,Beauty,Shampoo,2/9/2025,420.34,UPI,Yes,1,No
+3491c3e4-4403-46a4-8452-f00aac9ad94a,41,Other,East Dannymouth,Home,Cookware,2/2/2025,396.57,Debit Card,No,2,No
+5170f4bf-87dc-4984-a74c-7e8417c10228,52,Other,Lake Kevinhaven,Electronics,Laptop,2/4/2025,245.27,Credit Card,No,5,Yes
+2bc40b04-4e80-493b-a1c2-221f3731d4e3,24,Other,North Troy,Electronics,Headphones,2/3/2025,87.9,Cash on Delivery,No,2,No
+f4b92805-fb87-4d8f-a06e-27319439e2f8,19,Female,East Andrea,Clothing,T-Shirt,2/8/2025,91.76,UPI,Yes,3,No
+623ded64-1f87-40fd-9d53-cc358188bcb9,35,Other,South Derek,Beauty,Lipstick,2/5/2025,374.07,UPI,No,2,Yes
+a253f4ed-e6c8-4b5d-ba5b-c1d4129f22c7,48,Other,Deannaside,Home,Cookware,2/8/2025,216.79,Cash on Delivery,Yes,2,No
+acd810c3-c606-4862-9fb6-163ed81a14f7,57,Other,Sanchezside,Home,Curtains,2/5/2025,244.82,UPI,Yes,4,No
+516c89df-5927-4dc5-959c-65c1fed24200,46,Male,Garciamouth,Clothing,Dress,2/9/2025,460.62,Debit Card,Yes,1,Yes
+456dc88d-621b-4f5e-b7d3-51f1dff4fb19,32,Other,New Matthew,Home,Cookware,2/3/2025,21.51,UPI,No,5,No
+2cdd7410-1716-4767-9760-5775a211beaa,50,Female,Kingfurt,Beauty,Shampoo,2/8/2025,117.87,UPI,Yes,1,Yes
+c5748c9d-4f9d-4771-abfa-9dac04215eec,35,Other,Harrischester,Home,Curtains,2/4/2025,452.8,Cash on Delivery,No,4,No
+6eb1ad69-00b4-48f2-8686-3b92db35313c,34,Female,North Davidville,Clothing,T-Shirt,2/2/2025,420.35,Cash on Delivery,No,4,Yes
+99866df2-b14e-4fe4-a515-cc9a90fef8ce,60,Female,North Kyleshire,Beauty,Lipstick,2/8/2025,348.69,UPI,No,5,Yes
+b55b4a67-34a2-4496-9a67-e75b57ce58e5,28,Male,Carloston,Clothing,Jacket,2/6/2025,155.53,Debit Card,Yes,2,No
+d2028d80-20f8-4be9-9827-f9725a0e1d15,36,Female,West Victorialand,Electronics,Headphones,2/5/2025,118.16,UPI,No,4,No
+84063282-a6be-4e02-b464-e79783114e14,42,Male,Perryfurt,Clothing,Jeans,2/1/2025,258.91,UPI,No,3,No
+b82934cd-48d6-4401-bc40-24dd539cdc03,36,Female,South Keithport,Clothing,T-Shirt,2/5/2025,231.26,Credit Card,No,5,No
+f79eba3e-938e-40d6-b6e1-34cfaeaab88f,43,Other,North Michellemouth,Electronics,Headphones,2/1/2025,145.97,Credit Card,No,4,Yes
+a1ed181f-0d98-42b7-911b-0e5a24c53c7e,46,Female,Port Nicholashaven,Home,Lamp,2/4/2025,187.28,UPI,Yes,1,Yes
+323ecbc4-7f90-4e4a-ba62-37faced082e9,54,Other,East James,Clothing,Jacket,2/2/2025,350.75,Credit Card,Yes,4,No
+2043eab6-865e-4c91-8ca8-ce05827fb936,60,Other,South Kimberlymouth,Clothing,Jeans,2/1/2025,161.71,Debit Card,No,2,No
+d2340090-a387-4132-9263-ddae6d0c2afc,28,Male,Johnsonmouth,Clothing,Jeans,2/4/2025,67.39,Cash on Delivery,No,3,Yes
+8eeaec92-cf91-4780-9568-a0c1bb278c78,52,Female,West Jeremyville,Home,Curtains,2/9/2025,210,Cash on Delivery,Yes,1,No
+7ed094bb-c7e5-489b-9582-3e10ecc8ac0d,26,Female,Travischester,Clothing,T-Shirt,2/4/2025,237.5,Debit Card,Yes,1,Yes
+4a507db8-ec10-4afc-97bf-676e7bdf34a2,37,Male,Burnsborough,Beauty,Shampoo,2/4/2025,99.67,Debit Card,No,1,No
+af8cda54-d850-41e2-9d04-6e7e8e68e904,35,Male,Mejiaberg,Beauty,Shampoo,2/5/2025,388.01,Debit Card,Yes,3,No
+c0ef78dd-171a-41a9-b24d-50ed435a347c,31,Other,Jacobbury,Clothing,Jacket,2/7/2025,354.48,Debit Card,No,4,Yes
+b085a117-841c-4507-8ecb-24ca6c7c7016,22,Male,Gonzalezside,Electronics,Smartphone,2/9/2025,463.68,UPI,No,4,No
+c21d0a9d-bddb-49b4-9bcd-fbc563bbcaf5,32,Male,Lisaside,Clothing,Dress,2/5/2025,386.8,Debit Card,Yes,2,Yes
+9e49f484-d95d-4fe2-adb0-957ce45c5e1f,26,Other,Sandraview,Clothing,Dress,2/4/2025,181.64,UPI,Yes,2,No
+9522caae-e5db-440a-b85d-3fd571215ff8,45,Female,Campbellhaven,Clothing,Dress,2/2/2025,51.31,Credit Card,No,2,No
+4f6e89b6-91c1-444b-ba1b-483312f6b70d,50,Female,East Nancytown,Clothing,Jeans,2/6/2025,276.98,Debit Card,Yes,3,No
+6b54f28b-5906-438a-8b47-b0c68f00f1fb,41,Other,Lake Joshua,Electronics,Headphones,2/4/2025,440.45,Credit Card,No,4,No
+fc1ae4cf-60e8-45b3-ab42-ef8f1c2483a3,27,Male,Ianview,Clothing,Dress,2/3/2025,409.67,Cash on Delivery,No,4,No
+9a2b144a-339a-4d25-b340-8115dde24fb9,58,Male,Lake Michaelburgh,Clothing,Jacket,2/4/2025,280.94,UPI,No,2,Yes
+74a78124-b9d3-43b5-b552-82af9570fa46,40,Female,Deborahfurt,Clothing,Jacket,2/7/2025,53.39,Debit Card,No,3,No
+786732f6-e23b-4e72-8dc4-06ca603f7602,44,Other,South Jerry,Beauty,Lipstick,2/7/2025,398.78,UPI,Yes,4,No
+01ebcf79-2863-4a9b-b6ac-508a44ae79eb,40,Other,North Benjaminhaven,Clothing,T-Shirt,2/5/2025,23.86,Debit Card,Yes,3,Yes
+058a02c2-be75-46eb-8fe2-ac807a36a23f,43,Other,South Daniellefort,Clothing,Jacket,2/9/2025,452.59,Debit Card,Yes,1,Yes
+efe0c996-d1ff-49b8-9ba0-567245033196,54,Other,Jensenton,Home,Sofa Cover,2/4/2025,15.04,Debit Card,Yes,1,No
+03986494-a0a9-42ce-b971-569ae4bbb31e,39,Other,North Jacqueline,Home,Curtains,2/6/2025,95.6,Cash on Delivery,Yes,3,No
+110b274f-8c07-412b-831a-15477f71d0e9,18,Male,South Emily,Home,Cookware,2/1/2025,152.71,Debit Card,Yes,5,Yes
+8f8310fd-e737-4b08-b0ad-c454dd6cf901,47,Male,Lake Julieshire,Beauty,Face Cream,2/9/2025,336.65,UPI,No,2,No
+a25cf375-74bd-4364-85bc-be4a8268cfef,22,Other,Smithfort,Beauty,Face Cream,2/7/2025,25.41,Debit Card,Yes,1,Yes
+a955e701-6d76-4667-9935-8da5b83c0572,20,Male,Joshuastad,Electronics,Smartwatch,2/4/2025,132.67,Cash on Delivery,Yes,5,No
+71a7d6f2-7266-4bab-a6c4-8def5634ce78,31,Other,Georgefurt,Beauty,Perfume,2/4/2025,23.62,Credit Card,Yes,5,No
+ec74a76a-594a-4a16-82c2-28b91f65e3be,47,Other,West Kimberly,Electronics,Smartwatch,2/3/2025,385.57,UPI,No,5,No
+95e74909-1c1b-4ba2-be9e-1c3f8cea814d,36,Male,Edwardston,Home,Lamp,2/6/2025,38.07,Debit Card,No,5,No
+c5b7018e-f33a-444b-b660-c4a205424abd,42,Male,New Ashley,Clothing,Jeans,2/1/2025,48.12,Debit Card,No,4,No
+86cfcc0f-b374-49d2-a37b-669610309d69,47,Male,New Davidmouth,Beauty,Face Cream,2/5/2025,375.4,Debit Card,No,2,Yes
+38886140-41b2-4e8d-9157-682da5602760,44,Other,West Josebury,Clothing,Dress,2/9/2025,161,Credit Card,No,2,Yes
+accc929e-c382-4cd4-9b5e-2f3b20f9cd52,18,Other,West Paulport,Home,Sofa Cover,2/6/2025,499.99,Credit Card,Yes,3,No
+ecca1bd4-9c45-496d-a6da-9e98d7fccb87,59,Female,Lake Rachael,Beauty,Perfume,2/7/2025,445.41,Credit Card,No,5,Yes
+ee06f0a7-53d3-4412-acd1-31057966345e,50,Other,Port Keith,Electronics,Laptop,2/3/2025,407.56,Cash on Delivery,No,2,Yes
+7d6e6637-afce-44e8-9ec1-517b98a65062,57,Male,Brianfurt,Clothing,Jeans,2/4/2025,158.56,Cash on Delivery,No,3,Yes
+67071f82-a1d1-4684-8e0c-0da4c4c37434,32,Other,North Williamfurt,Clothing,Jeans,2/5/2025,316.89,UPI,Yes,5,No
+dd10af40-015d-44d6-b3ac-fbd805ec66c1,28,Female,North Jennifer,Beauty,Lipstick,2/2/2025,252.48,Credit Card,No,2,Yes
+4419bfc0-349a-476f-8e7e-28f44f99a98b,37,Male,Stevenschester,Beauty,Perfume,2/8/2025,476.84,Cash on Delivery,No,3,Yes
+9af43332-a160-41da-89b6-81a24373bed6,60,Male,Danielmouth,Beauty,Shampoo,2/5/2025,498.4,Credit Card,Yes,3,Yes
+3e2def43-54e5-44b2-9f74-5ee912ef7dcd,56,Other,West Michellemouth,Home,Cookware,2/6/2025,40.76,Cash on Delivery,No,5,Yes
+4d552ea0-58f4-43bb-8129-9b0da4b2bcb4,24,Female,New Alishaburgh,Electronics,Headphones,2/4/2025,472.11,Debit Card,No,4,No
+e2bb5811-ad82-4146-ac09-f4f804bd389c,28,Female,Port Evanland,Electronics,Smartwatch,2/1/2025,60.9,Credit Card,Yes,5,Yes
+cd8dcdb9-600e-402a-89ed-4b086ddfb59b,37,Other,West Dawnfort,Beauty,Perfume,2/7/2025,434.05,Cash on Delivery,No,5,No
+8c4710db-c8ff-4862-a5ac-6e523c538a19,23,Other,Hillmouth,Clothing,T-Shirt,2/7/2025,201.39,Credit Card,Yes,2,No
+8858bed0-328f-49d2-8125-d50b1684894d,37,Other,Smithtown,Beauty,Lipstick,2/5/2025,169.13,Cash on Delivery,Yes,5,No
+5c2fabb4-c5b3-421a-a572-8e59cb5a75ef,44,Other,New Regina,Electronics,Headphones,2/1/2025,72.23,UPI,Yes,5,Yes
+565cd373-bcb3-4b99-b34e-995d235204e7,18,Male,North Dana,Electronics,Laptop,2/1/2025,185.21,Debit Card,No,2,Yes
+79859c64-9dc1-46cd-a6c6-451c11056c54,19,Female,Marcusmouth,Electronics,Headphones,2/1/2025,451.31,Credit Card,Yes,4,No
+f07dd48d-d236-4719-9d60-cc3d16421acd,28,Other,Barbermouth,Clothing,T-Shirt,2/3/2025,256.9,Credit Card,No,3,Yes
+c60848a7-a1dc-47bc-84eb-86ae17090a9c,31,Other,Smithton,Beauty,Lipstick,2/7/2025,194.71,Debit Card,No,3,No
+02b8e265-4f28-4da6-9af2-31360af39217,19,Female,Jaclynport,Beauty,Perfume,2/3/2025,170.93,UPI,Yes,5,Yes
+3f9c9c94-5244-4146-a46c-2cd3c10383e3,38,Female,Smithland,Clothing,Jacket,2/5/2025,296.28,UPI,No,3,Yes
+418dcfb9-2d29-4883-87a6-08b9847ae0ea,28,Male,West Michael,Clothing,T-Shirt,2/9/2025,407.94,Cash on Delivery,No,2,No
+4c8905ce-5a77-4ec5-ba12-ca12a0629d2b,25,Female,East Daniellehaven,Beauty,Perfume,2/1/2025,193.31,Credit Card,Yes,4,No
+05de1bbd-e445-4424-a501-8407bff10768,35,Other,Thomasstad,Electronics,Headphones,2/2/2025,269.75,Credit Card,Yes,5,Yes
+131ad4c0-fe9d-4359-b834-2f2b6aea9dd4,20,Other,Pearsonhaven,Electronics,Smartwatch,2/5/2025,447.97,Debit Card,No,2,Yes
+643e6c89-186d-4788-8852-779cebef1ef5,58,Other,North Jenniferside,Beauty,Face Cream,2/1/2025,178.19,UPI,No,4,No
+88ad15a2-77ac-4a0d-8289-1efb80da4b96,26,Male,Aprilfort,Clothing,Dress,2/3/2025,206.91,UPI,Yes,3,Yes
+a6e560e5-4cb2-477f-92fb-2e69b50da1ce,59,Male,South Evelyn,Home,Sofa Cover,2/7/2025,74.76,Debit Card,Yes,1,Yes
+e307367c-ef6e-40fb-9b68-25704f91c6c8,46,Female,Lake Katherineborough,Electronics,Smartwatch,2/8/2025,107,Debit Card,Yes,4,Yes
+4647caf9-f584-4db0-ba53-ee0ccfbc5a7a,38,Other,Lake Karen,Beauty,Shampoo,2/5/2025,292.08,Debit Card,Yes,4,No
+d4261b24-b66d-4ccd-b7d9-be4bba1ab295,37,Female,North Michaelfort,Clothing,Jacket,2/5/2025,244,UPI,No,2,No
+8f50e4d7-c08c-4f2b-b46a-39c0536a02ec,50,Male,Delacruzstad,Clothing,Jacket,2/9/2025,188.25,Cash on Delivery,Yes,1,No
+7fd3043a-16a8-47b7-8438-0872facc2264,33,Female,Clarkmouth,Clothing,T-Shirt,2/2/2025,251.88,Credit Card,Yes,1,No
+f60f2554-d50c-46ac-a830-ba02ac0c45d7,54,Other,Port Edwardton,Electronics,Smartphone,2/9/2025,484.59,Cash on Delivery,Yes,5,No
+58bb02da-ee02-432b-83aa-42967c1c8fe5,49,Other,New Michael,Clothing,T-Shirt,2/6/2025,168.53,UPI,Yes,1,Yes
+c8c1c570-7d4d-4ee6-95a4-f2ea63f3d440,48,Female,Port Roberttown,Clothing,Jeans,2/9/2025,249.56,UPI,Yes,4,No
+16810e13-3090-4c34-a8ca-6c68fb6cc608,36,Female,Calderonfurt,Electronics,Smartphone,2/7/2025,173.7,Debit Card,Yes,2,Yes
+eb83ff5a-33f9-48b1-9f81-38c4f7e8ef43,34,Female,Port Michaelfurt,Electronics,Smartwatch,2/3/2025,139.06,UPI,Yes,1,No
+85714e97-934f-4d9a-8126-a64f8592555c,46,Other,Lawrencetown,Home,Curtains,2/6/2025,258.21,Debit Card,Yes,4,Yes
+84f725b7-7443-484c-b7d9-3447da512da6,46,Other,Hopkinsburgh,Clothing,Jacket,2/3/2025,252.76,Cash on Delivery,No,2,Yes
+c86416ab-438b-4ce6-8067-df97cb403cd4,37,Other,Gordonville,Home,Cookware,2/8/2025,95.81,Debit Card,No,5,Yes
+93a275dc-b6c7-4518-873e-595d30306f5f,22,Female,North Tiffany,Clothing,Jacket,2/6/2025,192.65,Cash on Delivery,Yes,5,No
+ad6cb058-5951-423d-9ba1-a330a226e37b,59,Male,South Jared,Home,Cookware,2/3/2025,91.42,Cash on Delivery,Yes,4,No
+c9bd6f4c-ae3d-478f-8458-2842bb2dec25,36,Male,Bryanshire,Beauty,Shampoo,2/2/2025,299.06,UPI,No,3,No
+44439c3d-f3d7-46ce-a537-f4905437fb6d,25,Female,Jenniferchester,Clothing,T-Shirt,2/9/2025,362.85,Debit Card,Yes,2,Yes
+9e0c28e6-ba79-4b78-8cd6-3ddb10595e37,34,Female,Carolberg,Home,Lamp,2/1/2025,263.51,Debit Card,Yes,4,No
+51518a58-c273-401b-8e86-4340b1b68064,41,Female,Matthewmouth,Electronics,Laptop,2/7/2025,207.82,Credit Card,Yes,2,Yes
+e39e5963-1dd6-4768-a055-747f802c17ba,23,Female,Silvamouth,Electronics,Laptop,2/5/2025,249.05,UPI,Yes,4,No
+59dc3ea0-f823-4404-87ae-8fbbd5e682b0,47,Other,Jacquelineville,Home,Lamp,2/8/2025,165.74,Debit Card,Yes,5,Yes
+0377d219-6433-42f0-a407-1031231579cd,45,Other,West Kimberlyland,Home,Lamp,2/2/2025,71.46,Credit Card,No,2,No
+c73d3f30-3d94-4700-a417-d1737c370e3e,34,Other,South Robert,Clothing,Jacket,2/2/2025,62.47,Credit Card,No,4,Yes
+91566484-ad2b-41d0-b5a2-39eb822e3c59,51,Male,New Melissaton,Electronics,Laptop,2/4/2025,291.08,Credit Card,Yes,1,No
+ef0c23a5-fbb0-4e6b-93ca-9bb743314992,37,Female,Cynthiastad,Clothing,Jacket,2/4/2025,184.74,Credit Card,No,1,No
+e3320325-48a3-4562-922b-0d160d8c4de5,59,Female,Brandonchester,Clothing,T-Shirt,2/8/2025,469.22,UPI,No,4,Yes
+0df31bc4-50d1-488a-a8c7-abee99d65e7e,26,Female,Lake Lori,Electronics,Laptop,2/3/2025,381.08,Cash on Delivery,Yes,1,Yes
+3c6ee234-274c-48c5-8d32-78e324d58d5e,29,Female,Lesliebury,Beauty,Shampoo,2/8/2025,474.62,Cash on Delivery,Yes,4,Yes
+59bcc8aa-f8ee-4100-932b-b598c9f86d31,32,Female,Keithhaven,Clothing,Jeans,2/4/2025,100.16,Credit Card,No,1,Yes
+e09e633b-adf9-4e38-8d5d-74363177fb31,49,Female,East Stevenfurt,Clothing,Jeans,2/5/2025,179.91,Debit Card,No,5,No
+df981774-48ae-473f-a9d2-b62e9b0cb1c6,40,Female,Lake Chelseahaven,Home,Lamp,2/2/2025,21.44,UPI,No,3,Yes
+f5017a1f-fac7-4430-8519-b00bca51a6ee,44,Male,Lake Brentside,Clothing,Jeans,2/7/2025,358.4,UPI,Yes,2,Yes
+0eddbabc-eae7-4b86-99c7-d571cd574161,37,Other,Johnsonfort,Electronics,Smartwatch,2/4/2025,493.65,Cash on Delivery,No,1,Yes
+0c21e26f-fe7d-42ec-aafa-81ad2a30e724,40,Other,West Francis,Electronics,Laptop,2/1/2025,465.45,UPI,No,3,Yes
+3a124cce-cb04-48db-8996-a6af0dda009e,54,Male,Ericland,Electronics,Headphones,2/6/2025,263.38,Cash on Delivery,No,1,Yes
+d9e714f3-9a47-4b94-b076-1fca9b5679a8,21,Male,Port Brianshire,Home,Sofa Cover,2/3/2025,389.93,Credit Card,Yes,4,Yes
+f8ae7b5b-32fb-42a1-897e-db790afe8f9a,37,Female,Maryport,Beauty,Lipstick,2/9/2025,394.6,Debit Card,No,3,No
+e1efacac-cc25-41aa-90aa-bd33bfc24f73,53,Female,Port Matthewfurt,Clothing,T-Shirt,2/6/2025,152.49,UPI,Yes,1,No
+d0ced71b-18d4-4abf-a69b-2c0c9cad31e0,24,Other,Guerraville,Electronics,Headphones,2/6/2025,184.89,Cash on Delivery,No,4,Yes
+2d6aa981-fe92-40bc-9088-7013882d4876,40,Male,West Brett,Beauty,Shampoo,2/4/2025,121.36,Credit Card,Yes,2,No
+d53bbf43-2cac-4d40-9d7d-37e74c3342c4,36,Male,Veronicaside,Electronics,Laptop,2/7/2025,359.2,UPI,No,1,Yes
+e03bd121-261f-4280-a550-79b2331f4e97,21,Male,Ortizborough,Home,Curtains,2/4/2025,460.88,Debit Card,No,5,No
+b07edc63-4b29-4dfd-bc7c-54b9ce73e35d,24,Female,Seanstad,Beauty,Shampoo,2/6/2025,491.52,Credit Card,No,1,Yes
+947ff058-7049-45f7-8999-522c4fe18e53,53,Female,North Samanthashire,Clothing,Jacket,2/4/2025,470.81,Credit Card,No,4,Yes
+6de7b0c9-3d2e-4d6d-93fe-eb93060221c9,19,Male,Royburgh,Electronics,Smartphone,2/9/2025,388.61,Cash on Delivery,No,2,Yes
+e067fee2-bfa7-4a20-a31d-150f42800dfc,55,Male,Scottborough,Clothing,Jeans,2/2/2025,369.77,Cash on Delivery,No,2,Yes
+55c9473f-d261-4a30-814c-4d244e03ff2c,37,Female,Maryfort,Home,Sofa Cover,2/1/2025,142.19,Credit Card,Yes,5,No
+f95248ab-fd29-4946-aaa2-36b5b5e0c087,54,Male,Ramirezborough,Home,Lamp,2/5/2025,81.72,Cash on Delivery,No,5,No
+e826be81-2b0b-4af0-8593-cfd03d5adab3,22,Male,Joelstad,Home,Curtains,2/7/2025,454.1,Debit Card,No,5,No
+db59b45f-0e44-4988-b653-0f57bb0890b5,60,Male,Lake Stephenburgh,Clothing,T-Shirt,2/5/2025,133.71,Credit Card,Yes,5,No
+cf26a53a-aa0e-4e89-8e51-fd6cb5b8845b,53,Female,South Ann,Electronics,Laptop,2/7/2025,329.19,Cash on Delivery,No,3,Yes
+7c9fb8a3-34c3-4b97-80fe-802e4ee9b2ee,35,Other,Stephenshire,Electronics,Laptop,2/1/2025,139.36,UPI,Yes,5,No
+512eed4a-e45a-46bb-8f8c-970996de5cc9,39,Female,Toddmouth,Home,Lamp,2/5/2025,450.75,Cash on Delivery,No,3,Yes
+f6aa4193-68e9-4ce6-b552-785f1252890e,37,Female,Lake Oscar,Beauty,Shampoo,2/7/2025,429.29,UPI,Yes,3,No
+48c4efe6-5cab-464d-8995-c94dc1116063,33,Other,Leeview,Beauty,Perfume,2/5/2025,430.11,UPI,Yes,2,Yes
+71f1261d-94bd-471d-9dd6-ed70fcba78b4,34,Other,West Kendra,Electronics,Headphones,2/1/2025,45.82,UPI,No,5,Yes
+db10caaa-cce1-45ec-aa3b-a53ff9666410,26,Female,Hoffmanburgh,Clothing,Jeans,2/2/2025,368.51,Credit Card,Yes,5,No
+45570d39-c6f0-4c6a-baa0-532b53fd317e,58,Other,Katherinebury,Beauty,Shampoo,2/6/2025,401.08,Cash on Delivery,Yes,4,Yes
+7dab1709-1066-422a-9b53-26aed55cccd8,25,Female,Ashleyville,Beauty,Face Cream,2/3/2025,30.42,UPI,Yes,1,Yes
+e98f7c50-00b6-4e1d-b7bb-7060a0dde518,22,Other,South Elizabethhaven,Electronics,Headphones,2/2/2025,441.91,Credit Card,No,1,No
+f6408c33-df8a-4085-ad18-e0b87217f31a,53,Other,Martinezland,Clothing,Jeans,2/6/2025,178.26,UPI,Yes,5,Yes
+1c0d2b9d-249b-4064-a25f-6a798c0b8f11,19,Male,Port Emilyshire,Electronics,Smartphone,2/2/2025,147.76,Cash on Delivery,No,1,Yes
+78102314-07a3-4908-9320-2e2554f93e67,39,Male,West Herbert,Beauty,Lipstick,2/4/2025,195.76,Debit Card,Yes,3,Yes
+c33a45c1-1727-40c2-a76e-e645ab507f19,38,Other,West Jonathanton,Clothing,Jeans,2/3/2025,310.68,Debit Card,Yes,2,Yes
+450fea2c-446d-451d-a996-21661101016e,23,Other,West Lisachester,Clothing,Jacket,2/8/2025,121.76,UPI,No,2,Yes
+1fc4605d-f5ec-4794-a1aa-0a3d5806a880,58,Female,Lake Beckyberg,Beauty,Face Cream,2/8/2025,453.42,Debit Card,Yes,2,No
+b3080eb9-bfc1-4d71-9387-f451ead1415c,36,Other,Port Benjamin,Clothing,Jacket,2/3/2025,469.32,Cash on Delivery,No,2,No
+97c3795e-20b6-4ee3-baf8-528b4a80541d,55,Other,East Leefort,Beauty,Perfume,2/1/2025,215.83,Credit Card,No,4,No
+f6179a69-feb3-49b1-969b-d617e65777a7,50,Other,West Sheriland,Clothing,Jeans,2/8/2025,383.19,Debit Card,Yes,3,Yes
+4d631ac9-1542-468f-9687-ce6e1a778472,46,Male,North Stephanie,Beauty,Perfume,2/6/2025,109.73,Credit Card,No,2,No
+3bf21792-ccef-4610-9876-82b980c1f607,40,Other,New Courtneyview,Home,Cookware,2/3/2025,113.52,Cash on Delivery,Yes,1,Yes
+95e95d49-a3bd-4284-8d64-8d597673e7e3,42,Female,West Allenchester,Clothing,Jacket,2/1/2025,224.88,Credit Card,Yes,4,No
+3211c97d-cbdf-4c4a-8faf-4984ebf84fb8,51,Other,Louisburgh,Home,Lamp,2/8/2025,189.36,UPI,Yes,5,Yes
+4af3759c-0c15-48c2-91e7-2c6c15d68ca8,56,Other,East Tyler,Beauty,Perfume,2/9/2025,45.99,UPI,Yes,4,No
+4d8ae85c-7c31-42a3-9aa1-828b97736b13,39,Other,Robinburgh,Clothing,Jacket,2/8/2025,146.1,Cash on Delivery,Yes,4,Yes
+02b61b4c-5102-4992-a58c-bf6ffd4d8a33,59,Male,Hardymouth,Beauty,Lipstick,2/9/2025,136.2,Credit Card,No,2,No
+f2813f4b-343a-4224-b5f0-9a770251442e,56,Male,Bakerfort,Electronics,Smartphone,2/1/2025,19.82,Cash on Delivery,Yes,3,No
+6301a162-a2ad-4957-90be-a4cb59c99c0c,48,Male,West Allison,Electronics,Smartwatch,2/3/2025,386.85,Credit Card,Yes,3,No
+cacdd841-ff84-4c89-932c-f733d46cf71f,56,Other,Port Hannahport,Beauty,Perfume,2/9/2025,346.02,Debit Card,No,4,Yes
+da2c9783-61aa-4e32-bdc7-9f2b5f554d5c,45,Other,Port Gabrielle,Clothing,T-Shirt,2/8/2025,32.03,Credit Card,No,3,Yes
+fbaa7573-8e4e-41a3-95ae-532f8addd7da,20,Male,Port Keith,Clothing,Jeans,2/1/2025,36.5,Credit Card,Yes,4,Yes
+cb3a6c9e-8d77-48f0-bded-32f3f198102d,19,Other,South Frankport,Home,Sofa Cover,2/4/2025,290.88,Cash on Delivery,No,3,Yes
+75e338e5-cfea-4d0c-ac80-313a7aa37bd5,55,Other,North Angela,Beauty,Lipstick,2/2/2025,24.92,Credit Card,No,3,No
+51cd4a82-bd7e-4bfe-af28-e7f950a494f2,38,Female,Veronicashire,Beauty,Shampoo,2/8/2025,239.51,UPI,Yes,5,No
+c39dca7b-bee8-4860-bbc5-b07fe0b24046,60,Other,East Sara,Clothing,Jacket,2/3/2025,54.25,Debit Card,No,2,Yes
+070dfe5c-f941-4d80-b633-02efbf41948a,25,Male,Jasonton,Home,Curtains,2/2/2025,141.71,Debit Card,Yes,3,Yes
+581fc5e3-7ec1-4a64-b181-38cbb4af89da,57,Other,Port John,Beauty,Shampoo,2/4/2025,294.71,Debit Card,No,1,Yes
+a6ce1396-6442-469d-8022-a52a37f36e09,45,Female,Jeremiahstad,Clothing,Jacket,2/1/2025,89.16,UPI,Yes,1,Yes
+21bc5a0d-efe0-4fb0-901f-cb20ddae8538,30,Female,Cherryhaven,Beauty,Lipstick,2/8/2025,49.35,UPI,No,2,No
+f9840a7b-11c9-495e-aa67-836cd293d7a3,25,Other,North Tinastad,Clothing,Jeans,2/6/2025,472.35,Debit Card,No,1,No
+f9bd255a-c685-4992-a5a2-f395675e0a3e,52,Male,North Petermouth,Clothing,Jacket,2/4/2025,39.38,UPI,No,2,No
+bf0c9bc2-c6bd-4b75-aa22-07ebdfd0ce6b,39,Female,Josephfurt,Home,Sofa Cover,2/5/2025,134.05,Credit Card,No,2,Yes
+f814932e-8214-446c-8652-23356b93d8fd,50,Female,Deborahborough,Home,Curtains,2/3/2025,178.42,UPI,No,2,No
+b98e6042-74cc-401e-a48a-d870e1ed9ac0,37,Male,Stewartburgh,Beauty,Lipstick,2/9/2025,195.03,UPI,Yes,4,Yes
+8cc1bccd-0efa-41f3-b53f-81b8b18559ea,21,Other,Lauraport,Home,Curtains,2/6/2025,267.62,Credit Card,Yes,5,No
+2b461c0f-a9b5-4c5f-aafa-f10bda0aff7e,29,Other,Bowersfort,Clothing,Dress,2/7/2025,466.29,Cash on Delivery,No,3,No
+c09e0ba0-a03b-470e-addc-65d2af91a7ba,49,Female,Camposborough,Electronics,Smartphone,2/1/2025,384.41,UPI,Yes,1,No
+8f48fc06-7b09-47a8-8a52-d194139120f8,26,Male,New Melissamouth,Clothing,T-Shirt,2/3/2025,385.35,Credit Card,No,3,No
+8f0e9560-0ba3-4715-ad91-6a101ae12fb1,58,Other,Christopherside,Electronics,Headphones,2/4/2025,78.83,Credit Card,No,2,Yes
+70242962-6939-434f-b0d2-5fc29f6dbbac,42,Other,Loganshire,Beauty,Face Cream,2/9/2025,21.2,UPI,No,5,No
+face304c-e2c8-47d8-b1d8-933df9c034c9,20,Male,Davidburgh,Electronics,Smartphone,2/9/2025,184.77,UPI,Yes,1,Yes
+5dbfc889-e552-41a2-a58f-775c9bf16e66,21,Female,West Anthony,Beauty,Perfume,2/8/2025,450.51,Cash on Delivery,No,5,Yes
+f6c323a7-cc33-4b66-b8bc-2221761e687c,56,Other,South Deannamouth,Beauty,Face Cream,2/3/2025,194.6,Credit Card,Yes,1,Yes
+b6da351b-6e90-4bb7-9aaf-d6797dabcc09,28,Male,East Alexander,Electronics,Smartphone,2/4/2025,220.1,Debit Card,No,5,Yes
+89112868-e702-4f0c-bbe4-66230ec2a3c0,37,Male,Robertbury,Home,Cookware,2/2/2025,492.4,Credit Card,No,2,Yes
+5bb4eda7-8c64-4868-a11e-6b3490521c88,39,Other,Michaelview,Beauty,Perfume,2/4/2025,152.61,Cash on Delivery,Yes,4,Yes
+ac5cdf77-2404-404d-a398-9f25ceae6032,46,Female,Michaelland,Beauty,Face Cream,2/5/2025,299.07,Debit Card,Yes,4,Yes
+4a6970b2-30c6-4e26-b77f-2a593bc79ab9,53,Other,Marctown,Clothing,Dress,2/2/2025,31.64,Cash on Delivery,Yes,3,No
+ac92e801-0d4e-4c8f-8154-8618135bb18e,59,Male,Jonesbury,Home,Lamp,2/2/2025,491.59,Cash on Delivery,Yes,4,No
+e0b67038-2ef0-4ad2-8aca-42ed67b30201,31,Male,Lake Jason,Home,Curtains,2/8/2025,243.26,Credit Card,Yes,4,No
+e911d3f0-f8c4-4dde-8cdc-c34f55003c15,33,Other,Landryland,Beauty,Perfume,2/4/2025,32.5,Debit Card,No,3,No
+14bd45a4-7371-4825-a813-8ffd62ceb853,37,Male,Scottmouth,Clothing,Dress,2/7/2025,326.08,Credit Card,Yes,4,Yes
+7eab147e-528d-4dff-bca8-0898c33975a3,41,Female,Moonport,Clothing,Jacket,2/7/2025,159.33,Credit Card,Yes,1,Yes
+b7693063-4b8e-4397-bf28-a169a1947f8d,23,Other,South Wendyburgh,Home,Lamp,2/1/2025,91.04,Cash on Delivery,No,5,Yes
+25563502-3442-4a1b-976c-c2ce33c0e371,59,Male,Chavezberg,Electronics,Smartwatch,2/5/2025,328.98,Cash on Delivery,No,3,No
+858fe285-045d-4384-90d7-86dcfc92145a,48,Female,Joshuachester,Electronics,Smartphone,2/5/2025,350.38,Credit Card,Yes,3,No
+54eb7105-e6db-48ab-a772-40fcd8852bed,31,Other,New Lauramouth,Clothing,Dress,2/8/2025,331.6,Cash on Delivery,Yes,5,No
+25a854e0-6dea-43a0-8bed-a95168ee861b,33,Male,Port Kristishire,Electronics,Headphones,2/1/2025,427.18,UPI,Yes,4,Yes
+f25b074f-6196-405b-b4d4-ab22ebf48fa9,55,Male,Lauriefort,Home,Curtains,2/7/2025,189.05,UPI,No,4,Yes
+23e7d10c-ccfd-4278-ade1-2eb39b4dcac7,38,Female,North Josebury,Home,Lamp,2/9/2025,370.17,UPI,No,3,Yes
+6ca49924-cf7f-4db6-a160-de09c1220eda,44,Other,Michaelmouth,Home,Cookware,2/1/2025,451.99,Debit Card,No,3,No
+be7a5dc1-7f8c-4769-9c5f-2b7d6bb11a71,47,Other,East Jaimemouth,Beauty,Face Cream,2/4/2025,170.72,UPI,Yes,4,Yes
+650a18fb-e7b8-4734-8043-b9611b33b88e,48,Male,Christianberg,Clothing,Jeans,2/1/2025,365.22,UPI,Yes,1,Yes
+52096c20-7488-4248-a62f-b0a5e77dbdd5,38,Female,Scottmouth,Home,Lamp,2/8/2025,485.27,UPI,Yes,5,No
+f55041d3-7808-47ff-beae-54acb545ca96,44,Male,Lake Kimberly,Home,Sofa Cover,2/7/2025,281.67,UPI,Yes,5,Yes
+4ae8fbb8-9c61-4eae-bacd-7e6b7542de1b,25,Male,East Garytown,Clothing,Jeans,2/6/2025,223.42,Debit Card,Yes,4,Yes
+e6d22088-b4b7-4c10-bf6d-bfaaf78bd253,46,Female,Michaelmouth,Electronics,Smartphone,2/7/2025,484.91,Cash on Delivery,No,2,Yes
+fa6eeb79-cf5e-4261-91bf-89f9aebf9ef3,30,Male,North Davidborough,Home,Lamp,2/7/2025,33.8,UPI,Yes,3,Yes
+d7cc68db-3f2e-4581-b826-6b0790811071,49,Other,East Jamie,Beauty,Face Cream,2/8/2025,82.43,Cash on Delivery,Yes,2,No
+e8972f37-3d97-4e04-b31e-88cc3a5b26b1,49,Other,East Paulshire,Beauty,Shampoo,2/1/2025,340.86,Credit Card,Yes,2,Yes
+2bc0f52e-36ea-4396-929e-a36d00bfa37d,45,Other,Fergusonshire,Electronics,Laptop,2/7/2025,165.84,Credit Card,Yes,4,Yes
+ab6b5768-c6bf-4f57-918a-37d00e39846f,38,Other,Toddberg,Beauty,Face Cream,2/7/2025,217.33,Cash on Delivery,No,2,Yes
+2482345a-988b-4d23-a0c8-b158447d7ffe,35,Male,New Karatown,Home,Lamp,2/9/2025,121.81,Cash on Delivery,Yes,1,No
+26a80989-9beb-4b38-8020-77ed00d93c7a,19,Male,Arnoldmouth,Electronics,Smartphone,2/9/2025,99.09,Debit Card,Yes,5,No
+91ce593a-2d10-4811-829c-beddc74de330,30,Male,Christopherport,Home,Curtains,2/3/2025,322.39,Debit Card,Yes,2,No
+31c2fb50-6c16-4ea9-a5eb-dcce8709b74a,20,Other,Johnsonchester,Home,Lamp,2/8/2025,27.16,Cash on Delivery,Yes,1,Yes
+8cbc67df-6b25-4667-81fc-350e331b726e,34,Other,New Jasonshire,Clothing,Jacket,2/2/2025,107.74,Debit Card,Yes,3,No
+df2a47df-5467-454b-87f3-0a0cde021034,36,Male,Richardsonchester,Beauty,Shampoo,2/4/2025,469.01,UPI,Yes,1,No
+62298179-26f8-4685-90cd-d9c5de3a81af,42,Other,Sanchezberg,Clothing,T-Shirt,2/9/2025,308.61,Cash on Delivery,Yes,4,Yes
+1f231de3-c34c-41ea-9634-4496c6b224bc,52,Other,Arthurhaven,Beauty,Shampoo,2/3/2025,16.99,Debit Card,Yes,1,No
+6480dd8c-c252-4139-96f6-82b5dccfba1d,44,Other,Boonemouth,Electronics,Smartphone,2/6/2025,429.39,Debit Card,No,2,No
+817f2867-f1e7-4fdb-9f14-67b6b8560b6c,54,Female,Grimesbury,Home,Lamp,2/9/2025,178.52,UPI,No,5,Yes
+73906547-2134-416b-988d-3103526220f8,19,Male,East Victoriaburgh,Beauty,Shampoo,2/8/2025,422.3,UPI,Yes,2,Yes
+cd76f2c2-1ba4-4a2c-bccd-15974ec8fe05,44,Female,Mcculloughport,Electronics,Smartwatch,2/5/2025,85.06,Cash on Delivery,Yes,4,No
+ff5587d1-e875-4239-b49a-89f5d157ea8a,34,Female,Hannahfurt,Home,Lamp,2/4/2025,205.49,Cash on Delivery,Yes,5,Yes
+c3488acc-90b4-4a0c-a98d-abb576ed559b,42,Female,Stewartstad,Beauty,Perfume,2/6/2025,32.07,Cash on Delivery,No,2,No
+01ca6b9a-8640-40b6-90bc-5cb30eec03be,29,Female,West Megan,Clothing,Dress,2/2/2025,269.74,Credit Card,Yes,5,Yes
+008992e4-eeeb-4515-8c8d-c59c93b5e54c,57,Female,East Evelynshire,Electronics,Smartwatch,2/4/2025,277.06,Credit Card,No,5,No
+8afd526b-3bcb-4ea5-a032-df7e012a015e,44,Female,West Emily,Home,Sofa Cover,2/5/2025,169.46,Credit Card,Yes,1,Yes
+b723e1de-0ba0-40e4-8304-54b516074d75,51,Other,New Kimberly,Electronics,Headphones,2/6/2025,281.32,Credit Card,No,4,Yes
+7f679766-da2d-41ea-844c-5eb6e92d76da,53,Female,North Melanie,Beauty,Shampoo,2/5/2025,193.86,Credit Card,No,5,No
+ff8b4013-049a-4a20-8ccf-b2522b2c6456,25,Female,Lake Jonathan,Clothing,Dress,2/9/2025,142.69,Credit Card,No,4,No
+17e521e0-f0a4-4dfc-af7d-12f59bac1d52,48,Other,Rodriguezburgh,Home,Cookware,2/8/2025,238.51,Cash on Delivery,Yes,2,No
+6689fe9d-cadc-47d1-b492-cf61e2d32481,26,Male,South Rachelland,Beauty,Perfume,2/7/2025,379.91,UPI,No,4,No
+71c11070-960c-4db3-84cb-3dd65a4a4304,25,Female,Hernandezberg,Beauty,Shampoo,2/7/2025,144.99,UPI,No,2,No
+be3f9304-58a7-43c3-8f41-a2fc30f26ad3,33,Other,West Aaronton,Electronics,Headphones,2/7/2025,391.1,Credit Card,No,2,No
+f0708934-5834-4059-9f0f-102250ce9f14,45,Other,North Matthew,Beauty,Lipstick,2/9/2025,290.87,Credit Card,No,1,No
+84d1a474-1b5c-449a-93a0-bf6831381ecd,24,Other,Sancheztown,Clothing,Dress,2/6/2025,66.96,Debit Card,No,4,Yes
+33117d01-8a3e-437d-abc2-0306e5e30b9a,47,Other,Christopherland,Home,Lamp,2/6/2025,485.45,Credit Card,Yes,4,No
+5550965c-5241-4b5d-871a-6f71956b3f17,43,Female,Andrewmouth,Home,Sofa Cover,2/3/2025,31.94,Cash on Delivery,No,5,Yes
+ec85cdef-fddb-447d-b3a8-26c1a4b14f91,48,Other,Christophershire,Electronics,Smartphone,2/7/2025,351.13,Debit Card,No,4,Yes
+cc30e7d5-6a08-40cd-83a2-f22158e8ab4d,59,Other,West Amberland,Electronics,Smartwatch,2/5/2025,412.85,Debit Card,No,1,No
+3eea6a8e-d100-4cfa-ad3f-aaaca343644f,41,Male,Warrenhaven,Clothing,Jeans,2/8/2025,278.91,Credit Card,No,2,No
+ebb9c562-3b64-499e-a34d-2d979ce9090f,33,Male,Brownshire,Beauty,Face Cream,2/9/2025,408.22,Credit Card,No,1,Yes
+eefb85a3-f64e-4abb-8bca-68e69592ed62,45,Other,Port Michelletown,Electronics,Smartphone,2/6/2025,449.99,Debit Card,Yes,3,No
+48d2eb73-91b3-4edd-9e32-b92b424d233e,41,Other,Wolfshire,Electronics,Smartwatch,2/8/2025,396.81,Cash on Delivery,Yes,1,No
+32d89dbb-d514-4c7b-8ba7-d835ced7363e,32,Other,Mirandastad,Beauty,Perfume,2/3/2025,114.19,Debit Card,No,3,No
+ef7fdcd5-b34a-446c-877b-e38712904b89,49,Male,Christineville,Home,Curtains,2/7/2025,205.82,Credit Card,Yes,5,No
+e9aebacd-0014-4560-b215-db42cb35bd05,34,Other,Lake Richard,Electronics,Smartphone,2/9/2025,41.89,Credit Card,No,2,No
+059abefe-e761-4d8f-940e-ade06c0ce77a,41,Female,Gardnerbury,Electronics,Smartphone,2/6/2025,53.1,Debit Card,No,2,No
+d3d96dd6-3895-4611-bac0-88c429aa3a23,50,Male,Hayeshaven,Electronics,Headphones,2/6/2025,449.43,Credit Card,No,5,Yes
+7cb101c1-5998-48d1-b174-da381e477ac9,37,Other,Kristinaview,Home,Curtains,2/2/2025,39.71,Cash on Delivery,Yes,5,Yes
+9d38c323-5446-4fb7-93ac-28bf9f7eb3b7,19,Male,North Kirstenbury,Clothing,Jacket,2/6/2025,304.63,UPI,No,4,Yes
+80e63c13-7af3-4cac-8a8b-69b84b6addf6,57,Female,West Jamesmouth,Electronics,Smartwatch,2/9/2025,450.52,Cash on Delivery,No,5,Yes
+815021a6-fef0-4786-817e-08c2ebecf9db,46,Male,Williamstad,Home,Cookware,2/3/2025,86.25,UPI,Yes,4,No
+679605eb-0ff9-4641-9043-d40ef0c0865d,55,Male,Shirleyshire,Electronics,Headphones,2/2/2025,447.66,Cash on Delivery,Yes,4,Yes
+b5e228a9-fd1a-4fb3-8fa3-0df3ab82a1af,48,Female,Lake Jenniferstad,Beauty,Face Cream,2/3/2025,420.35,Credit Card,Yes,3,Yes
+300b872b-6fcc-4f1c-b2f4-0ad95fd3e1ed,36,Female,Port Samuel,Beauty,Face Cream,2/1/2025,227.41,Debit Card,Yes,1,No
+b98d2b01-4901-4316-baa2-3925cc216f11,40,Female,Jennifershire,Clothing,T-Shirt,2/6/2025,351.41,Credit Card,Yes,2,No
+bcebe215-128c-4728-a1c0-717635648416,50,Other,Josephtown,Beauty,Perfume,2/8/2025,151.5,Cash on Delivery,No,4,No
+70850481-f6bf-43fa-85ef-32f389d206ec,21,Female,North Jacqueline,Clothing,Dress,2/4/2025,89.09,Debit Card,Yes,2,Yes
+4578e658-aa28-4ca7-9f35-0b66bacb9801,44,Female,North Jason,Home,Lamp,2/9/2025,405.35,Cash on Delivery,No,2,Yes
+15b94b03-d32f-43d7-976b-fad87cf4793b,35,Female,Payneland,Electronics,Laptop,2/1/2025,161.81,Cash on Delivery,No,1,No
+9e72b5ac-160f-483c-8671-b825c364a267,41,Other,Nicholasburgh,Beauty,Face Cream,2/4/2025,278.47,Credit Card,Yes,4,Yes
+cb2311e8-f455-4b12-9ce1-13026571735f,56,Male,West Arianachester,Beauty,Shampoo,2/1/2025,292.22,UPI,Yes,2,Yes
+6a5d1a7b-337f-4c5b-8162-18646f3466a6,42,Male,Fieldsberg,Home,Sofa Cover,2/8/2025,194.97,UPI,No,5,No
+a3be24d7-2bdf-41ed-b1c3-0efd01eb88fc,25,Female,Jennifertown,Home,Curtains,2/9/2025,260.92,Debit Card,No,5,No
+5ce47201-d38e-46bb-8aa1-5e7a1c07f95e,26,Other,Hopkinsview,Home,Lamp,2/7/2025,241.78,Cash on Delivery,No,1,Yes
+b81c675c-8649-472c-88fc-1c727e2db44e,56,Male,Rodriguezfort,Clothing,T-Shirt,2/5/2025,254.36,UPI,Yes,5,No
+815f7148-24ba-4dfd-bd75-360476ed38b4,23,Female,West Cathy,Home,Cookware,2/6/2025,179.31,Credit Card,No,5,No
+1d77da0a-7c2b-4086-9185-dfba5f50c171,56,Female,East Robert,Home,Cookware,2/1/2025,383.04,Credit Card,No,2,No
+f76e4415-b90c-49ec-9074-b86d3dcb2986,35,Female,Tuckertown,Home,Curtains,2/2/2025,452.86,Debit Card,No,3,No
+2c66d5b5-b238-440b-bca7-c4bd509ab692,46,Other,South Lorraine,Beauty,Shampoo,2/7/2025,404.59,Cash on Delivery,No,5,Yes
+0d37607a-7431-4dde-99ff-5fde634ea971,48,Male,Ramosborough,Beauty,Face Cream,2/5/2025,217.08,UPI,No,2,No
+00e074e5-9b8b-46d1-be6f-b71200bc1b29,32,Male,Juarezfurt,Beauty,Perfume,2/2/2025,382.61,UPI,No,3,Yes
+927894cc-93d8-4d3f-9187-0d5965ba3628,26,Male,New Christianhaven,Electronics,Smartwatch,2/4/2025,483.54,Cash on Delivery,No,3,Yes
+ed254218-0352-4404-af2d-339bfdab250c,37,Other,West Elizabethville,Clothing,Jeans,2/5/2025,60.62,Cash on Delivery,Yes,2,No
+011c6876-aeff-41e1-8ad6-8c64296adfd1,39,Female,Underwoodfurt,Beauty,Shampoo,2/6/2025,72.07,Credit Card,Yes,3,Yes
+9ee87303-6f1e-4c67-a1ae-2d7ad471d76f,51,Female,Lanceside,Home,Lamp,2/8/2025,58.99,Credit Card,No,1,No
+6df5c43b-4719-491f-a876-cdb76defc692,45,Male,Frankshire,Clothing,Dress,2/8/2025,50.69,Debit Card,No,5,Yes
+a877edce-bbf8-49ff-a776-f8863f0a65f1,52,Male,Allisonfurt,Home,Cookware,2/2/2025,492.92,Credit Card,Yes,2,Yes
+e6af96dd-ac47-4035-973c-29686f4e5968,27,Other,East Jill,Electronics,Laptop,2/7/2025,320.69,Debit Card,Yes,1,Yes
+eed19ead-e932-41c9-8777-5c56e124e233,33,Female,Lake Scott,Clothing,Jacket,2/8/2025,107.02,UPI,Yes,2,No
+13d8a022-177c-4c91-b97e-d59b8cfee925,29,Female,North Jeffrey,Electronics,Laptop,2/6/2025,249.29,UPI,No,2,Yes
+58d52bec-79da-4aec-a2f7-10ff99ac5e4f,34,Other,Port Jessica,Beauty,Face Cream,2/1/2025,302.61,Credit Card,No,1,No
+192f967a-f294-49bc-a82d-d7d53df128de,52,Other,North Katelynmouth,Beauty,Perfume,2/1/2025,72.58,Cash on Delivery,Yes,1,No
+790055db-e32b-4446-8f44-b5cf4fc4f50e,19,Other,South Justin,Clothing,Dress,2/6/2025,490.64,Credit Card,No,2,No
+d65a3bd0-b89e-4c1e-a3e9-9efe8f3bccfa,59,Other,Randyland,Beauty,Perfume,2/8/2025,202.17,Debit Card,Yes,4,No
+d718c1f7-5b88-43b0-a491-cf6b4b4a1acc,28,Other,Ellisstad,Beauty,Shampoo,2/8/2025,32.44,Credit Card,No,5,Yes
+9f54755c-e323-47f5-bf20-90a0544435b5,40,Male,Smallside,Clothing,Dress,2/3/2025,132.46,Cash on Delivery,Yes,4,No
+f61240ed-f373-4c9d-836d-1984484900ee,59,Other,Stevenbury,Clothing,Dress,2/4/2025,46.73,Cash on Delivery,No,1,No
+9eaa9d11-ae65-4d65-adfd-edb30fbfb557,36,Other,North Heather,Home,Sofa Cover,2/8/2025,330.63,UPI,No,2,Yes
+08f11524-56ea-4e1a-972f-7d60c6c23cee,22,Female,West Shelly,Electronics,Smartwatch,2/7/2025,435.93,Cash on Delivery,Yes,2,Yes
+cb0d3c53-e1f5-43e0-94dc-b2d2c9c6eb5a,36,Male,South Christian,Beauty,Face Cream,2/8/2025,169.95,Debit Card,No,3,No
+62cc5329-b861-49b1-b922-a07fbacbc438,42,Other,Greerfurt,Clothing,Dress,2/3/2025,96.53,Cash on Delivery,No,4,No
+3819ddc4-4de1-4d1d-b9ce-4cd04777772f,33,Male,Laurastad,Beauty,Lipstick,2/3/2025,121.96,Debit Card,Yes,2,No
+25617ad9-b0a2-46c6-b8bf-fdd291a78f62,58,Female,North Michael,Home,Cookware,2/6/2025,455.33,Debit Card,No,1,Yes
+27e71455-c1cb-41f9-bd63-6484fc722ad5,23,Other,Lake Markland,Beauty,Face Cream,2/6/2025,478.5,Credit Card,Yes,5,Yes
+991cb67c-5433-4251-b647-711946d09762,27,Male,Phyllisside,Electronics,Laptop,2/8/2025,145.67,Cash on Delivery,Yes,1,Yes
+497aa314-51b3-4e63-8aad-de568e5c1308,37,Male,East Michaeltown,Clothing,Jeans,2/6/2025,370.94,Cash on Delivery,Yes,4,Yes
+2f1afc60-8c7b-4509-82e3-fa8e24dd57d7,45,Other,New Natalieview,Home,Sofa Cover,2/8/2025,341.47,Debit Card,Yes,1,Yes
+e1caf694-2e9b-439c-b862-e4eddb28746e,52,Male,Jeffreyview,Home,Cookware,2/4/2025,330.65,Credit Card,No,3,No
+fe03ff66-52ba-466c-afac-1b2d70aa2c46,56,Other,Michelleside,Clothing,Jeans,2/1/2025,481,Cash on Delivery,No,4,No
+4b8acb04-a16f-448c-9e31-db26636b86ef,31,Female,Christophermouth,Clothing,T-Shirt,2/8/2025,207.26,Debit Card,Yes,1,Yes
+f9a79e0a-4d48-491b-b494-183829a43829,24,Other,Wallland,Electronics,Smartphone,2/7/2025,144.47,UPI,No,4,No
+c52eb8ff-40c5-4c3c-9614-217653e7f9e2,52,Other,New Rebeccaport,Clothing,Jeans,2/5/2025,341.43,Debit Card,No,4,Yes
+33267f6b-8da1-4a46-b2c2-87a04d8fc492,41,Other,West Ronnieville,Electronics,Smartwatch,2/7/2025,402.03,UPI,Yes,3,No
+a66048ec-de73-40cf-892f-ad6de4d71a5c,54,Other,Leonland,Beauty,Shampoo,2/4/2025,135.74,Cash on Delivery,Yes,4,Yes
+b9ed52b0-3577-4d71-8b08-8d87f0033ef7,19,Female,Jasonmouth,Electronics,Smartwatch,2/5/2025,355.9,UPI,Yes,5,Yes
+e9d1e805-651b-4d72-9e84-40dd5e6d137a,42,Male,Rodriguezchester,Beauty,Perfume,2/3/2025,469.6,Cash on Delivery,No,3,Yes
+c1aaabea-70ce-4a3c-b45a-c1c0831df991,40,Male,Kristinfort,Beauty,Lipstick,2/6/2025,106.71,Cash on Delivery,No,2,Yes
+ebb1f02c-68fc-477b-9ade-a9cce5d56a21,29,Male,Kaylaborough,Beauty,Face Cream,2/8/2025,460.41,Cash on Delivery,Yes,1,Yes
+ad1802e3-a021-40ee-a9c2-6e3649d0d897,24,Female,South Zacharymouth,Home,Sofa Cover,2/2/2025,175.95,UPI,Yes,3,Yes
+fb32e036-c515-4811-b243-aadcce0152cb,54,Male,Ashleystad,Home,Cookware,2/9/2025,89.8,Debit Card,Yes,4,No
+0c3e469c-d47e-4946-bcf5-a8a1e4662a58,28,Female,Perezport,Beauty,Lipstick,2/5/2025,155.81,Credit Card,No,1,Yes
+c39706b5-1683-4454-9e20-331bca0d9920,33,Female,South Darylburgh,Beauty,Shampoo,2/6/2025,34.54,Debit Card,Yes,4,Yes
+dad6d12d-9be9-481a-8ddb-9bfe20e2f220,24,Female,South Amber,Home,Lamp,2/2/2025,20.64,Debit Card,Yes,2,Yes
+cca61c00-e427-41e6-911c-adc49d03694a,33,Female,Markberg,Beauty,Face Cream,2/7/2025,152.73,Cash on Delivery,Yes,4,Yes
+ec93ebc7-b38e-4196-be6f-3c175ba29831,49,Other,New Rebecca,Clothing,Jacket,2/7/2025,143.42,Credit Card,No,1,Yes
+01773b9a-b56d-4d3b-b0fc-6e93caa49ca9,20,Female,South Johnshire,Beauty,Lipstick,2/6/2025,322.8,Credit Card,Yes,2,Yes
+8f790ca7-4b7e-452e-8af2-fe0cf6919ed0,41,Female,New Michele,Home,Sofa Cover,2/2/2025,401.46,Cash on Delivery,No,4,No
+8cd37a93-0b21-4556-8a77-c097386c3d95,34,Male,East Joshua,Beauty,Shampoo,2/9/2025,95.66,Credit Card,Yes,2,No
+077720c6-988a-42ca-a917-33f3bb881e00,20,Male,West Joanland,Home,Cookware,2/5/2025,442.63,Debit Card,Yes,3,Yes
+9d83e38a-3b53-4236-8457-e8d9efbec279,22,Female,Port Heathermouth,Clothing,T-Shirt,2/2/2025,110.68,Cash on Delivery,No,5,No
+92bbfe5d-3c7c-4423-ad60-e695783b9dbb,29,Female,Seanfort,Clothing,Jeans,2/9/2025,312.55,Debit Card,Yes,4,No
+6905dbc7-266b-47e6-869a-6778a142124d,28,Male,Lake Scott,Beauty,Lipstick,2/2/2025,340.04,Debit Card,No,1,No
+114edda6-9cb2-485d-b6a2-40d915b312ba,26,Female,West Courtney,Electronics,Smartphone,2/2/2025,226.6,Debit Card,No,2,Yes
+4ece7fe0-682a-428c-86bd-b5841b0ef0ae,46,Female,West Thomas,Home,Cookware,2/5/2025,493.54,Cash on Delivery,Yes,1,Yes
+271f6479-f908-4508-81ac-c2867dd78795,39,Other,Port Danny,Beauty,Perfume,2/3/2025,394.8,UPI,Yes,2,Yes
+79be03e4-8f61-4c18-a640-88b842e81a9b,48,Other,Port Sarah,Electronics,Headphones,2/5/2025,285.18,Credit Card,No,1,Yes
+84707dea-6980-48fc-8697-fce184777cbb,54,Female,Michelleberg,Home,Sofa Cover,2/7/2025,244.11,Debit Card,Yes,1,Yes
+a943c1c7-b6e2-4341-b34f-1447e95027be,22,Female,Josephstad,Electronics,Smartwatch,2/4/2025,406.65,Cash on Delivery,Yes,4,Yes
+a5d751ab-37fe-41dc-99a1-a9becd17fc19,53,Male,South Lisa,Beauty,Face Cream,2/8/2025,464.32,Cash on Delivery,Yes,5,No
+0a2884c5-3ad1-4b8b-b6b5-2ca6a69f93e5,47,Male,Davistown,Home,Sofa Cover,2/3/2025,194.71,UPI,No,5,Yes
+85e3267a-abdc-4581-a91f-3b002b8adf6b,31,Male,North Hollyhaven,Beauty,Shampoo,2/2/2025,408.96,UPI,No,3,Yes
+5d02a57b-bd93-4e2f-8ad5-a750d7c133aa,58,Female,West Lori,Clothing,T-Shirt,2/9/2025,481.82,Cash on Delivery,No,2,No
+f18683b7-d087-415e-9dd5-20fd2666fa09,23,Female,Geraldshire,Clothing,Dress,2/8/2025,229.95,UPI,Yes,1,No
+7c7223ce-aaa1-4a31-9350-2922f35cb1c7,18,Other,Wilsonville,Beauty,Perfume,2/7/2025,21.16,Debit Card,No,1,Yes
+b4bbaec4-2030-4fcf-b270-b406b5584709,53,Male,South Brucetown,Home,Sofa Cover,2/8/2025,395.22,UPI,No,5,No
+e926f876-ccc7-4ce1-877a-cac6a7ce7cb2,19,Female,Hallmouth,Clothing,Dress,2/9/2025,100.85,UPI,No,5,No
+d2190de3-feee-4973-9248-0ba84d25c723,19,Male,Kiddmouth,Clothing,Jacket,2/1/2025,19.02,Credit Card,No,1,Yes
+eaf21021-1b39-4228-b97f-d4ea09967307,28,Male,Myersmouth,Clothing,Jeans,2/6/2025,128.49,Credit Card,Yes,2,Yes
+7ff6beaf-0af6-4389-8a37-c57aaa370aa4,57,Female,Port Shannonside,Electronics,Laptop,2/5/2025,460.21,Debit Card,No,2,Yes
+9ede550e-999a-46d6-8dca-caea69e65c17,39,Other,Lake Jay,Home,Cookware,2/7/2025,103.88,Debit Card,No,4,No
+bf81a915-d693-4e9b-9135-4250fb2361f3,60,Male,West Brianshire,Home,Curtains,2/4/2025,396.67,UPI,No,1,Yes
+692e2783-8b0e-4fb4-b3d2-db6c38c6cc92,32,Male,South Walter,Home,Sofa Cover,2/5/2025,451.87,UPI,Yes,1,No
+edab5862-918a-4b61-b048-c8ffd45cbf55,32,Other,Lake Tylerfurt,Electronics,Headphones,2/8/2025,255.85,Credit Card,No,1,Yes
+c49efe96-e26a-41c5-847c-a6a9a9aff500,39,Female,North Christine,Beauty,Face Cream,2/5/2025,458.71,UPI,Yes,5,No
+39505e1f-2161-4196-96a3-ffe34ddff311,36,Other,Hannahmouth,Clothing,T-Shirt,2/2/2025,270.91,Debit Card,Yes,2,Yes
+96680400-c4cb-4c89-b008-ce5d01b8e26a,51,Female,Jerrytown,Home,Curtains,2/4/2025,400.34,Debit Card,No,4,Yes
+531c3de1-2fb7-4404-82e1-aef0c4a31ee2,44,Male,Jamesshire,Clothing,Jacket,2/1/2025,389.46,Cash on Delivery,Yes,4,Yes
+f803634e-78c0-48be-8788-592431f8c65b,47,Other,North Kyle,Home,Lamp,2/5/2025,51.38,Debit Card,No,3,No
+a7ac0f8d-29e9-4443-9a08-9ce18715dca8,34,Other,Smithfurt,Electronics,Laptop,2/5/2025,75.22,Cash on Delivery,Yes,4,Yes
+a091a2ce-001f-4d74-821c-32f3cf5da260,28,Female,Scottmouth,Home,Curtains,2/5/2025,233.51,UPI,No,2,No
+e6338b54-0a7f-468f-9aa4-3b79631ef41b,44,Female,Parksborough,Clothing,Dress,2/9/2025,263.26,UPI,Yes,4,No
+a1aa326f-5ede-4a3f-a6b8-9d275b24223a,22,Female,New Sheilabury,Home,Lamp,2/4/2025,473.61,Credit Card,No,5,No
+35fa920b-6664-4cb2-a030-47ad98d675f1,40,Male,North Brendanville,Beauty,Perfume,2/3/2025,64.6,Cash on Delivery,Yes,3,No
+20573f6a-0cc3-491c-a23a-904be065f414,45,Female,Garzaview,Beauty,Perfume,2/2/2025,144.81,Cash on Delivery,No,1,No
+3e21edbc-b906-4771-866d-4c33ea408985,59,Male,Derrickchester,Electronics,Smartphone,2/2/2025,352.66,Credit Card,No,4,Yes
+7780b700-286a-4746-bcb3-d2793a29a07e,60,Male,Thomasberg,Clothing,Jeans,2/5/2025,22.32,Cash on Delivery,Yes,5,Yes
+30d5fcad-150b-4faa-b9d4-a87773bf68f6,37,Other,Lake Patrick,Electronics,Laptop,2/3/2025,305.13,UPI,Yes,4,No
+0b31b279-724e-4daf-b3db-b03a8bdde54c,60,Male,Ryantown,Electronics,Headphones,2/8/2025,202.98,Debit Card,No,2,Yes
+c80e8f67-393f-4197-9d5d-be7131fca2f9,55,Other,North Markville,Home,Cookware,2/4/2025,142.04,Credit Card,Yes,5,No
+00d9fb4d-fde9-476e-a009-b334901a3f8c,20,Other,Michellefort,Clothing,Jeans,2/8/2025,405.72,UPI,No,3,No
+222d606e-6115-488f-a833-7efa2ed579f6,34,Other,Jamesshire,Beauty,Lipstick,2/1/2025,310.11,UPI,Yes,1,Yes
+7d7d1d6a-d619-40e8-905f-97093fa47e11,50,Other,New Michelleberg,Home,Lamp,2/3/2025,127.65,Cash on Delivery,No,2,Yes
+44c3c36c-a76b-49b1-8f55-1430a452b2b2,35,Other,Pottermouth,Clothing,T-Shirt,2/7/2025,113.65,Credit Card,No,5,No
+693a6339-0754-4e60-baeb-6e5f1d75b966,57,Female,South Kelli,Home,Lamp,2/6/2025,220.37,Credit Card,No,5,No
+48d31f3f-ac09-4d07-92fb-42c52287b2ba,45,Male,South James,Beauty,Face Cream,2/8/2025,430.93,Debit Card,Yes,4,No
+7b85be04-7b4a-4f4b-b910-4ae2c91583ac,50,Female,Fordberg,Beauty,Shampoo,2/4/2025,114.14,Debit Card,No,1,Yes
+59db49cd-918a-44a0-aec0-cfa1d47bdc22,20,Male,Stewartshire,Clothing,T-Shirt,2/7/2025,411.45,Cash on Delivery,Yes,5,No
+4a0a5a14-015e-403b-8291-85c88065ca2e,27,Male,Jacobborough,Electronics,Laptop,2/2/2025,166.6,Debit Card,Yes,4,Yes
+4de2908a-f1ed-4536-9d28-2433dcac3717,25,Male,West Markport,Beauty,Shampoo,2/7/2025,115.74,Cash on Delivery,Yes,2,Yes
+77f80ff9-a270-4671-88bc-e18c2289acd6,60,Female,Strongstad,Clothing,T-Shirt,2/7/2025,471.45,Debit Card,Yes,5,No
+7ae8fe2a-2508-4d08-ab21-1d404ba956ae,44,Male,Lake Paulshire,Beauty,Shampoo,2/2/2025,453.48,UPI,No,3,Yes
+c25caece-3a23-4a46-bf0b-e849e1039956,53,Other,Ambermouth,Electronics,Headphones,2/3/2025,292.85,Cash on Delivery,No,2,Yes
+8cd67dfe-d039-4c1e-95a6-e18a73d28b7b,28,Other,Castromouth,Clothing,T-Shirt,2/5/2025,94.03,Cash on Delivery,Yes,1,Yes
+156ff779-91ed-4e20-9f25-1946540fdb27,26,Male,South Deborahburgh,Home,Lamp,2/8/2025,54.84,Debit Card,No,4,No
+ef9a974d-8980-4a37-b703-bd3e10dfc47f,29,Other,Smithside,Home,Lamp,2/6/2025,396.14,Credit Card,No,2,Yes
+bce47344-4460-4d7d-bef2-9e4191017e44,18,Female,Randyburgh,Beauty,Lipstick,2/4/2025,92.76,UPI,Yes,1,Yes
+bbee00ab-04c1-4f7c-953b-ec72e4dcd0c6,44,Male,West Kara,Electronics,Laptop,2/3/2025,189.98,Cash on Delivery,No,4,No
+cb63dfc7-cf77-4640-921f-eb5baee70251,37,Male,South Donald,Beauty,Face Cream,2/4/2025,72.72,Debit Card,No,5,Yes
+b7d9039f-46e3-4201-ae63-ac822b4da4e2,33,Other,West Brittany,Home,Sofa Cover,2/5/2025,296.56,Cash on Delivery,No,3,No
+a3244efb-f875-406d-bc96-91f7b784687f,18,Female,Port Josephmouth,Beauty,Face Cream,2/6/2025,464.37,Debit Card,No,4,Yes
+be67e1d7-078e-454d-8f77-6be05f8cbf67,28,Female,Josephbury,Clothing,Jacket,2/9/2025,16.49,Cash on Delivery,Yes,1,No
+a3e6d63e-55b2-4586-88f9-47670ede8323,35,Female,Sotofort,Clothing,Dress,2/7/2025,93.09,Credit Card,No,4,Yes
+e76f3df4-3dbd-44f8-99ca-8edeaa81700e,40,Other,South Ronaldport,Home,Lamp,2/9/2025,481.58,Credit Card,Yes,3,Yes
+c7a48ce1-7285-42de-8760-e2a713cf0d09,35,Male,Lake Jill,Electronics,Laptop,2/3/2025,10.63,Debit Card,Yes,3,Yes
+1009dcde-c488-465e-9cc1-83667e2704e3,60,Other,Lake Tylerbury,Beauty,Perfume,2/1/2025,290.54,UPI,No,1,Yes
+37947521-50bd-4bba-875b-986c2869c28d,28,Male,Connorstad,Home,Curtains,2/7/2025,192.46,UPI,Yes,5,Yes
+dc01a526-dad3-4d60-87f9-82b2af4f8a56,56,Male,East Taratown,Clothing,T-Shirt,2/1/2025,40.73,Credit Card,Yes,5,Yes
+e364a8e5-9555-451c-bbbf-10b29535c54c,30,Female,West Elizabeth,Beauty,Shampoo,2/5/2025,286.25,Cash on Delivery,No,4,No
+73fc169e-5471-4ca3-8053-f5987016d549,44,Female,Tylerland,Electronics,Smartwatch,2/5/2025,18.55,UPI,No,2,Yes
+46c0204c-9446-4903-8bef-0d9de599a3c0,47,Male,Lake Kimberlyton,Home,Cookware,2/3/2025,323.66,Debit Card,Yes,2,Yes
+5efa7a08-7231-43fb-8c6a-1be26603e72e,52,Other,Contrerasport,Clothing,T-Shirt,2/2/2025,219.4,Credit Card,No,2,No
+4c1dfda0-297c-4a7d-9e09-e1e6ee3cccbf,51,Female,Johnsonberg,Electronics,Headphones,2/5/2025,118.69,Cash on Delivery,No,1,No
+0434436d-a5e3-407c-8274-a0112a9a661b,50,Other,Lake Markfurt,Clothing,Jeans,2/7/2025,80.99,Debit Card,No,2,Yes
+1e5ce46f-7d85-4c12-b6a2-0ba6418f333d,57,Female,Josephfort,Electronics,Laptop,2/9/2025,49,Cash on Delivery,Yes,3,No
+ba5f81e5-7ddd-4f82-87be-274f29d84f70,52,Female,Clementsville,Beauty,Shampoo,2/1/2025,19.28,UPI,Yes,5,Yes
+20c47195-cf65-4a96-9eec-31ccedf1d5f6,59,Other,Myersville,Beauty,Lipstick,2/8/2025,240.56,Debit Card,Yes,1,Yes
+25f37591-0a39-4e91-b12b-8bfb928f117f,50,Other,East Johnburgh,Electronics,Laptop,2/9/2025,389.07,UPI,Yes,1,Yes
+0521efc5-67f8-49b0-af75-bb1468aa3061,30,Other,Lake Barbarahaven,Electronics,Smartwatch,2/9/2025,395.31,Debit Card,No,4,No
+e9e05024-d372-4c44-9f6e-2eec8f99be44,60,Other,West Henry,Electronics,Headphones,2/1/2025,264.87,Cash on Delivery,Yes,5,Yes
+c39bb52f-c268-491e-8ed0-f50dac06bbaf,56,Male,South Chadberg,Electronics,Smartwatch,2/4/2025,204.76,UPI,No,4,Yes
+4169372c-8503-4c32-8b63-40a560de7a46,40,Female,New Katherineborough,Clothing,Jacket,2/6/2025,450.29,UPI,No,3,Yes
+dc0f6e49-f1c1-41f3-9953-a316e76a4734,37,Other,South Katrina,Home,Curtains,2/5/2025,11.52,UPI,No,4,Yes
+fe23def6-1e6a-464f-b8bb-52f1ba43cf19,53,Other,West Robin,Clothing,T-Shirt,2/7/2025,211.59,Debit Card,No,5,No
+666a28d1-51da-4f24-a291-af0db64ddac8,19,Other,New Carolynchester,Home,Cookware,2/5/2025,59.88,Credit Card,Yes,4,Yes
+ffc62630-0ecf-47a2-9b63-c8f56fe1e5ad,51,Other,Ellisberg,Electronics,Smartwatch,2/6/2025,223.83,UPI,No,4,No
+784b63fd-4cb4-456e-808c-cac04acc3dea,24,Other,East Brianville,Beauty,Lipstick,2/9/2025,391.07,UPI,Yes,2,Yes
+700e3850-f228-43e3-8e23-5a595f687e3a,22,Female,New Jamesberg,Home,Lamp,2/1/2025,494.76,Credit Card,Yes,5,Yes
+17cfbc5d-3384-4301-8112-68a9e218dac1,30,Other,Wigginston,Home,Curtains,2/9/2025,146.86,UPI,No,2,Yes
+e9fac02b-1ed8-44ba-9034-f4620f9f9cf1,26,Female,Lake Michellestad,Beauty,Perfume,2/7/2025,60.25,Debit Card,No,5,Yes
+1aaa85ee-dbbc-4afe-9d0a-8c5228d931cd,59,Other,Kingfurt,Beauty,Shampoo,2/5/2025,158.99,UPI,Yes,2,Yes
+33dc2512-6f65-4e38-aeb8-eb75ff7968f4,19,Male,Thomasside,Home,Sofa Cover,2/3/2025,417.14,Cash on Delivery,Yes,1,Yes
+712c1c9e-47b3-44f1-8259-fbf6addc34d8,37,Male,Francoton,Beauty,Shampoo,2/1/2025,450.11,UPI,Yes,1,No
+5719e2e7-ccc2-4020-8799-aee32b6b3a64,44,Female,Gonzalezland,Home,Cookware,2/3/2025,257.19,UPI,No,2,No
+c48d6f39-e316-4c69-b6cc-fbee29ce4923,59,Male,Kimberlyhaven,Beauty,Lipstick,2/1/2025,192.59,Cash on Delivery,No,1,No
+3a39c839-a559-40c4-85df-ba6eeb37444d,20,Male,Jasonmouth,Beauty,Perfume,2/4/2025,171.96,Debit Card,No,5,Yes
+377833a5-0608-415b-a64e-fda2b3a38fd9,56,Male,South Valerie,Clothing,Jeans,2/1/2025,102.96,Cash on Delivery,Yes,2,Yes
+1c58cce8-1a3f-4312-b85f-d88b5aedbccb,27,Female,Chapmanborough,Electronics,Smartwatch,2/6/2025,99.4,Cash on Delivery,Yes,5,Yes
+d4da0246-1e11-4b70-8d1b-bb1046984a56,48,Other,Morenobury,Home,Sofa Cover,2/5/2025,12.7,Debit Card,No,2,No
+0dcb68a0-e203-4969-b3a7-65ad9a0f5f6f,54,Other,West Stacey,Electronics,Smartphone,2/9/2025,401.2,Cash on Delivery,No,1,Yes
+6b59b185-89fd-44df-82c9-788792b6c02f,49,Female,Maxwellport,Electronics,Headphones,2/2/2025,219.96,Debit Card,Yes,5,No
+1c65612e-04c8-4e4d-8ef1-06fad462afd8,50,Female,Port Sydney,Beauty,Perfume,2/8/2025,212.91,Cash on Delivery,No,1,Yes
+1458b6b1-e43f-4ce6-8ed9-96f5d58f1abe,32,Female,Halltown,Home,Curtains,2/7/2025,167,Credit Card,Yes,3,Yes
+342b657a-9559-46a9-ba80-198570a70f16,57,Other,Markstad,Clothing,Dress,2/4/2025,259.61,Debit Card,Yes,2,Yes
+e3cb29ff-2afe-4cca-8572-a4424e882966,24,Other,Danielborough,Clothing,Dress,2/1/2025,120.15,UPI,No,5,No
+84edf838-2953-4bef-b336-8e8d978884aa,51,Male,East Christopher,Electronics,Smartwatch,2/6/2025,228.04,UPI,No,5,Yes
+2c4be7d1-334c-4143-b389-e11b01fd8897,37,Other,East Debratown,Electronics,Smartwatch,2/8/2025,143.37,UPI,Yes,4,No
+2577377d-4b2a-44e7-b09b-f2542f32b931,29,Other,Lake Samuelburgh,Clothing,Jacket,2/7/2025,135.5,Cash on Delivery,Yes,2,Yes
+6c2e3586-649e-4641-8b40-4460216a3995,59,Other,Lake Chadside,Electronics,Smartphone,2/7/2025,265.12,Credit Card,No,4,No
+10e34fe1-73cb-44fa-8db0-67496f8d6d90,39,Male,Alexandrahaven,Clothing,T-Shirt,2/1/2025,124.76,Credit Card,No,3,Yes
+62257178-7eb7-4cf1-b05d-6da6ae719859,28,Male,West Donna,Clothing,Jeans,2/4/2025,363.77,UPI,No,1,Yes
+d3439a46-3dc6-4f5e-8a86-744163c650e5,60,Female,Michaelburgh,Home,Sofa Cover,2/1/2025,407.45,Credit Card,Yes,1,Yes
+3132642a-a813-4b3f-be31-d43432b1c702,21,Female,East Christopher,Beauty,Perfume,2/9/2025,18.62,Debit Card,Yes,2,Yes
+91e5198e-e8c4-4741-ac6a-06a89b937a4f,18,Female,Brownview,Beauty,Lipstick,2/7/2025,336.33,Debit Card,Yes,4,Yes
+08a9b073-8ff5-46b1-824c-955f430915df,43,Male,Smithchester,Beauty,Lipstick,2/5/2025,110.31,Debit Card,Yes,3,No
+964df98c-10eb-4ffd-815f-4667485adb72,24,Male,Thomasport,Electronics,Smartphone,2/4/2025,65.34,Debit Card,No,4,No
+8831d8cf-9cd1-4ca7-bfb2-679a5b0572c0,19,Other,Lake Christine,Beauty,Lipstick,2/4/2025,481.74,Cash on Delivery,Yes,1,No
+5c9f81dd-8e40-4286-901a-dec9d2251ccf,46,Other,Georgetown,Beauty,Perfume,2/7/2025,461.75,Cash on Delivery,No,2,No
+397fcf0f-fe64-4641-9978-52c1ade93b4c,59,Male,North Leahchester,Electronics,Laptop,2/2/2025,430.28,Cash on Delivery,Yes,4,Yes
+0183a1c7-2814-4142-a01a-b16c594526ba,46,Male,Jenniferbury,Home,Lamp,2/9/2025,95.43,Credit Card,No,5,No
+81fdff60-e308-4000-a928-6bab0363ac00,39,Other,West Brian,Clothing,T-Shirt,2/2/2025,78.88,Cash on Delivery,Yes,3,Yes
+14191b50-e34e-4ff5-b970-94b1da55874e,23,Female,Charlesbury,Beauty,Shampoo,2/2/2025,18.14,Credit Card,Yes,4,No
+0b00dbb0-52f9-47bb-ab03-72b256262606,32,Male,Lake Fernando,Electronics,Smartwatch,2/6/2025,120.94,Credit Card,No,2,No
+cb638805-e995-418b-aae7-3d89b9883e5c,30,Male,New Jeff,Electronics,Laptop,2/3/2025,430.36,UPI,No,4,No
+4bf6e3a4-c3ab-4c2d-b9aa-b9c54cdaf3cf,52,Female,Jasonland,Beauty,Lipstick,2/9/2025,450.25,Cash on Delivery,No,2,No
+b4086577-b7f6-401b-b619-1f1d004415e2,32,Other,Belindamouth,Electronics,Smartwatch,2/7/2025,413.3,Debit Card,Yes,2,Yes
+c7dd118d-c23f-4a92-ba06-541ae8280205,47,Other,Wheelerhaven,Beauty,Shampoo,2/4/2025,408.72,Credit Card,No,3,No
+a2556216-b252-4e03-918a-b3959cc9a1e8,19,Male,Campbellview,Clothing,Jeans,2/2/2025,354.3,Credit Card,No,4,Yes
+57ab14ad-2bff-4c1f-9de8-5f112ffd9882,43,Male,Heatherfurt,Clothing,Jeans,2/6/2025,460.29,Cash on Delivery,No,1,Yes
+d7e18f20-687c-4bc2-8bc6-1069282fdbcd,28,Other,Romanhaven,Home,Sofa Cover,2/2/2025,73.99,Debit Card,Yes,2,Yes
+4dd41e27-496a-4942-894d-9a184dfb1d72,33,Female,Michelechester,Clothing,T-Shirt,2/6/2025,401.26,Credit Card,Yes,2,No
+1bb693b2-db26-4987-baa9-15670a27c116,30,Male,Timothyside,Beauty,Shampoo,2/2/2025,375.03,Cash on Delivery,Yes,5,No
+5551bb98-ee55-4aaf-9f8f-a96bce67a723,52,Female,West Carlos,Beauty,Face Cream,2/2/2025,474.46,Credit Card,Yes,5,Yes
+11c6ed27-25db-4835-8074-a885e2d8385a,39,Male,Hollychester,Home,Cookware,2/5/2025,492.38,UPI,Yes,4,Yes
+e84dbdad-d7fa-4f83-8156-f1dea5dff8b9,43,Female,Lake Lauren,Home,Lamp,2/6/2025,163.76,Credit Card,No,2,Yes
+6e6b191a-1933-4ea1-9289-8c76d7c20df7,24,Other,Jeffreyside,Home,Curtains,2/1/2025,181.7,Credit Card,Yes,4,Yes
+e928dd62-6195-4e9c-bc8c-0fb8374a387d,21,Other,Jamesberg,Clothing,Jeans,2/4/2025,99.93,Credit Card,No,5,Yes
+aa8b2c97-6677-4024-8c58-774ad471aeb6,49,Male,Erinfurt,Clothing,Jeans,2/8/2025,119.98,Debit Card,No,1,Yes
+52e7f6fb-969d-49ea-b6ce-a32dd2736e39,21,Male,Ballardtown,Electronics,Smartwatch,2/7/2025,168.26,Debit Card,Yes,5,Yes
+4fc0a8ca-2cd5-4c4e-b118-fc63aaa4091a,42,Female,Porterfurt,Home,Cookware,2/4/2025,280.54,Debit Card,No,5,Yes
+f422023e-b90f-4377-adc5-30d604ed5265,29,Male,North Jonathanmouth,Clothing,Dress,2/5/2025,223.45,Debit Card,No,4,Yes
+879002f5-c760-412b-a4aa-6cdc0656162f,54,Male,Davisshire,Clothing,Jeans,2/6/2025,71.33,Cash on Delivery,No,3,Yes
+a5956ebf-6c9f-4d32-8562-a5d318b836a2,48,Male,New Luis,Electronics,Headphones,2/8/2025,102.73,Credit Card,Yes,2,No
+3e276e89-fc2d-4dde-a02d-51f738a45f5f,55,Other,Lake Michellemouth,Home,Curtains,2/5/2025,312.09,Debit Card,Yes,1,Yes
+dc4bc587-6950-47b1-bb51-e9b55597d773,27,Female,South Courtneyfort,Home,Curtains,2/1/2025,338.99,Cash on Delivery,Yes,5,Yes
+ea07d785-64dd-429e-9ed6-8a8041529171,49,Male,Port Benjamin,Electronics,Smartphone,2/8/2025,479.39,Credit Card,Yes,3,No
+40983916-cf29-489d-a109-13e112c52130,35,Male,East Derek,Clothing,Dress,2/9/2025,227.49,Cash on Delivery,Yes,3,Yes
+83fc9533-10ef-4f85-91c0-0c6f9ea71a9f,22,Male,Amberchester,Clothing,Jacket,2/9/2025,91.37,Debit Card,No,2,Yes
+d4a46a47-5e57-4e5d-bc04-fb587c11e09d,55,Other,Amytown,Home,Curtains,2/1/2025,160.2,Credit Card,No,1,No
+0127f95d-068c-4dab-9314-7519e72071ab,25,Male,West Adrian,Electronics,Headphones,2/2/2025,19.89,Debit Card,Yes,1,No
+9164b5e2-2ed8-4e51-ae44-aef9b601e009,42,Female,Katrinafort,Beauty,Face Cream,2/4/2025,84.86,Credit Card,No,3,Yes
+769544ff-8c01-4906-bf5e-0519082b12d5,31,Male,Juliemouth,Home,Sofa Cover,2/1/2025,76,Credit Card,Yes,3,Yes
+6a6f5975-4027-4ad8-a62c-182f62c1cbc4,19,Male,New Charles,Electronics,Headphones,2/7/2025,64.81,Cash on Delivery,Yes,4,No
+501dee7a-c76f-422e-9e3c-24519fae8834,54,Male,Millerfort,Clothing,Jeans,2/3/2025,367.12,Cash on Delivery,No,5,No
+52b25f6b-0593-4fa3-b8b0-15379e142c88,33,Other,Petersonville,Home,Lamp,2/5/2025,327.86,Debit Card,No,5,Yes
+b1f77d3a-2deb-4680-8f58-ef7b527b1447,32,Female,Emilyfort,Clothing,Dress,2/8/2025,286.86,Cash on Delivery,Yes,1,Yes
+f89e9998-1a57-4a05-bf1e-2d025da0d41f,56,Female,East Cathy,Clothing,T-Shirt,2/2/2025,443.24,Debit Card,No,3,No
+104fb702-86ee-4278-87ab-11578625fd92,43,Female,Carlfort,Home,Lamp,2/2/2025,194.42,UPI,No,3,No
+23e8b61d-2903-462f-a80b-b9a2b71ae61a,27,Female,Port Elizabeth,Home,Cookware,2/2/2025,456.76,Cash on Delivery,No,3,Yes
+43f40c03-5ee8-42f1-aea1-fa2e74d5251f,41,Female,North John,Home,Cookware,2/2/2025,152.14,Debit Card,No,2,Yes
+a2482e7e-d118-4081-bcd4-0f9fb4fa6ebb,49,Female,New Deborah,Home,Curtains,2/3/2025,62.7,Debit Card,Yes,4,Yes
+8e9dd43d-c855-4711-88a6-4975c4efa97a,60,Male,Michaelmouth,Clothing,Dress,2/6/2025,130.65,Credit Card,Yes,4,No
+da2d561e-2bc5-430f-9dc5-7362f18fb4eb,24,Male,West Carl,Electronics,Headphones,2/9/2025,312.25,Debit Card,No,5,Yes
+9a57bd32-5643-4b62-9e84-e93112786756,24,Female,Bowmanview,Electronics,Headphones,2/4/2025,235.23,Debit Card,No,4,Yes
+45cd7c73-57cf-4b22-bd13-c2918d32e574,22,Female,South Tinabury,Electronics,Headphones,2/9/2025,224.92,Debit Card,Yes,2,No
+8af4b377-2037-447d-9c06-b1fc6a4e126d,40,Other,Lake Adam,Home,Curtains,2/2/2025,405.12,Debit Card,No,5,Yes
+15828c5e-0c9c-49ea-b7d4-6a4f7a87a93d,59,Male,Seanstad,Clothing,T-Shirt,2/5/2025,225.37,Cash on Delivery,No,5,No
+d4c2c800-96d9-41ef-9824-5c831a22a971,33,Female,West Diane,Clothing,T-Shirt,2/2/2025,435.13,Cash on Delivery,No,4,Yes
+f2f85fe9-edf9-449b-bc88-338c844f1206,53,Male,Sherylfort,Electronics,Headphones,2/3/2025,343.76,Credit Card,Yes,1,No
+65ab7055-e6bb-4e92-b02d-c0ae3c515aa8,20,Other,Port Cheryl,Electronics,Smartwatch,2/4/2025,114.99,Credit Card,No,1,Yes
+81ee2e88-24e7-46c2-9d2a-d3a035b9bed2,40,Female,West Jeffrey,Clothing,Dress,2/3/2025,310.85,Cash on Delivery,No,4,No
+cc5d4569-d1c7-4541-95c5-5cd72b7b4ee4,20,Male,West Stephenstad,Home,Cookware,2/4/2025,40.36,Credit Card,No,1,No
+6ca473c1-e138-47d5-949d-ec51d290fea5,48,Other,Gregorymouth,Beauty,Lipstick,2/1/2025,169.22,UPI,No,3,Yes
+11f04b4a-b8ce-412b-bca9-6c4770993281,58,Male,Mullinsstad,Clothing,Jeans,2/7/2025,483.85,Cash on Delivery,No,2,Yes
+f1eb02b2-380f-42de-bd86-2cc78ac8724c,44,Female,New Jacobside,Electronics,Headphones,2/2/2025,121.25,Credit Card,Yes,2,Yes
+f2eec270-1419-46df-b6af-a5ac079251f5,58,Male,Josemouth,Electronics,Laptop,2/4/2025,226.84,Debit Card,No,1,Yes
+159ac8af-1e5e-48a9-ab14-7b8813da46f0,60,Female,Edwardsborough,Beauty,Perfume,2/7/2025,390.22,UPI,Yes,1,Yes
+83cffa6c-4b43-4b82-86fd-bc9a07585b47,42,Female,Brownborough,Clothing,T-Shirt,2/3/2025,436.49,UPI,No,3,No
+7dd0b6c7-9731-47f8-8c7c-f5ab933a4667,26,Male,West Louis,Home,Curtains,2/2/2025,104.8,Debit Card,Yes,2,No
+d8570023-b739-43f7-ac36-8d51b9d8b7ac,23,Male,New Justinport,Beauty,Lipstick,2/9/2025,83.86,Cash on Delivery,No,4,Yes
+42dd2734-1430-498c-9a12-48e10241ab7a,44,Male,Brianport,Home,Cookware,2/7/2025,235.87,Debit Card,Yes,3,No
+3dd2ce2b-b664-4667-9d10-15b6c22a0173,53,Female,Nicolechester,Electronics,Headphones,2/3/2025,471.53,Cash on Delivery,No,5,Yes
+3d7e2169-e34e-48f1-bc70-d38eb9354299,42,Other,Dakotamouth,Electronics,Headphones,2/9/2025,470.68,Cash on Delivery,No,1,No
+533769de-ba5a-4364-bcb4-96b21769cb40,60,Male,Lake Sylviafurt,Electronics,Smartwatch,2/3/2025,377.94,UPI,No,4,Yes
+42945ddb-4f2d-4cd3-94ed-b88a698181b1,43,Other,Sosamouth,Electronics,Smartwatch,2/1/2025,365.35,Cash on Delivery,Yes,5,No
+6b95e9f8-affb-43b9-b1fb-6a56e71728be,24,Male,Katherineton,Clothing,Jacket,2/5/2025,376.44,UPI,No,2,No
+10c1a113-5e74-46b3-a12c-50254e9182bd,40,Other,Denisehaven,Home,Lamp,2/7/2025,321.82,Cash on Delivery,No,4,Yes
+c9cf4f59-4a71-4a08-a641-85bbbd646de3,51,Other,Kimberlyborough,Beauty,Perfume,2/3/2025,410.38,UPI,Yes,5,Yes
+cfee734a-962e-40ec-bf3d-7c6836afee35,35,Male,New Cassandraland,Beauty,Shampoo,2/7/2025,32.95,Credit Card,No,2,Yes
+ca83f5b6-d003-40b5-882b-6ff2263c3088,31,Other,New Davidborough,Clothing,Dress,2/3/2025,18.79,Debit Card,No,3,Yes
+e2bc2fba-b1dd-4740-ae58-7b3270cfc632,33,Other,Port Sarah,Clothing,Dress,2/4/2025,289.01,Cash on Delivery,Yes,3,No
+443c396f-3de9-41d2-a5d5-5ec000a713ea,45,Female,Manningville,Home,Lamp,2/8/2025,365.2,UPI,No,1,Yes
+6850407f-9f2e-48fd-b671-dc2995a4e9c8,46,Male,Port Sonyamouth,Clothing,Dress,2/2/2025,296.98,Credit Card,Yes,3,Yes
+30ea1602-deef-44fa-b961-efa93c8650cf,28,Other,Cainborough,Clothing,Dress,2/5/2025,118.88,Credit Card,No,5,Yes
+af99c11a-7704-4a56-91c0-ce9175f92616,48,Other,Jonathanhaven,Electronics,Headphones,2/9/2025,261.03,Debit Card,Yes,5,Yes
+118cb9d5-3580-4bfe-b8bf-9b88931e486e,58,Female,Wadebury,Clothing,T-Shirt,2/8/2025,314.65,UPI,No,2,No
+970c3dc8-06e3-41c4-9706-30b5d16d6028,36,Male,Millerview,Beauty,Perfume,2/4/2025,325.23,Debit Card,No,1,Yes
+8ee4c9ed-a3ed-426e-a9a0-230d3442f0b9,43,Female,Franklinfurt,Clothing,Jeans,2/9/2025,279.05,Debit Card,Yes,3,No
+c828fbaa-aa15-471b-a358-8a96330e7ab1,36,Female,Lake Katherinemouth,Clothing,T-Shirt,2/5/2025,314.63,Credit Card,No,1,Yes
+e28ce2b2-7f1e-4092-b80f-8acd50a5049a,56,Female,Davidfort,Home,Cookware,2/4/2025,71.67,Credit Card,No,3,Yes
+0ad11129-4962-43cd-9523-6810a29587cb,59,Female,Taylorstad,Electronics,Laptop,2/3/2025,351.63,Debit Card,No,5,No
+36b38bec-34d7-41eb-9068-b2a79c4e533b,48,Other,Rodgerstown,Home,Lamp,2/2/2025,413.01,Credit Card,Yes,2,Yes
+45e7ed42-4b79-40f2-a17e-757d7ef259dc,39,Male,Brandonland,Electronics,Headphones,2/5/2025,296.11,Credit Card,Yes,5,No
+a1eed185-5748-42ff-9a0b-ec38e39ce69a,58,Other,Jonathanside,Clothing,T-Shirt,2/9/2025,163.68,Debit Card,No,3,Yes
+fee0ab48-31f3-4d6b-8a09-820b66db2ca9,37,Female,New Andrewside,Clothing,Jeans,2/2/2025,192.83,UPI,Yes,5,Yes
+eea607be-ba18-4ecb-834d-57288ec627a9,37,Other,Anthonyland,Beauty,Perfume,2/6/2025,268.51,UPI,Yes,4,No
+c7fdbb13-dd0f-4f69-9847-33c3042ea4bd,53,Male,Port Miguelhaven,Electronics,Headphones,2/5/2025,195.83,Cash on Delivery,No,3,No
+19dba9fb-a7cb-49d9-8895-5349bd17ff58,27,Male,Port Shelley,Electronics,Smartwatch,2/9/2025,87.01,UPI,No,5,No
+f930673a-bd75-42d4-858b-8313b110225c,32,Female,East Williamtown,Electronics,Smartwatch,2/8/2025,211.55,UPI,Yes,4,Yes
+1a79d155-9c75-4935-9773-40f65561cda5,28,Female,Hillton,Clothing,Jeans,2/6/2025,215.68,Credit Card,No,1,No
+3bd66a19-770c-432e-8d7e-60dedc831aaa,48,Female,Roweberg,Clothing,T-Shirt,2/3/2025,23.65,Cash on Delivery,No,2,No
+e808b19d-68d6-4630-bcae-230f4735024e,56,Other,Alvaradochester,Electronics,Smartwatch,2/1/2025,421.74,UPI,No,4,No
+dd9af28a-ee55-4abb-81af-5327fa0744a2,25,Male,Jacobmouth,Home,Cookware,2/2/2025,353.44,Credit Card,No,4,No
+0a840225-a419-429f-a6c5-0b4f47b786c2,24,Male,South Robertport,Electronics,Headphones,2/3/2025,136.68,Debit Card,Yes,1,No
+57415b4a-7fdb-45a7-9dfa-455c377cbb56,19,Male,South Stevenview,Clothing,Jeans,2/9/2025,160.3,UPI,No,4,No
+c73d5372-ad46-4267-9288-29d74d82b699,59,Other,North Emily,Home,Sofa Cover,2/9/2025,226.65,Debit Card,No,5,No
+4351d579-b0ba-4fea-83ff-5c42fc74f013,36,Female,Lake Kellimouth,Clothing,Jeans,2/2/2025,185.09,Debit Card,No,2,Yes
+ff8a330f-8402-4fc3-b632-0dde4fe1050f,48,Other,Ayerston,Beauty,Face Cream,2/1/2025,233.97,Credit Card,No,5,Yes
+da83af56-9c02-4c70-a919-1d2f6c8d9545,54,Female,Allisonborough,Beauty,Face Cream,2/5/2025,77.66,UPI,No,2,Yes
+dd499073-b05e-40c6-b678-38c6358a734e,35,Female,South Heathermouth,Clothing,T-Shirt,2/9/2025,414.24,Credit Card,No,4,No
+9f613522-521b-417c-9254-2e0d27ba284f,34,Male,Williamsfort,Electronics,Smartphone,2/5/2025,220.56,Credit Card,Yes,1,No
+1a89f6ca-6561-4188-ad46-4f590991b0e3,19,Female,Port Michelletown,Electronics,Laptop,2/9/2025,176.44,Cash on Delivery,Yes,5,Yes
+ba7fc422-6af5-4ca1-a551-b025ddff56d7,60,Male,Port Brian,Clothing,Dress,2/2/2025,99.59,Credit Card,No,4,No
+3a19cd39-32b6-4f1f-b6fa-a1dc2a2e6c31,39,Other,New Sarah,Clothing,Dress,2/2/2025,256.79,UPI,No,5,No
+7784e75e-b7ec-4114-8903-faa4010f0bd1,19,Male,West Catherinefurt,Clothing,Dress,2/8/2025,107.41,Debit Card,No,4,No
+05ff1164-ed5b-4080-9ba1-722d0db0d847,56,Male,Grahambury,Clothing,T-Shirt,2/8/2025,162.25,UPI,No,1,Yes
+e0ef84ce-6a33-4108-8330-68b07746e0f5,38,Female,Shawnview,Beauty,Shampoo,2/4/2025,345.85,Credit Card,No,3,No
+7db93135-8112-45a4-bae4-8f5da9e9e096,40,Male,Patelfurt,Beauty,Face Cream,2/7/2025,339.65,Credit Card,Yes,4,No
+2ea0d544-2a89-4a2d-af6e-a0be77cb6a92,28,Female,Beverlyville,Home,Curtains,2/3/2025,343.99,UPI,No,2,No
+f124e47c-4b76-4493-aff2-690dd81c20ab,34,Other,Lake Joshua,Clothing,T-Shirt,2/2/2025,208.94,Credit Card,No,3,Yes
+fe25ad3b-0eec-4eba-ad5e-ac8fdbbd369b,24,Male,Victoriaberg,Home,Lamp,2/6/2025,181.27,Debit Card,No,4,No
+483795d7-0ec0-41d2-b408-5182f69d7d28,24,Male,Hernandezberg,Clothing,Jeans,2/8/2025,195.47,Credit Card,Yes,1,Yes
+e0001e6e-607d-4e89-ba59-0f49029dbe9b,32,Other,Michaelville,Clothing,T-Shirt,2/9/2025,133.81,UPI,No,2,No
+fa779d2b-3923-4695-bd4b-031c44f4478e,23,Female,Ericfort,Electronics,Smartwatch,2/7/2025,295.08,Credit Card,No,1,No
+4629d396-910a-4180-b85b-08a5c5724133,41,Female,Blackburnview,Electronics,Laptop,2/3/2025,229.83,UPI,No,5,Yes
+5fcd73bd-5e7c-4bda-bb48-b11897f1c2f4,58,Female,Lake Lisabury,Electronics,Smartphone,2/1/2025,83.03,UPI,No,5,No
+2a5ee99f-7399-48c1-a76d-7bcfd7b89550,58,Other,North Terryshire,Home,Lamp,2/6/2025,150.88,Credit Card,Yes,2,Yes
+5a6fbb3b-4029-4ef9-a61a-3bb5a65433db,24,Female,Timothyburgh,Electronics,Smartwatch,2/1/2025,192.71,Credit Card,Yes,5,No
+cacb1307-bc64-4acd-8416-b044bf07be19,39,Female,North Lance,Beauty,Shampoo,2/3/2025,307.47,Credit Card,Yes,3,Yes
+7d71d22c-2b8e-4960-b1d6-cfb39199deb3,40,Female,North Shelia,Home,Cookware,2/5/2025,316.32,Debit Card,Yes,4,Yes
+028b9ca2-3b6e-41e3-b474-6a3bf2959f55,51,Female,Jeanetteberg,Electronics,Headphones,2/9/2025,393.17,UPI,No,5,Yes
+1700f3ed-9a6b-4cb5-a32f-b9129ccd2587,26,Male,Lake Cathyshire,Home,Lamp,2/4/2025,76.02,Debit Card,Yes,1,No
+b3eca598-cc45-4f54-9927-0fd768813d6f,38,Other,Atkinsonfort,Beauty,Perfume,2/6/2025,157.15,UPI,Yes,4,No
+1764a37f-f2b0-4e1f-9716-e3a74c497cae,19,Male,Leeshire,Electronics,Smartwatch,2/6/2025,120.88,Cash on Delivery,Yes,1,No
+b2278698-4419-4c97-88d0-24095f8eb937,26,Other,East Nicole,Home,Sofa Cover,2/8/2025,186.15,Debit Card,Yes,5,Yes
+fd6c10ea-0845-417e-b5f8-2fb68ed0993f,34,Male,Tuckerbury,Beauty,Shampoo,2/8/2025,417.85,Credit Card,No,2,Yes
+ac9cf79b-8f8e-4ea8-8bcd-f2f67a07ff48,39,Male,Lake Catherine,Beauty,Perfume,2/4/2025,447.71,Cash on Delivery,Yes,1,Yes
+a4b001ca-e44f-4123-9d82-96ce8a18caae,23,Male,Christophertown,Electronics,Smartphone,2/1/2025,93.55,UPI,Yes,1,No
+7ef9dae9-68b8-4999-9820-3492ee7ac13b,44,Other,North Stacymouth,Electronics,Laptop,2/2/2025,271.52,Cash on Delivery,Yes,5,Yes
+37c8c7f0-2b41-4262-9c7f-17b9b07e8e8d,58,Male,Port Tylershire,Electronics,Headphones,2/9/2025,259.37,UPI,No,5,Yes
+4637014f-5648-4306-a4a3-a719eb244b07,43,Other,New Annabury,Beauty,Face Cream,2/1/2025,55.61,Cash on Delivery,Yes,3,No
+18aa243a-c950-4e91-ba39-5f03cb947e43,48,Other,Lake Kristenstad,Clothing,Jacket,2/8/2025,78.34,Cash on Delivery,No,1,No
+f326fbea-db42-494f-8470-9850e9a20c71,54,Male,Port Darrenport,Clothing,Jeans,2/8/2025,41.76,Credit Card,Yes,1,Yes
+0fd98733-60ea-4b5f-9810-6f97b229d322,26,Female,West Meganville,Home,Sofa Cover,2/7/2025,161.09,UPI,No,3,No
+c0357f77-c505-45cc-b380-344f1340a3ef,40,Other,Harrisonstad,Beauty,Face Cream,2/8/2025,60.8,Credit Card,No,3,Yes
+ee89f47c-78bc-45ff-8a27-907ccc33a12c,18,Female,East Carol,Home,Curtains,2/2/2025,420.38,Credit Card,No,3,No
+cf465d1b-4a74-4e21-8616-5818e5442e5c,27,Female,Butlerburgh,Home,Curtains,2/6/2025,288.7,UPI,No,5,No
+f40506b8-73bc-472a-9c0f-7ce48ce55104,32,Male,Jamesside,Electronics,Laptop,2/9/2025,308.32,Debit Card,Yes,4,Yes
+cceafee5-b094-4dd1-b8c8-49eedf4fe6c3,23,Other,Nicolebury,Clothing,Jeans,2/1/2025,190.79,Debit Card,Yes,5,Yes
+91f8db42-baed-4cdf-8596-1c8a795f9ce4,39,Female,Donaldport,Clothing,Dress,2/4/2025,126.57,Cash on Delivery,No,5,Yes
+e77226c4-527e-4588-9673-cced4fb17383,50,Male,Deleonchester,Home,Sofa Cover,2/1/2025,269.44,Cash on Delivery,Yes,3,No
+8ce97765-6605-4a2e-810a-7ebfa023f994,41,Female,Lake Sydney,Electronics,Smartwatch,2/3/2025,278.5,UPI,No,4,No
+41a81357-abfa-4b88-ac4e-e7c8e9d7c1fe,33,Male,Port Barbarastad,Home,Sofa Cover,2/1/2025,443.75,UPI,No,2,No
+1b0bb1ff-9bf1-46b0-a5e7-64ede38a517c,54,Male,Schmidtstad,Clothing,Dress,2/3/2025,409.75,Credit Card,No,5,No
+8d284962-a102-4923-ba59-ba32582046da,45,Female,South Lindseytown,Electronics,Headphones,2/8/2025,352.6,Debit Card,Yes,1,No
+a212b1e4-2da3-455a-8085-be0a07e9bfb1,20,Male,East Darrell,Beauty,Face Cream,2/6/2025,63.4,Cash on Delivery,Yes,2,Yes
+6f803611-415f-4d35-a63b-83eb0fa34589,32,Other,Clinemouth,Beauty,Perfume,2/2/2025,168.66,Credit Card,No,4,Yes
+26315fa2-2532-450e-96c6-5cdcc34301ff,39,Female,Maddenfort,Beauty,Shampoo,2/3/2025,359.31,UPI,No,4,Yes
+29f91dcd-d3b5-4bc6-97cf-d219eff8d3de,37,Male,East Emily,Electronics,Smartphone,2/8/2025,215.3,Credit Card,No,4,No
+70e7582f-cbbc-40e3-b6bf-05ca89b473d2,47,Female,Port Veronicastad,Electronics,Smartphone,2/1/2025,101.19,Cash on Delivery,No,2,Yes
+47f94f02-aeb4-45af-aa35-3f883a934094,48,Female,Maryborough,Clothing,Jeans,2/8/2025,175.12,Debit Card,No,1,Yes
+1d466e78-330d-4962-b04b-b04d8f26e6d9,57,Male,East Brandon,Electronics,Laptop,2/8/2025,315.66,Cash on Delivery,Yes,3,No
+5316525c-37b6-4e52-bf1a-7ae66dd1c790,33,Male,Jamieborough,Beauty,Face Cream,2/9/2025,224.89,Debit Card,Yes,1,Yes
+c94574cb-be37-4e30-8e35-8ea204c0f873,53,Female,Susanfort,Clothing,T-Shirt,2/7/2025,369.76,Cash on Delivery,No,4,Yes
+b047913a-c254-4c29-8422-d33e66b4e3e1,34,Female,Shelbyhaven,Electronics,Laptop,2/5/2025,46.77,UPI,No,2,No
+efe47d37-589b-4430-8697-02b67b5d1256,39,Male,Warnerborough,Beauty,Perfume,2/8/2025,29.98,Cash on Delivery,No,5,Yes
+f2dc6a43-d93b-4713-8369-2c6024242619,25,Other,Port Jonathan,Electronics,Headphones,2/7/2025,348.87,UPI,Yes,2,No
+79b58f38-7e90-4a9f-ae16-98c6e1ae5dc2,39,Other,Villanuevaborough,Clothing,Jacket,2/5/2025,40.45,UPI,No,4,Yes
+059e7ab2-74f3-4bdf-8ebf-61213d0a2912,60,Male,South Jessica,Home,Cookware,2/3/2025,212.79,Credit Card,No,4,No
+94e3456b-8e98-4dc8-9ea9-6a8dde6770af,50,Other,Kimberlyhaven,Beauty,Face Cream,2/1/2025,408.97,Debit Card,No,5,No
+5f18351d-4cfc-462b-9d90-bf7a14d13567,31,Female,Crystaltown,Clothing,T-Shirt,2/6/2025,180.61,Credit Card,No,2,No
+22f8fe8c-51cd-4d62-97a4-c4503b5c4ec4,27,Female,Port Margaretchester,Beauty,Shampoo,2/2/2025,16.12,Cash on Delivery,No,3,Yes
+13d8a830-c635-4c2c-8aef-426e5675aca2,46,Other,South April,Clothing,Dress,2/4/2025,381.07,Credit Card,No,3,Yes
+eac5aafa-80ac-41f6-a23d-80634023151b,25,Male,North Keith,Electronics,Headphones,2/4/2025,370.38,UPI,No,3,No
+00d7e7ab-425d-4bc6-ab6e-e927a133e959,19,Female,East Saraville,Electronics,Headphones,2/2/2025,340.78,Credit Card,Yes,2,Yes
+0dee6fcf-6dad-4ffa-848d-6ff13fa5f33a,26,Male,Huynhland,Clothing,T-Shirt,2/9/2025,172.52,UPI,Yes,3,Yes
+6849d203-2d71-400a-9bc9-e8cb29ce1f38,41,Male,Langtown,Electronics,Headphones,2/6/2025,296.14,Credit Card,Yes,2,No
+518cf06a-454c-4d74-9283-8ed0354d339f,39,Male,South Jonathanhaven,Electronics,Smartwatch,2/6/2025,381.25,Cash on Delivery,No,2,No
+566a588d-c03a-4500-9cb1-f5e8d53b069d,26,Female,Taraland,Home,Lamp,2/7/2025,304.38,UPI,Yes,4,Yes
+2846606d-b0e7-40aa-b23a-60b8a7dc50e4,37,Female,Richardview,Clothing,Dress,2/1/2025,393.29,Debit Card,No,3,No
+b7a9e519-c622-4116-b1d3-03d43a6b3d4e,46,Other,West Brandonchester,Beauty,Perfume,2/5/2025,157.11,UPI,Yes,2,Yes
+edc69095-5fbd-4414-b9c9-49fef6150dfe,40,Female,Danielmouth,Beauty,Perfume,2/4/2025,132.42,Credit Card,No,3,No
+5d759e3d-9476-4fe7-a9e7-69a1fa0f951a,54,Female,West Tammyhaven,Home,Sofa Cover,2/2/2025,312.49,UPI,Yes,5,Yes
+07d883d5-9025-4dd9-880b-24cf997409a8,21,Other,Jocelynburgh,Electronics,Headphones,2/7/2025,115.22,Credit Card,No,5,No
+e439741c-4dc2-4294-acde-0e83a640ad81,47,Other,Adamsmouth,Beauty,Perfume,2/7/2025,237.83,Cash on Delivery,Yes,5,Yes
+422a3c62-a2f1-47df-843f-ba7491c16f4f,39,Other,West Jacobport,Home,Curtains,2/7/2025,48,Credit Card,No,5,Yes
+d3c09bc0-6b50-4e2e-a39f-68a17b65493f,60,Male,Nancyville,Beauty,Shampoo,2/4/2025,273.51,Cash on Delivery,Yes,3,Yes
+d4c385f4-7b04-498f-98d3-dc02a6b41c6f,54,Female,Christiefurt,Home,Sofa Cover,2/8/2025,286.03,Debit Card,Yes,5,Yes
+d4bf01bd-e47f-40de-8df4-67b4d865ccbf,55,Female,Catherineborough,Electronics,Smartphone,2/2/2025,297.78,Cash on Delivery,Yes,2,Yes
+3262a135-ebd0-4e42-ac50-0d8cb8468667,42,Male,New Brendaton,Clothing,Jeans,2/8/2025,445.3,Cash on Delivery,No,1,Yes
+6c36ef2b-60a0-485a-952d-210fc3fb37db,27,Female,Rebeccatown,Electronics,Smartwatch,2/2/2025,106.89,Debit Card,No,5,Yes
+5f225f26-9186-4ec5-a5ae-c354cbfd4be7,56,Other,Port Bruce,Home,Sofa Cover,2/3/2025,223.32,UPI,No,4,Yes
+3e7e54ed-65dd-4e4a-b6bb-9bae3cff7185,45,Female,East Patricia,Electronics,Laptop,2/5/2025,444.9,Cash on Delivery,Yes,1,No
+e2235782-c32b-4522-a9f7-1804e8f67425,58,Female,South David,Clothing,T-Shirt,2/2/2025,458.38,Cash on Delivery,Yes,3,Yes
+c8457072-f3e7-48aa-80be-56892e6cea34,57,Other,Katiemouth,Electronics,Smartphone,2/9/2025,228.28,UPI,Yes,4,Yes
+36de00b8-2b2a-4454-a6f1-b8726fd5c1a5,35,Female,New Thomas,Home,Lamp,2/4/2025,368.51,Debit Card,No,3,Yes
+d562b443-2d47-4824-8e84-9f4511368f34,22,Female,New Pamela,Beauty,Lipstick,2/5/2025,192.05,Debit Card,No,5,No
+1eb278da-4f30-4b91-bf55-26936b7a816a,47,Male,New Marthaview,Clothing,Dress,2/2/2025,117.09,UPI,Yes,1,Yes
+aa6abf9c-e16f-4dd1-83b4-dd6f17dbf551,33,Female,West Nicolehaven,Electronics,Smartwatch,2/9/2025,145.26,Credit Card,Yes,4,No
+03c74ddd-ea74-4e32-a2d2-3353e581e841,22,Male,New Brettstad,Electronics,Laptop,2/6/2025,285.47,Debit Card,Yes,5,No
+f98500d6-ac44-4fc7-9e6c-b1133220fe0d,26,Other,Lake Melissa,Home,Cookware,2/6/2025,267.8,UPI,No,1,No
+92aface2-c0e3-4d16-ac61-263bdcada5a7,37,Female,Phyllistown,Home,Sofa Cover,2/5/2025,497.69,UPI,No,4,No
+2dced531-3764-48a6-8c45-cace367a5db2,18,Other,Matthewburgh,Home,Lamp,2/9/2025,34.34,Credit Card,Yes,5,No
+fb057fb6-f2e9-4226-8fdc-372c2c554f06,36,Other,New Nicolehaven,Beauty,Face Cream,2/9/2025,159.55,UPI,No,1,No
+4cf763e0-32ce-455f-a325-438d154dac77,34,Male,Port Taylorchester,Clothing,Jacket,2/3/2025,285.7,UPI,No,3,Yes
+1a8d09cb-7e9c-49ea-8668-bee370238361,36,Female,Lambertchester,Beauty,Perfume,2/6/2025,97.29,Credit Card,No,2,No
+9ea862f8-e313-4632-b318-7c88d195e525,43,Male,North Tracy,Home,Curtains,2/1/2025,101.41,Cash on Delivery,Yes,1,No
+63c31a21-aaff-475e-b8bd-bb768c389600,25,Female,West Bethany,Electronics,Smartwatch,2/8/2025,473,UPI,Yes,2,Yes
+12a30a7a-c378-40e0-90c1-9938f623cb44,53,Other,North Maryberg,Home,Cookware,2/1/2025,154.62,Debit Card,No,3,Yes
+bdf98b5d-47b8-4ef5-9cb7-57327581b2a0,33,Female,Andrewton,Beauty,Perfume,2/4/2025,326.67,UPI,No,2,No
+00a23a4d-d147-4406-a6db-12f2196d28c4,32,Male,New Peter,Home,Cookware,2/1/2025,314.25,Cash on Delivery,No,2,Yes
+8ad2222e-b6c8-4763-81aa-1b9fa5ead691,59,Other,South Tiffany,Electronics,Smartwatch,2/1/2025,146.74,Credit Card,No,2,Yes
+ca27033c-a8d6-450e-af87-d8c04ef6ff0c,51,Male,East Emilyville,Clothing,Jeans,2/4/2025,227.25,Cash on Delivery,Yes,3,No
+04db02b2-b78c-4aa5-ac0c-029203d73519,34,Other,West Steventown,Clothing,Jacket,2/6/2025,99.77,Credit Card,Yes,5,Yes
+ba490858-5723-4d6a-9b04-43cd5ca27c59,19,Male,Robinsonmouth,Beauty,Face Cream,2/5/2025,190.37,Credit Card,Yes,1,Yes
+fd621cab-80bd-483e-a46d-e82137aa34d4,35,Female,West Vincentview,Beauty,Face Cream,2/4/2025,114.93,Debit Card,No,4,Yes
+2e24323f-d00e-4b3e-ac9c-ab791fb62542,51,Male,New Jenniferhaven,Beauty,Shampoo,2/8/2025,462.53,Credit Card,No,1,No
+fc0f8048-ffa3-4806-a42e-46508e51e889,32,Male,Port Patricia,Home,Lamp,2/1/2025,199.15,Debit Card,Yes,3,Yes
+5adb8488-833c-4f3d-a7f9-1893c529e528,18,Female,Andrewbury,Home,Sofa Cover,2/9/2025,289.98,Cash on Delivery,No,5,Yes
+65578e97-cd80-4ab2-a481-5093b1920225,40,Other,Torresshire,Home,Cookware,2/3/2025,274.13,UPI,No,3,Yes
+e375e146-6625-45ad-a103-37352320a02e,50,Other,North Joshuafort,Clothing,Jacket,2/6/2025,243.32,Credit Card,No,2,No
+4a254345-f872-4fde-94ea-be65460d8c59,31,Male,West Jason,Beauty,Shampoo,2/8/2025,475.59,Debit Card,Yes,4,Yes
+a8e94f42-7c27-4b5b-bc8d-c3506273c945,33,Female,West Keithstad,Beauty,Perfume,2/2/2025,434.54,Debit Card,Yes,4,Yes
+658dd813-2ba3-45e9-ad49-b7990907a993,26,Male,Brianville,Clothing,Dress,2/4/2025,346.41,Cash on Delivery,Yes,4,No
+ac5300c4-c0e1-4fe7-b1ef-cb8ecc8b27b5,60,Male,Brandonchester,Electronics,Headphones,2/4/2025,488.67,UPI,No,5,Yes
+01588c68-c62a-40be-9e18-47245db8ad06,52,Other,Port Loriberg,Electronics,Smartphone,2/1/2025,19.78,Cash on Delivery,Yes,5,No
+3e3ed8cc-eb5f-48d8-acbb-ea9ddbc71d7c,36,Other,Dannystad,Beauty,Face Cream,2/1/2025,268.73,UPI,Yes,5,Yes
+2a3644fc-ab63-45fa-a0b7-e4147133bc0f,39,Other,Garciaborough,Clothing,T-Shirt,2/1/2025,499.61,UPI,Yes,1,Yes
+cc2ec313-67ac-43c8-bf18-d2749cf4702b,46,Male,East Laura,Clothing,T-Shirt,2/8/2025,193.4,Debit Card,No,1,No
+da77c559-4f08-4247-96dc-fa92903c1e11,22,Female,Snyderberg,Home,Sofa Cover,2/8/2025,237.26,Cash on Delivery,No,5,No
+77e56f80-b1dc-4397-bf8b-0c63fcda23c3,36,Male,Moyerview,Electronics,Headphones,2/8/2025,34.45,UPI,No,3,No
+e1b15a3c-e3ba-432a-9e97-3f4de1a4f7d4,35,Male,Barnettside,Home,Curtains,2/1/2025,468.65,Cash on Delivery,No,4,Yes
+7fd3339a-ff6d-4f53-b1a3-823094044057,28,Female,Peterschester,Home,Lamp,2/6/2025,118.25,Credit Card,No,5,No
+a05e5579-c94e-4722-b57b-ef31975b0040,35,Other,Bartlettborough,Beauty,Perfume,2/1/2025,442.25,Credit Card,Yes,4,No
+2024db34-e74a-4fd2-831c-1d48f42d9a0b,26,Female,Robertport,Electronics,Smartphone,2/2/2025,250.42,UPI,Yes,5,Yes
+63b12113-c268-4a53-b674-01ee374b18b5,54,Female,Mackmouth,Electronics,Smartphone,2/7/2025,198.19,Debit Card,No,4,No
+0a837dd8-5336-48ba-9d56-56ddf39ddc22,23,Other,Susanhaven,Clothing,Jacket,2/5/2025,161.47,Credit Card,Yes,1,Yes
+d3d4ec40-085a-4a01-8e9f-f6b9a5159437,38,Other,Port Amandastad,Home,Sofa Cover,2/6/2025,310.75,UPI,No,1,No
+20acac7f-de85-4666-a327-408f7bf1d002,21,Other,West Donald,Electronics,Laptop,2/1/2025,315.77,Cash on Delivery,No,3,Yes
+4a97b32c-f9d9-45ea-8dc5-ad977c21e8e6,37,Other,West Zachary,Electronics,Smartwatch,2/1/2025,406.81,Credit Card,Yes,2,No
+fa4325e5-69ae-47b6-ba8c-2e154a006f2c,20,Female,Vasquezbury,Beauty,Perfume,2/5/2025,273.03,Cash on Delivery,Yes,3,Yes
+c8add8b6-18e0-4ef9-91cb-eae7ff336ae6,35,Other,Bethanystad,Beauty,Shampoo,2/4/2025,159.71,Credit Card,No,5,Yes
+bfcafb40-3999-41f0-a79a-11e90f267814,26,Other,Lake Mary,Clothing,Jeans,2/2/2025,188.19,Debit Card,Yes,2,Yes
+210fce6d-3e12-4c30-b7f5-72daf7b3b80f,35,Male,Michelleshire,Electronics,Smartphone,2/2/2025,474.91,Credit Card,No,5,No
+953de033-e5ff-4ba3-a889-413f964aec52,45,Other,Lake Robert,Clothing,Dress,2/4/2025,483.41,UPI,No,4,Yes
+bc40d114-7a13-479d-a10e-43ead8aceb63,59,Female,South Paul,Electronics,Smartphone,2/2/2025,288.69,Credit Card,No,1,Yes
+4b572049-9253-47a8-83de-2ef6087b7074,24,Male,South Juliafurt,Clothing,Dress,2/8/2025,238.6,Credit Card,Yes,1,Yes
+76fdaefc-7956-4d16-9835-a67bc0afc2b8,35,Female,Jenniferbury,Clothing,Dress,2/2/2025,385.66,Credit Card,Yes,4,No
+e07611d0-50d2-4f41-b3f5-7ec20a13c101,50,Female,Toddborough,Electronics,Smartphone,2/7/2025,92.51,UPI,No,5,Yes
+e044f78d-9c02-4950-a4b1-6c459c14409d,53,Male,Kimberlybury,Home,Cookware,2/5/2025,329.27,Debit Card,Yes,1,No
+1d8fd4dd-f0d5-4d5c-a1f6-794049339da4,49,Male,Thomaston,Beauty,Shampoo,2/8/2025,246.5,Cash on Delivery,No,3,Yes
+2642b2c2-ecbf-4895-a828-42f61a58aefc,23,Male,East Gina,Beauty,Perfume,2/6/2025,51.48,Credit Card,No,5,Yes
+12607d2c-2311-49a7-b9e2-a1609a18b91e,19,Other,Rubioview,Clothing,Jeans,2/1/2025,253.45,UPI,Yes,2,Yes
+1a2b0f94-bfbf-4d77-8ceb-963f68752f7e,24,Other,Katherinechester,Beauty,Shampoo,2/4/2025,16.22,Credit Card,Yes,2,Yes
+cd7f1653-1b89-4a17-ab1e-158253425e6a,46,Other,New Amyhaven,Home,Cookware,2/7/2025,366.63,Credit Card,Yes,5,No
+364cc933-cfab-4705-b044-900ae7de75bd,54,Male,New Kayla,Electronics,Headphones,2/7/2025,295.34,Credit Card,Yes,5,No
+ea34dfd5-20ab-4c7e-b03f-e455b97e20b6,46,Female,Brandonburgh,Clothing,Dress,2/1/2025,45.36,Cash on Delivery,No,1,Yes
+e3be5329-8093-4140-b50e-895208fbdb7d,22,Female,Matthewside,Clothing,Jeans,2/8/2025,222.96,Debit Card,No,5,Yes
+0a3db2ee-531b-45c8-bb88-e6852ef65526,47,Other,Adamville,Electronics,Headphones,2/6/2025,149.67,Cash on Delivery,Yes,1,No
+ab4b2616-2893-47e9-accd-ff0100238b46,27,Other,Lake Samantha,Clothing,Jeans,2/4/2025,406.6,Debit Card,No,4,No
+52aedff8-f698-4557-9392-aa674e41cbec,33,Female,Maureenmouth,Beauty,Face Cream,2/7/2025,18.54,Credit Card,Yes,3,No
+44172e13-9528-4b9e-a580-2a272cd17b53,34,Other,Roberthaven,Electronics,Laptop,2/1/2025,383.48,Credit Card,Yes,1,Yes
+bf245de6-4c25-4377-b6af-d36d2aa6c35a,57,Other,Ashleyville,Electronics,Smartphone,2/4/2025,433,Credit Card,Yes,2,No
+d5cb7a4a-80dd-4fe9-a5d6-6a8c1274e45c,38,Other,Kristifurt,Home,Lamp,2/1/2025,298.17,Debit Card,Yes,4,Yes
+9ff8744a-1602-4611-8edd-07290767a965,36,Male,Riddlemouth,Home,Cookware,2/1/2025,305.98,Credit Card,Yes,1,No
+f8dfe0a3-9ae0-49df-9e11-839de15ee110,30,Female,Smithhaven,Beauty,Shampoo,2/3/2025,361.19,Debit Card,Yes,3,Yes
+9db9e480-f65b-45d3-b388-a25c1acfbe41,28,Male,South Veronica,Clothing,Dress,2/7/2025,205.41,Credit Card,No,5,Yes
+69104240-2518-4064-b761-3a065cb7141a,40,Male,Lake Sharon,Electronics,Smartwatch,2/5/2025,414.95,Credit Card,Yes,2,No
+d9d19789-5a15-4b2d-a268-8d3e82bfafdf,59,Other,Norrismouth,Clothing,Jeans,2/7/2025,324.52,Credit Card,Yes,2,No
+ae3d4a1e-23da-48de-9122-55e5f1c200ea,54,Other,New Calvin,Home,Sofa Cover,2/9/2025,496.34,Credit Card,Yes,3,Yes
+7ee55e54-57f6-406b-b5e4-0bcc766e0efc,33,Female,South Frank,Home,Curtains,2/5/2025,249.02,Cash on Delivery,Yes,3,Yes
+c71be061-cf6b-4f33-9431-eea0768d303a,18,Female,North Lauren,Clothing,T-Shirt,2/2/2025,140.55,Credit Card,Yes,1,No
+73fccd15-a17a-456e-9c2c-12de40539dc6,60,Other,Taraside,Electronics,Headphones,2/6/2025,307.12,Cash on Delivery,No,4,Yes
+b22e3d9b-c2c1-451c-8675-67bd1b22ce43,30,Female,Joseville,Electronics,Laptop,2/6/2025,164.12,Debit Card,Yes,1,Yes
+2395c97d-49db-4a30-a24f-bca4ed4e86bb,44,Female,Whitemouth,Home,Cookware,2/9/2025,145.3,UPI,No,1,No
+9ef35779-4ec1-4bed-a5d8-6a05fbb2bc4b,52,Other,Port Tina,Clothing,T-Shirt,2/8/2025,389.16,Credit Card,Yes,5,No
+7121ecd8-b86b-4ad1-889d-a90c244c2dd9,20,Female,Johnview,Electronics,Headphones,2/3/2025,411.25,Cash on Delivery,Yes,5,Yes
+f1828a8c-6429-4b6e-9afd-bec35ec69f8d,33,Male,Lake Davidton,Clothing,Dress,2/5/2025,325.64,Debit Card,No,4,Yes
+d2559aa0-fef2-4452-ab49-0a841b9ba9d7,24,Female,Tatechester,Electronics,Laptop,2/6/2025,281.26,UPI,No,5,Yes
+8da1ebbf-432a-4dea-9b5f-d73c8ad39ec3,21,Male,Lake Anthony,Electronics,Smartphone,2/4/2025,185,UPI,No,4,No
+8cd8ce50-b65e-47a4-8f34-ef9bc1b83057,20,Male,Port Laura,Home,Lamp,2/5/2025,144.99,Cash on Delivery,Yes,1,Yes
+28e11be8-196b-4391-be86-2691179aa086,57,Female,North Christine,Beauty,Face Cream,2/5/2025,199.08,Cash on Delivery,Yes,2,No
+2fe9a9e3-fa1d-40c5-b013-d60cc3fa5fb9,51,Male,Bradburgh,Clothing,Jeans,2/8/2025,242.31,UPI,Yes,1,No
+a6520606-c209-4348-8c19-42e9f80605ff,54,Male,Port Jon,Electronics,Headphones,2/1/2025,437.94,Cash on Delivery,No,4,Yes
+ecb21976-984a-4b0e-bac1-48d4974ffb99,26,Female,New Jonathanland,Home,Sofa Cover,2/9/2025,177.51,UPI,No,1,No
+e507ff09-7814-4a85-b70c-0c0965224457,22,Other,North Michael,Home,Sofa Cover,2/9/2025,365.42,Credit Card,No,1,Yes
+37dbcd57-a8c5-4f5c-bbca-bab4680ec4f2,36,Other,Lake Randallstad,Beauty,Face Cream,2/5/2025,482.23,Credit Card,Yes,5,Yes
+49a558c5-0657-4292-b54e-d3594ee2e472,40,Other,New Teresaberg,Electronics,Laptop,2/1/2025,400.49,UPI,Yes,3,No
+c22fbbc8-6789-43e4-a83d-2f3f852649e3,19,Other,Dennistown,Clothing,Jeans,2/9/2025,113.9,Debit Card,Yes,2,No
+30bba71d-cd46-408d-94a2-acb1fd4a81b4,49,Female,South Ronaldport,Clothing,Dress,2/7/2025,402.51,Cash on Delivery,Yes,4,No
+6acf6663-dd26-4c75-b868-2bcecebdf7b9,50,Other,Port Ginamouth,Home,Curtains,2/4/2025,331.25,Cash on Delivery,No,1,No
+d48578a4-58b2-40ae-888b-c1cf5a40e527,53,Male,South Victor,Electronics,Laptop,2/9/2025,277.47,Cash on Delivery,No,2,Yes
+6ad413dd-f5f9-4d74-b08a-4099f6e7010e,28,Male,Louisland,Clothing,T-Shirt,2/3/2025,181.49,Cash on Delivery,Yes,3,Yes
+871debe6-a7ef-45d6-9d07-6f0d6f78872a,23,Other,Christinemouth,Beauty,Shampoo,2/8/2025,238.13,Cash on Delivery,Yes,3,Yes
+eb0fe9bb-3789-4311-97c7-96f77c0dc044,26,Other,Lake Aprilbury,Electronics,Headphones,2/2/2025,465.3,Debit Card,Yes,5,No
+2b6e507a-cc85-4cb7-9eaf-8fe4752affe1,59,Female,Kennedybury,Beauty,Face Cream,2/6/2025,428.3,Credit Card,Yes,5,No
+85575cde-3f1d-4108-8c4e-e713fa688418,46,Female,East Seanstad,Electronics,Smartwatch,2/7/2025,433.14,Debit Card,No,1,Yes
+1ebf030b-cbdd-436d-914e-2d348f271adc,48,Male,Lisaland,Clothing,Jacket,2/6/2025,442.51,UPI,Yes,4,Yes
+535b30e4-5ec0-4fdd-b1e9-353945b2dab8,23,Female,Nicholsstad,Clothing,Jacket,2/4/2025,155.56,Debit Card,No,5,No
+cecd9304-02c6-454c-8a36-fb9f90c678a8,58,Female,Bakerburgh,Electronics,Headphones,2/4/2025,73.7,Cash on Delivery,No,4,No
+a1a73d03-2532-49e0-885c-b4897fad5f5e,52,Male,Gonzalezchester,Clothing,Jeans,2/2/2025,146.25,UPI,Yes,2,No
+eaa4c664-31d1-4ea3-b30f-aa8611f64c45,54,Other,Port Heidi,Clothing,T-Shirt,2/4/2025,44.85,Credit Card,No,5,Yes
+88fbb70c-bd3d-4125-b883-ac937f5747ca,51,Other,New Benjamin,Home,Cookware,2/8/2025,330.05,UPI,Yes,3,Yes
+a4d9bdb9-e509-409a-a9c7-5fcf3807fe4d,24,Male,West Michael,Clothing,Dress,2/9/2025,239.52,UPI,No,4,No
+cfd4feca-3dee-4888-8f63-54c8568c913d,48,Other,North Jamesmouth,Electronics,Headphones,2/5/2025,474.5,UPI,Yes,5,Yes
+23f82746-c58d-4a31-a820-f54ca16346bc,53,Other,Caseyfort,Clothing,T-Shirt,2/5/2025,439.77,UPI,No,3,Yes
+b516967f-5611-4bdc-9068-db241e02e895,57,Female,Michaelbury,Electronics,Smartwatch,2/2/2025,264.38,Cash on Delivery,Yes,2,No
+a24d758c-a468-4a7d-b822-957a1b533e70,29,Female,Castanedabury,Electronics,Headphones,2/8/2025,491.35,Credit Card,No,2,Yes
+86ad9ffb-6945-4973-91e2-f62f0485e1f0,34,Female,Tracyberg,Clothing,Jacket,2/2/2025,105.77,Debit Card,No,1,Yes
+fe7047db-5746-4ac7-872c-c288b8d5efbe,45,Female,Byrdshire,Home,Lamp,2/1/2025,491.98,UPI,Yes,4,No
+fbaebb20-846c-4c2f-8d92-d7fe319affdc,35,Male,Tannermouth,Beauty,Shampoo,2/5/2025,268.28,UPI,No,5,No
+a35187dc-43cd-4658-8925-e3fbd3da0d86,27,Female,Michaelport,Beauty,Lipstick,2/9/2025,83.9,Cash on Delivery,Yes,2,Yes
+d93b8238-51f1-4b5d-8635-44c7ef00f3b4,27,Other,Port Michaeltown,Beauty,Perfume,2/7/2025,144.43,Credit Card,Yes,2,Yes
+17819ba6-72b4-4fba-9cb5-9e29f835def5,58,Male,South Stephanie,Home,Cookware,2/7/2025,207.99,Credit Card,No,2,No
+28af666e-440a-4a6c-afad-9f467bd60dc3,26,Other,Jeffersonside,Home,Lamp,2/3/2025,48.22,Debit Card,No,2,Yes
+0aac4eaa-4afa-42e8-8665-5f580e101caa,39,Other,East Nathanburgh,Electronics,Headphones,2/1/2025,119.76,Credit Card,No,5,No
+c0fed6ca-67da-47ae-9899-6483d9461080,57,Female,New Michaelfort,Home,Cookware,2/5/2025,271.79,Cash on Delivery,Yes,1,No
+ea776ea7-f3df-43be-b56c-45ae3ed161b9,35,Male,Hayston,Home,Cookware,2/3/2025,127.49,UPI,No,4,No
+2f119b4c-01ec-488c-87d6-041c539c13f3,46,Male,Brownhaven,Beauty,Perfume,2/7/2025,74.16,Debit Card,No,5,No
+520efc77-924b-4c83-930a-62dc0ddbe72c,47,Male,North Bradybury,Beauty,Lipstick,2/8/2025,65.69,Debit Card,Yes,3,Yes
+592f9b67-28a3-448b-b32d-fdd2a5b71892,18,Other,Fowlershire,Beauty,Perfume,2/9/2025,84.12,Cash on Delivery,No,1,No
+23785722-ba8d-4fe5-a8f3-2658db3e67c5,23,Other,East Ashley,Home,Cookware,2/3/2025,249.9,Debit Card,Yes,1,Yes
+f7393263-9ba9-4ee7-ac65-27d1a97a6c9f,19,Female,West Brian,Beauty,Shampoo,2/1/2025,240.34,Credit Card,Yes,5,No
+5a7755b3-4632-403f-91bb-8a866e8b8cb6,35,Female,North Jamesbury,Clothing,T-Shirt,2/2/2025,149.69,Credit Card,Yes,2,Yes
+b1edade0-1681-494c-ace8-913d99b7871c,18,Female,Steeleville,Home,Curtains,2/2/2025,429.27,UPI,Yes,1,Yes
+15249020-0b70-47be-8e43-7fa7ba6415c0,55,Other,Amychester,Electronics,Laptop,2/7/2025,338.24,Cash on Delivery,No,4,No
+106038d5-0382-4d9d-b595-4ec989aedeae,58,Female,Sharonhaven,Clothing,T-Shirt,2/5/2025,139.55,Cash on Delivery,No,3,No
+bcbdfba9-3bac-4a15-8b06-f3c3c6d349d7,37,Female,Daviston,Electronics,Headphones,2/3/2025,428.13,Credit Card,Yes,3,No
+fd10999e-a740-4215-847f-7fcf8a778452,33,Female,South Ralphmouth,Home,Lamp,2/5/2025,259.49,UPI,Yes,3,Yes
+b0d5984a-37d6-4f67-afa6-00d3a0c5d606,22,Male,Torresbury,Beauty,Shampoo,2/3/2025,258.39,Debit Card,Yes,3,No
+ac282b33-3237-4d8b-805c-ad1db4ca8442,22,Female,East Tashaport,Electronics,Laptop,2/7/2025,200.02,Cash on Delivery,No,2,Yes
+281e2733-6816-4665-b5db-59526824aa1d,43,Other,East Robert,Home,Cookware,2/3/2025,128.4,Cash on Delivery,Yes,3,No
+ec83ba15-62ef-41e6-9b46-4a90c14dc796,55,Male,Port Jonathan,Home,Cookware,2/3/2025,366.5,Cash on Delivery,Yes,2,No
+0ac4519a-3d17-4ade-a333-8c43239607fa,45,Male,Lake Matthew,Beauty,Shampoo,2/4/2025,489.99,Credit Card,No,4,Yes
+a3eaa89c-dcee-4b70-8427-ceba67a30661,53,Other,Maryhaven,Clothing,Jeans,2/8/2025,384.47,Debit Card,No,2,No
+f174a844-43ce-49ad-9b95-a73954615f0d,48,Male,Howardmouth,Beauty,Perfume,2/8/2025,345.17,Credit Card,Yes,1,No
+dae564c4-2acf-4663-8a6a-545d54611fec,45,Male,Adamville,Electronics,Headphones,2/1/2025,246.41,Credit Card,Yes,2,Yes
+69e34a8a-0774-4b86-8f34-103f1734bccd,27,Male,East Christinaborough,Beauty,Perfume,2/6/2025,365.5,UPI,No,5,Yes
+34e814de-4223-4b0f-9e31-79cc8feef9fc,55,Female,West Kylie,Home,Sofa Cover,2/9/2025,427.79,Debit Card,Yes,2,Yes
+0294344a-5a55-48dc-8be0-37aa54f2a2eb,25,Female,South Joshuachester,Clothing,T-Shirt,2/2/2025,154.44,Credit Card,No,3,Yes
+fc557a1d-743b-481f-87d4-c0ec3ce142c0,60,Female,Chapmanmouth,Home,Cookware,2/5/2025,379.49,Debit Card,No,2,No
+e7dffb55-72c8-4f71-a7c3-5cc8950e60f1,46,Male,Howellchester,Clothing,Jacket,2/8/2025,42.77,UPI,Yes,5,Yes
+ac5740f1-925e-48b3-9f77-0aec676a6211,28,Other,East Christineland,Clothing,Jeans,2/5/2025,157.39,Debit Card,Yes,1,No
+e8aabeac-6e39-48e3-8546-4d4ecf2a257e,57,Other,West Taramouth,Home,Cookware,2/3/2025,21.7,Cash on Delivery,No,4,No
+babfea49-0bf3-4b3e-a605-fa451de4e5e5,22,Male,West Melissa,Beauty,Perfume,2/8/2025,220.09,Credit Card,Yes,3,Yes
+fcaa7775-3ae8-4e04-b2c2-396a2c112fe9,48,Male,Port Sharon,Beauty,Perfume,2/8/2025,84.01,Credit Card,Yes,3,Yes
+73a38e52-0f3d-4591-a228-fc706eb37023,26,Female,Hornview,Home,Curtains,2/3/2025,231.04,Cash on Delivery,No,1,Yes
+6198073b-7fbf-4f1a-8658-2986517650b2,26,Female,North Brandon,Beauty,Perfume,2/3/2025,151.37,Debit Card,Yes,5,Yes
+c7e45482-a405-4c7a-abca-ee753b408477,50,Male,Brennanland,Beauty,Lipstick,2/7/2025,226.26,UPI,No,1,No
+14e92a72-1daa-4d1d-b2c0-bea4564648a8,35,Other,Hendersonport,Electronics,Smartwatch,2/5/2025,75.18,Debit Card,No,3,Yes
+9ebcbf5a-586a-41cd-8ddc-575593b52952,37,Female,Wardstad,Beauty,Shampoo,2/6/2025,161.92,Cash on Delivery,No,5,Yes
+c913991b-51df-4294-9a01-90beda796492,31,Other,Caseyshire,Beauty,Perfume,2/3/2025,150.25,Cash on Delivery,No,4,No
+78e46584-0d2e-4d9f-99db-f31e6c1803a2,23,Other,North Lorimouth,Home,Cookware,2/3/2025,364.77,Debit Card,Yes,4,No
+ae5263f2-9c4b-4686-9e60-d9f969126ad2,23,Male,Port Samanthaberg,Home,Curtains,2/2/2025,157.14,Cash on Delivery,No,5,No
+099abf29-963a-4a31-8296-ff794ba358f2,39,Other,North Andrewhaven,Home,Sofa Cover,2/5/2025,499.39,Credit Card,No,2,No
+2ca23689-29e6-4d85-ba6c-ad206d8d6b75,23,Male,New Miguel,Clothing,Dress,2/1/2025,393.11,Credit Card,No,2,No
+512d006d-2380-4196-981a-090b35ec759e,40,Male,Davidtown,Clothing,T-Shirt,2/9/2025,63.56,Cash on Delivery,Yes,3,No
+7bd065fa-00a9-4b93-b426-e85176073c34,59,Other,North Ashleytown,Beauty,Face Cream,2/7/2025,243.6,Debit Card,Yes,1,Yes
+fb4b59ac-bcd5-44ea-bdb0-dd14a97fa15c,51,Other,North Andreaborough,Electronics,Headphones,2/4/2025,207.65,Cash on Delivery,Yes,4,Yes
+9b54c298-4394-4081-83f7-e3b2c03e2b83,58,Female,Darylview,Beauty,Lipstick,2/9/2025,189.3,UPI,No,2,Yes
+82c997a9-d2be-4ab2-98c7-187976713f61,28,Male,Joannafurt,Beauty,Perfume,2/8/2025,167.43,UPI,No,5,No
+5bc1b6a9-5f6b-4855-9f11-797eb00883a0,30,Male,Heathport,Electronics,Headphones,2/7/2025,298.1,Cash on Delivery,No,4,No
+e0fb4564-b0d5-469a-b268-970c10e5ebc0,49,Female,West Yvonnehaven,Beauty,Shampoo,2/6/2025,331.11,Cash on Delivery,Yes,5,Yes
+b3a7fd62-37fe-4b86-a34c-c868bfd2b34c,32,Other,New John,Beauty,Face Cream,2/9/2025,410.94,Cash on Delivery,Yes,3,Yes
+5e05988f-1f06-462d-8d5b-25e9a48b3635,49,Other,Markborough,Clothing,Dress,2/3/2025,268.34,Credit Card,No,5,No
+a9bd8373-3838-4680-b9d0-ff8a329f9846,31,Other,Guzmanshire,Home,Curtains,2/3/2025,340.39,Credit Card,Yes,4,Yes
+c8e1cea5-16bb-4efc-bdd6-3d7bf3a08014,39,Other,Josemouth,Beauty,Face Cream,2/4/2025,419.71,Cash on Delivery,No,4,No
+3ac460ad-4289-4211-8217-be03a6b1a26a,21,Other,New Georgefort,Beauty,Face Cream,2/9/2025,358.27,UPI,No,3,No
+f4efa439-8169-494b-85cf-95d2de811521,41,Female,South Kirkfurt,Electronics,Smartphone,2/1/2025,286.77,Cash on Delivery,No,5,No
+f9511ecc-8d44-4518-bd3d-7bec9d44ebbf,44,Other,Lake Michelle,Home,Cookware,2/3/2025,307.1,Debit Card,No,4,Yes
+c4fff7a9-699c-4a11-904f-114e8f96fde8,41,Other,South Robert,Clothing,Jacket,2/1/2025,295.22,Cash on Delivery,No,2,Yes
+83288f4a-0004-4b28-8578-a6194fab8d00,57,Female,North Bryanville,Beauty,Shampoo,2/5/2025,135.69,UPI,No,3,Yes
+90d83aa5-2261-4800-8e06-a812b4b6387d,31,Other,Donnashire,Electronics,Laptop,2/4/2025,404.03,Credit Card,No,4,No
+08ce46d0-c0b9-4bca-937b-9d7a51e74700,33,Male,Joneston,Home,Sofa Cover,2/5/2025,86.5,Debit Card,Yes,2,No
+740be11c-4af5-462b-9af7-bea8b1ecd393,34,Other,Careyburgh,Electronics,Headphones,2/8/2025,163.29,Credit Card,Yes,1,Yes
+768dcf6b-2aab-4b38-bec7-b4dd21d1bf16,60,Female,Andersonhaven,Beauty,Perfume,2/5/2025,21.67,Credit Card,No,4,No
+aba4614d-51b7-4ca3-aafa-aaf20bc25b88,31,Other,Wolffort,Clothing,Jeans,2/5/2025,348.29,UPI,Yes,3,No
+5f4f3bfa-75a8-46af-9960-2fdcd335f813,57,Other,North Cindyside,Home,Cookware,2/9/2025,301.53,UPI,No,1,No
+0f69721b-6af7-48b0-89a7-f6658be3dc71,29,Female,Timside,Electronics,Laptop,2/5/2025,89.57,Debit Card,Yes,3,Yes
+0f426610-7d85-49f9-90c1-75604f9c3cc6,59,Other,Carolside,Beauty,Face Cream,2/9/2025,366.78,Debit Card,No,4,No
+47089673-79c7-45e7-9ae4-a531e7dd278a,39,Other,Jenniferberg,Clothing,Jeans,2/8/2025,35.49,Debit Card,Yes,1,No
+f1ef4c4e-81e4-4d68-9a33-3f0614666a27,53,Female,Port Shannonburgh,Electronics,Smartwatch,2/5/2025,219.89,Cash on Delivery,No,2,Yes
+0aeabcd9-f383-4239-b3a5-27b23e5f2dec,26,Male,Lake Monicaburgh,Clothing,Dress,2/7/2025,114.84,Credit Card,Yes,5,Yes
+a082ed77-1e5b-47e8-b705-e970e88bceb2,38,Female,Jacquelinemouth,Electronics,Smartphone,2/9/2025,297.1,Credit Card,No,3,Yes
+5d1a247f-9689-47db-914d-fd37ebfd88e9,18,Male,Lake Paulfurt,Beauty,Lipstick,2/8/2025,434.47,Credit Card,No,4,No
+7b34fc72-ff01-4072-82ed-8a7fcd52de29,38,Male,New Julieport,Electronics,Smartphone,2/6/2025,26.32,UPI,No,3,No
+7aee7c4e-e874-441e-a289-76e10c4947a7,50,Other,Brianmouth,Beauty,Shampoo,2/5/2025,411.92,Cash on Delivery,Yes,5,Yes
+a02ef67e-4509-480b-b4fc-5ed661364cf4,38,Female,Rodriguezton,Home,Lamp,2/4/2025,111.64,UPI,Yes,5,No
+41c390e4-1669-425a-884f-e241b91eea0f,34,Female,Annaberg,Electronics,Smartwatch,2/1/2025,481.36,Credit Card,No,1,No
+5076ea8f-e509-4d45-a662-d3d3f9cc39dc,50,Female,Jessicaton,Beauty,Perfume,2/1/2025,31.26,Cash on Delivery,Yes,3,Yes
+4b762e2f-9fca-42bd-b946-c1ddfc2c762d,48,Other,New Lori,Electronics,Smartphone,2/8/2025,18.53,Debit Card,Yes,5,Yes
+06940254-8281-4cf6-95e8-d142db633bcf,58,Female,North Patrickstad,Electronics,Headphones,2/4/2025,471.15,Debit Card,Yes,1,Yes
+7960df47-d720-4772-95d3-1288ed8ff4da,35,Male,Obrienmouth,Clothing,Dress,2/9/2025,195.01,Cash on Delivery,No,5,No
+2c4bf253-d55d-4b93-8cca-d92baa08d83a,28,Other,Masonmouth,Clothing,Dress,2/5/2025,16.1,Debit Card,No,4,Yes
+ddd11cd0-a304-4380-aac1-4fd55f162972,50,Other,Markborough,Electronics,Smartphone,2/7/2025,463.78,UPI,No,1,No
+9a0d3fee-f14a-4d55-9605-15f20d99d90a,26,Other,Robertville,Electronics,Smartphone,2/7/2025,202.06,Credit Card,Yes,4,Yes
+96b0d84f-412d-4820-b64a-0f21da098c5c,43,Female,Rossshire,Home,Lamp,2/4/2025,246.36,Credit Card,Yes,1,No
+639eeebf-c5a4-4a46-a9f8-49156d849008,38,Female,Lake Nicolehaven,Beauty,Perfume,2/9/2025,45.28,Cash on Delivery,No,5,Yes
+854b442b-6e6a-443e-a684-d089045f7d73,48,Other,East Hannahton,Clothing,Jeans,2/9/2025,224.5,Debit Card,Yes,3,No
+9a893943-eba7-43eb-84a3-aaea790ed550,22,Other,Wallerland,Clothing,Dress,2/2/2025,274.33,Cash on Delivery,Yes,3,Yes
+f9181166-c052-4e43-968b-a148534dae7f,22,Other,East Bethbury,Electronics,Smartphone,2/8/2025,321.66,Debit Card,No,5,No
+1a6ac259-789f-427d-90ea-a359755e79b5,37,Male,Taylorport,Electronics,Smartphone,2/9/2025,365.35,Credit Card,Yes,5,Yes
+39e1c934-3cf1-4e31-83c7-e005e64239b9,40,Female,Port Rachel,Clothing,Dress,2/7/2025,86.37,Cash on Delivery,Yes,5,No
+cf44f13e-0383-4e6b-a536-3bfd6d458a92,47,Female,New Charles,Home,Sofa Cover,2/7/2025,107.84,Credit Card,Yes,4,Yes
+9730c0fd-d3c7-4dbd-9f3c-59bfe9616ae9,48,Female,West Breannafurt,Clothing,Jeans,2/1/2025,27.16,Credit Card,No,4,No
+abb40351-cee8-4f7a-9da0-c592a7c61692,53,Other,Lake Dianemouth,Clothing,Jeans,2/7/2025,218.17,Cash on Delivery,Yes,5,Yes
+05ef9fcc-b135-4c55-870e-c836fd803c8b,22,Other,Holmesburgh,Beauty,Shampoo,2/6/2025,440.92,Credit Card,Yes,3,Yes
+e698d6fc-de2e-43e2-a258-8d03e4537040,42,Female,Gomezside,Clothing,T-Shirt,2/4/2025,305.13,Cash on Delivery,No,3,Yes
+291513e5-1beb-411f-bac5-19923c0f6f3b,26,Male,North Emilymouth,Electronics,Smartphone,2/4/2025,90.12,UPI,No,4,No
+1996c1fb-94b5-449a-b60a-79bb20670ebb,20,Male,Port Amberburgh,Beauty,Lipstick,2/8/2025,320.61,Debit Card,No,1,Yes
+dc58de61-ca49-41db-8b90-2e3b1aaae3fe,52,Other,New Jonathantown,Electronics,Laptop,2/3/2025,27.43,Cash on Delivery,Yes,4,No
+f483ef45-fa50-41ad-a9b5-3afed0646ece,54,Male,Roachfurt,Beauty,Perfume,2/2/2025,265.14,UPI,Yes,2,No
+2e9bba8e-52a5-4e98-8811-c895f08f5faf,50,Female,Johnfort,Clothing,Dress,2/9/2025,460.55,Cash on Delivery,No,3,Yes
+7a935ff8-a5d9-46cb-8d06-0da9b18be7b7,25,Male,Paulborough,Beauty,Perfume,2/3/2025,86.98,UPI,Yes,2,Yes
+6bbe0e66-09e2-40c1-8558-ed19844e511e,39,Female,Silvastad,Clothing,Jacket,2/4/2025,349.53,UPI,Yes,5,Yes
+b1305d39-ce9c-4ea3-a784-93175f61e10c,25,Other,Brandyton,Home,Cookware,2/7/2025,394.57,UPI,No,5,No
+4e44b753-c616-470c-874b-a9e2245e7038,19,Male,Sarahbury,Electronics,Laptop,2/7/2025,288.5,Credit Card,Yes,1,Yes
+58597d2c-b2b2-45e6-8ed0-63dbd30fe93d,58,Male,Raystad,Beauty,Perfume,2/8/2025,267.36,Cash on Delivery,Yes,3,Yes
+52a28fc7-ed2f-4807-876e-742c78c3830c,53,Male,Smithberg,Clothing,T-Shirt,2/2/2025,101.67,Debit Card,Yes,5,Yes
+046b9430-e735-46cf-b5c1-35f9fb47c380,26,Other,West Jeremy,Beauty,Shampoo,2/2/2025,253.15,UPI,Yes,5,No
+9183249e-1813-428e-bbb2-9ef497d06e60,49,Female,Sheilafurt,Beauty,Face Cream,2/1/2025,388.77,Debit Card,Yes,4,Yes
+8c9ccc49-2212-416a-9322-da604cd95aa8,39,Female,Lake Latasha,Clothing,Dress,2/2/2025,29.76,Cash on Delivery,Yes,3,No
+d032e4be-1baf-4017-bc1a-ed565678137e,43,Female,Jamesmouth,Beauty,Shampoo,2/4/2025,417.02,Debit Card,No,3,No
+5a17ad0a-cd79-46a0-946c-b6da499aef79,56,Female,East Monicastad,Electronics,Headphones,2/3/2025,290.24,Credit Card,Yes,4,No
+18811362-1c6a-4e1d-9989-0597a04de7b4,59,Female,New Karen,Home,Cookware,2/4/2025,70.94,Credit Card,No,5,No
+75531d89-9292-4fe4-b8f4-4fcab94a0d61,38,Female,Hernandezport,Electronics,Smartwatch,2/4/2025,232.84,Cash on Delivery,No,4,No
+b3eb27f6-93bc-4595-9e9a-b20f07d1c17c,60,Male,Cynthialand,Beauty,Perfume,2/6/2025,233.21,UPI,Yes,2,No
+b3e93495-9b0e-4cdf-8f28-b71205d92f98,37,Female,West Rebeccaville,Electronics,Smartphone,2/7/2025,161.83,Debit Card,No,3,Yes
+202e9e3b-c024-46da-8d64-6e0148fa1343,60,Female,Robbinsside,Home,Cookware,2/9/2025,380.34,Credit Card,No,1,Yes
+e45165a0-5a11-447b-bd43-255e448f6112,58,Male,Dianemouth,Beauty,Perfume,2/2/2025,120.04,Credit Card,No,2,No
+7c2431d5-19fb-4859-9b7b-159df5cc5559,42,Male,Mayerland,Beauty,Lipstick,2/4/2025,11.38,UPI,Yes,1,No
+cd6a9b81-5f60-4a21-b7a0-3cd40aa3bb94,59,Other,Krausehaven,Beauty,Perfume,2/3/2025,422.56,Debit Card,Yes,2,No
+a1870b80-bca7-4e34-ab3f-468fe3dd91a0,49,Female,Perryshire,Beauty,Perfume,2/8/2025,14.18,UPI,Yes,2,No
+f0cad73f-a0d4-45e8-a375-d7279b04fbc7,25,Female,West Corey,Clothing,Dress,2/5/2025,383.05,Credit Card,No,2,Yes
+ab9f77ca-bb44-4cbf-91d6-258b1f94fef6,21,Female,Billymouth,Beauty,Shampoo,2/9/2025,141.01,Debit Card,Yes,1,No
+cb69b1c1-a0e9-438e-a1bf-c7dbb9b64855,36,Other,Greenberg,Home,Sofa Cover,2/6/2025,482.23,Credit Card,Yes,5,No
+38e8bb7d-e033-4ab5-9f2a-edc40e98c823,46,Female,Dawnberg,Clothing,Jacket,2/3/2025,142.02,Credit Card,No,1,No
+b7c1918e-89c8-47e6-a017-f05f445e0348,37,Other,Brentmouth,Beauty,Face Cream,2/4/2025,384.02,Debit Card,Yes,2,Yes
+45723cf1-ced7-4e7e-be41-14817ea10797,48,Male,Andersonburgh,Beauty,Face Cream,2/9/2025,47.81,Debit Card,No,4,Yes
+759b7bd8-1a7c-477e-a168-624670f900dc,57,Female,Mitchellview,Home,Cookware,2/3/2025,208.53,UPI,Yes,4,No
+43813c6f-c6fe-47e3-90e9-7dac67df9e1b,18,Other,Reginachester,Home,Curtains,2/3/2025,293.01,UPI,No,5,No
+4c9c39a4-3c5e-48c7-b043-da75a81783f2,29,Other,Diaztown,Electronics,Smartwatch,2/4/2025,313.88,UPI,No,1,Yes
+08273347-f03b-47ef-b434-1ed29ea35f47,45,Male,Kerryport,Clothing,Dress,2/1/2025,166.1,Credit Card,Yes,4,Yes
+6efb96a1-a4b7-449f-b276-fd9f4dcc7d50,43,Other,South Cory,Clothing,Jacket,2/2/2025,432.9,Cash on Delivery,Yes,1,Yes
+621d666a-b672-4888-a64e-4a9b02bbe5b5,39,Female,Marthaland,Home,Sofa Cover,2/9/2025,248.75,UPI,Yes,3,No
+383109f4-90ae-49c0-8757-b6a30abd2b79,19,Other,Bradleyfurt,Beauty,Face Cream,2/4/2025,287.33,UPI,No,4,Yes
+53d8089e-d595-4e74-9b75-6ca35139d210,24,Male,Perezburgh,Clothing,Jacket,2/1/2025,199.78,Credit Card,No,1,Yes
+764ef074-ce94-4ff6-bc00-3f06bb8c876a,33,Female,Port Erik,Beauty,Shampoo,2/8/2025,331.1,Credit Card,Yes,2,Yes
+6b1b4adb-3fcb-4a78-ba9d-7f02179554a8,20,Female,West Donnabury,Electronics,Headphones,2/2/2025,174.73,Cash on Delivery,Yes,1,No
+56e61373-48b4-435e-8de4-6cbeb0e68483,32,Male,Port Roymouth,Beauty,Face Cream,2/3/2025,54.22,Cash on Delivery,Yes,5,No
+23a97b46-1092-436a-bfe1-32b89ff47d53,20,Female,Port Jasonbury,Clothing,Dress,2/3/2025,86.72,Cash on Delivery,No,2,No
+38b5b95e-8018-446f-9cf1-6d28b185369b,49,Other,East Antonioville,Electronics,Laptop,2/2/2025,360.69,Credit Card,No,4,No
+afc5f0f0-f0cd-437b-941b-cf6169bdb283,37,Female,Port Kathleen,Beauty,Perfume,2/2/2025,474.75,UPI,Yes,1,No
+89293274-cb58-4817-a9c6-63c3a2d1fc67,46,Other,Nguyenberg,Beauty,Perfume,2/6/2025,133.82,Credit Card,Yes,1,No
+9f70220e-47e3-47d1-bf1c-9c958843e106,49,Female,Melissahaven,Home,Curtains,2/5/2025,272.22,Debit Card,No,3,Yes
+3bd9e9b2-ce7c-441e-a19a-c88bd4694499,35,Other,North Stephen,Clothing,Jeans,2/9/2025,120.04,UPI,Yes,2,No
+836c38a6-7045-46ba-be55-23bf5f3f7f93,19,Male,Schultzbury,Beauty,Lipstick,2/1/2025,317.19,Debit Card,No,2,No
+080625b1-5d78-4106-bb11-47af3c24c63b,20,Other,South Amanda,Clothing,Jacket,2/1/2025,494.29,Debit Card,No,4,Yes
+b5c875de-c327-45fa-862f-dea3c64cb293,47,Other,East Matthew,Clothing,T-Shirt,2/2/2025,135.15,Debit Card,No,3,No
+64f9156e-e30e-4213-99e3-a9e8d172430f,54,Other,Port Jenniferfort,Beauty,Perfume,2/7/2025,359.63,Debit Card,No,1,Yes
+ca3b4c5c-ca9a-48e4-be29-68428300b593,60,Male,North Tylerfort,Home,Curtains,2/4/2025,100.85,UPI,Yes,4,Yes
+24c4920a-2bca-429b-a3a2-129427332979,44,Other,Watsonville,Electronics,Smartphone,2/9/2025,379.68,Debit Card,No,4,No
+389a39c9-960a-40b2-9755-7be7f1e186a2,50,Male,East Dawn,Electronics,Smartphone,2/3/2025,462.1,Debit Card,Yes,1,Yes
+f6506aaf-9708-4755-a4cf-6b78e7ad71cb,29,Female,Kingstad,Clothing,T-Shirt,2/7/2025,184.73,Cash on Delivery,Yes,3,Yes
+ea779365-ace2-4fcf-ad3f-90c6983eb5c1,28,Male,Curtismouth,Clothing,Dress,2/3/2025,371.53,UPI,Yes,4,Yes
+7b470ca6-7dce-4d6d-90e5-083efa636d35,26,Female,Marissatown,Beauty,Perfume,2/1/2025,253.09,Credit Card,No,4,Yes
+8ca7a9ba-c825-4be7-b48c-9b46df387db6,35,Male,Port Belindaside,Electronics,Smartphone,2/9/2025,119.76,Cash on Delivery,No,2,No
+ed4884f2-797b-44d3-95cd-bf6dc024d5f9,45,Female,Garciahaven,Beauty,Face Cream,2/7/2025,244.3,Debit Card,No,1,Yes
+d6e0cd9c-ddf8-4504-af47-85212c50c0d9,49,Other,South Johnnyhaven,Clothing,T-Shirt,2/3/2025,157.57,Debit Card,No,2,No
+c8094ca7-e998-48a3-ba55-09832e0c75e6,32,Other,Annaside,Electronics,Smartphone,2/4/2025,133.87,Cash on Delivery,Yes,4,No
+a519db99-adb0-4263-8cac-a4d425ab0553,34,Male,Cookbury,Clothing,T-Shirt,2/7/2025,404.31,UPI,No,1,Yes
+9b98f068-8b39-4022-a458-0ecb7c2ba567,23,Male,Ramosport,Home,Lamp,2/3/2025,346.05,Debit Card,Yes,3,Yes
+1b4c34ce-aca3-4f42-8275-911619ecc388,49,Male,East Heather,Home,Cookware,2/2/2025,452.9,UPI,No,4,Yes
+3bfa0eea-a123-4988-b363-644bef9b0bf4,45,Female,South Wesley,Clothing,Jeans,2/8/2025,165.93,Debit Card,No,1,No
+6bb11ce6-e7c8-49e2-bb9e-58a8b476a5a0,28,Male,Chaseside,Electronics,Smartphone,2/9/2025,155.78,Cash on Delivery,No,2,Yes
+f6a1aba8-d1ba-4201-afcf-b2d09f243a9e,42,Other,Stevensbury,Beauty,Lipstick,2/8/2025,115.7,Cash on Delivery,No,4,Yes
+2684189d-bc50-4db4-83d1-aaa36a98c8ba,28,Male,Port Pamelaborough,Electronics,Smartphone,2/7/2025,211.62,Credit Card,No,4,Yes
+de138476-8050-4c9a-85b3-a1a4f9fd4d55,25,Female,East Susanborough,Beauty,Face Cream,2/8/2025,276.65,Credit Card,No,3,Yes
+5f00b7ec-b78f-40a6-97fb-509b5f334983,28,Male,Michaelbury,Electronics,Headphones,2/7/2025,53.61,Debit Card,Yes,3,Yes
+3ff8efe7-9c1c-491a-ae2d-e1a514dff469,30,Other,East Jeffreyfurt,Electronics,Laptop,2/4/2025,473.12,Debit Card,No,4,No
+15465e7f-377e-4fe8-90b5-903fb1fab361,37,Male,Troyfurt,Clothing,Dress,2/1/2025,355.55,Credit Card,Yes,3,Yes
+9af74a61-c4cf-4cd4-b8d5-eab7f9b975af,31,Other,Juliatown,Home,Lamp,2/5/2025,314.66,Debit Card,Yes,1,Yes
+4e16fb61-680b-49a2-930d-0f66968a15ee,23,Male,Lake Ryanfort,Home,Sofa Cover,2/9/2025,104.26,UPI,Yes,2,No
+0a93d1e6-541d-402b-a000-442b5b607ac1,35,Other,Estradaland,Clothing,Jacket,2/5/2025,75.11,Debit Card,Yes,4,Yes
+b793e067-dbe3-4dfe-a88d-86dc8a5198d2,19,Male,Bowersville,Clothing,Jacket,2/3/2025,456.09,Cash on Delivery,Yes,2,Yes
+352022f9-54a7-4ce0-98fc-a43d5a02853a,36,Other,Acostatown,Beauty,Shampoo,2/3/2025,239.49,Cash on Delivery,No,1,No
+f776a4b6-c0bf-4215-be64-c424994ab102,59,Male,East Elizabeth,Home,Cookware,2/6/2025,69.43,Debit Card,Yes,1,No
+d883b354-c64e-45f1-8de6-38fd663c200b,51,Female,Barnettton,Beauty,Face Cream,2/3/2025,231.59,Cash on Delivery,No,1,No
+b843666b-352f-4838-b385-adde4bfb1d2d,33,Female,Lake Denise,Clothing,Dress,2/5/2025,204.95,Credit Card,Yes,3,No
+affd0cac-6b2c-4d2b-865d-92c9c8c5a92d,44,Other,North Josephtown,Home,Lamp,2/6/2025,207.34,Credit Card,No,2,Yes
+460c226c-c26c-455f-b8dc-479d389b3860,18,Female,Davidburgh,Home,Cookware,2/7/2025,282.84,Debit Card,No,3,No
+e24ba3cc-1b43-42f7-a1c7-9086cdcd31f6,56,Other,East Catherinefurt,Clothing,T-Shirt,2/4/2025,18.06,Cash on Delivery,Yes,4,Yes
+2bf34e0c-8433-4b7b-94cd-b95bb970dc0a,24,Male,New Samanthamouth,Clothing,Jacket,2/4/2025,78.13,Credit Card,No,4,Yes
+e05fa5c0-0142-45fd-8fa6-cb706a18984c,52,Male,New Marisa,Electronics,Smartphone,2/9/2025,171.51,UPI,Yes,3,Yes
+0e6e3d80-b9db-4297-abe1-6f035c3ee89f,39,Other,Port Frank,Home,Curtains,2/8/2025,150.97,UPI,Yes,1,No
+356e76db-2a5c-402e-aa36-eee89c3f6757,41,Other,Garyland,Home,Lamp,2/6/2025,74.6,Debit Card,No,2,No
+7a0c17f3-1cf9-418e-80cd-b33bbdc456e8,22,Male,Debraborough,Clothing,T-Shirt,2/8/2025,356.32,Credit Card,Yes,4,No
+ac02ed5c-3091-46ed-9f58-f46d75aa8ecd,25,Male,New Regina,Clothing,Jeans,2/9/2025,35.42,UPI,No,4,No
+9c7f7af3-bda9-4dd1-8784-76100fb2ec8d,57,Male,South John,Home,Lamp,2/6/2025,423.97,UPI,No,5,Yes
+8f768386-63a8-48c2-98cf-da3004ff2513,47,Other,Melissaton,Electronics,Headphones,2/3/2025,215.16,Credit Card,Yes,4,No
+2b3732a1-8e37-43f9-b926-69b10365b28c,58,Male,Ronaldfurt,Beauty,Lipstick,2/8/2025,473.71,Debit Card,No,5,Yes
+561e1726-7bf9-439e-8c58-96c7e170a6c4,52,Other,Jenkinshaven,Clothing,T-Shirt,2/3/2025,82.74,Debit Card,No,5,Yes
+2b95e1f5-3bd0-45ea-864f-61df9eefa2ce,21,Male,North Scott,Home,Cookware,2/3/2025,363.72,UPI,Yes,5,Yes
+d57854aa-a286-4c60-b106-e422df897a52,49,Other,New Markmouth,Clothing,Dress,2/2/2025,159.84,UPI,Yes,3,No
+3470750b-2018-4258-9e6b-681e9dd118a7,21,Female,Philipstad,Clothing,T-Shirt,2/8/2025,58.18,Credit Card,No,5,No
+63213730-3dc4-42c4-a511-e918fd120632,53,Other,East Kathleen,Clothing,Jeans,2/5/2025,239.92,Credit Card,No,2,Yes
+1c1a8aba-5ef9-4d2c-a920-7af21a1d89fd,37,Other,West Johnberg,Home,Lamp,2/6/2025,332.91,UPI,Yes,4,Yes
+0b5cc2ed-2e1d-4dda-823f-fa9282ccf1ab,24,Other,Haasfurt,Electronics,Smartphone,2/8/2025,359.33,UPI,Yes,1,Yes
+51dee1b0-d8e3-46a6-b7fd-7ffe8558fd8f,59,Other,East Mollyberg,Electronics,Headphones,2/6/2025,388.4,Debit Card,Yes,4,Yes
+0d099ff7-f879-4be6-b071-38983a112ef0,56,Male,Johnburgh,Clothing,T-Shirt,2/9/2025,80.92,Cash on Delivery,No,1,No
+46331237-8e94-4a29-a7e5-20310244c634,42,Male,North Annamouth,Clothing,Dress,2/3/2025,178.18,UPI,No,2,Yes
+052192f0-5e9a-462a-82ef-f5bfe03e3b43,47,Other,North Matthew,Home,Curtains,2/6/2025,168.43,Credit Card,No,1,No
+57b1c132-f20d-4ecb-a57f-13be3fbb9027,38,Male,Griffithburgh,Clothing,Jacket,2/2/2025,371.44,UPI,Yes,2,No
+b1122181-7fdb-452d-ac61-1a2781a6dfaf,56,Male,West Michaelport,Electronics,Smartphone,2/6/2025,84.61,UPI,No,3,Yes
+73ae1ad3-10bb-4d47-afc1-03619d3aee47,34,Male,East Paulshire,Beauty,Face Cream,2/2/2025,420.24,UPI,Yes,3,No
+e353578d-5db9-43d6-89d7-506b906778a0,22,Male,Tiffanymouth,Home,Curtains,2/4/2025,169.46,Credit Card,Yes,4,Yes
+4503ef2e-f7d2-447e-9f52-f3139faa588d,46,Female,South Jamietown,Home,Sofa Cover,2/2/2025,443.45,UPI,No,2,No
+e7d4b79f-75b9-4c37-9a6e-ea75bdf488e3,28,Other,West Randallfort,Home,Curtains,2/7/2025,133.54,UPI,No,5,Yes
+d0929f24-9221-4d99-a5b3-c4ba0f32d7bd,30,Other,Callahanmouth,Home,Sofa Cover,2/6/2025,357.15,UPI,Yes,2,Yes
+24d03294-2247-4997-af52-e8e8ec13ba63,21,Other,Wilsonshire,Clothing,Jacket,2/4/2025,439.05,Debit Card,Yes,1,No
+c235a877-0c02-41c1-bcb3-d3a42c38a8fb,54,Other,Adamsstad,Electronics,Headphones,2/9/2025,16.42,Credit Card,No,4,Yes
+d857da90-fbf1-40c0-901d-39c00afe0356,52,Male,South Ralphland,Clothing,T-Shirt,2/2/2025,226.73,Credit Card,No,2,No
+e8344024-3e34-4152-884a-05fa0e6540b1,19,Male,Port Cliffordhaven,Clothing,Jeans,2/5/2025,148.49,Cash on Delivery,No,5,Yes
+1483a768-7159-47b5-8ae8-65e92ae8ed74,57,Male,Andreaton,Clothing,T-Shirt,2/4/2025,303.52,Credit Card,No,1,Yes
+281a8c83-1917-4dbc-b06a-e76abb962ad2,54,Male,West Stevenfort,Beauty,Shampoo,2/5/2025,486.51,Credit Card,Yes,2,No
+db4a1df7-524f-4bac-80be-0fa27f811698,53,Other,East Dean,Beauty,Lipstick,2/4/2025,413.83,Credit Card,No,4,No
+75efefed-8ee4-4151-831c-f232e9faaeec,24,Other,Colemanmouth,Clothing,T-Shirt,2/9/2025,205.82,UPI,Yes,4,No
+b530f1d3-41e8-4989-82fa-6a22b58f61f6,43,Male,Dorothyview,Electronics,Laptop,2/8/2025,399.37,Credit Card,No,1,Yes
+dda97a42-aa84-4345-9956-31456862a0c3,29,Male,Millerside,Beauty,Shampoo,2/1/2025,471.1,UPI,No,5,No
+d9a54fe3-0094-4a87-b8ff-c98589e6d809,51,Female,South Mary,Electronics,Headphones,2/1/2025,97.96,Cash on Delivery,Yes,1,No
+9788a93b-9cdb-4b9a-b072-96beef27fea6,30,Other,New Kathleenside,Electronics,Smartphone,2/6/2025,316.54,Credit Card,Yes,4,No
+d21bcd81-f304-45df-89e2-bd824991d76a,32,Other,Lake Sherry,Electronics,Smartphone,2/3/2025,413.41,Credit Card,No,4,No
+79089b75-b05b-4784-9b8b-c28db583731c,27,Male,Davidburgh,Beauty,Lipstick,2/9/2025,12.93,UPI,Yes,3,Yes
+84be2640-9063-4e0f-a7c5-1b0fdd4e89ea,28,Female,New Mikaylamouth,Clothing,Dress,2/1/2025,339.3,Debit Card,Yes,2,No
+54536eeb-9c43-4bcf-bcaf-bed2b0ab0cea,53,Male,Mcdanielmouth,Beauty,Shampoo,2/8/2025,305.51,Cash on Delivery,No,5,No
+69729120-88a3-4794-9b52-101c7a1516f4,18,Female,East Tiffanyhaven,Electronics,Headphones,2/2/2025,485.46,UPI,Yes,1,Yes
+d2ee086a-9fd6-4804-99e8-0b510e70ed3d,34,Female,East Annette,Home,Curtains,2/3/2025,430.69,Cash on Delivery,Yes,4,Yes
+986210c0-eb39-44b6-b13c-d4c8d1eb05d7,29,Male,Marshallstad,Home,Cookware,2/7/2025,37.72,UPI,No,3,No
+b0550d0e-f09f-441e-929b-2637e4178681,39,Female,North Dylanberg,Electronics,Headphones,2/2/2025,34.83,Credit Card,No,1,No
+63e5425c-d672-4aea-ad79-50a7e60d3d01,25,Female,Mooremouth,Home,Curtains,2/8/2025,137.99,Cash on Delivery,No,5,Yes
+931f22dd-7378-43ba-87ab-603f97f78515,51,Male,Yatesville,Electronics,Smartwatch,2/6/2025,297.8,Cash on Delivery,No,4,Yes
+8eafcd36-97b9-4297-886d-5d2499051c59,49,Female,Rossview,Beauty,Lipstick,2/6/2025,115.19,Cash on Delivery,Yes,2,Yes
+504b1650-bd46-47fa-af12-891f0ccb3e35,41,Male,Stacyberg,Clothing,T-Shirt,2/9/2025,278.61,Cash on Delivery,No,2,Yes
+d6399297-a20c-4886-9dfb-bb8496bcf36f,21,Other,Coxbury,Electronics,Laptop,2/2/2025,350.76,Credit Card,Yes,5,No
+50abe9bc-9ee6-4c74-8a15-9f6be7bbf26a,39,Female,New Kevin,Home,Curtains,2/8/2025,28.93,Cash on Delivery,No,5,No
+3cb7b2e4-f489-4817-94f9-dcc2ca9dbc7c,50,Other,Port Jaredshire,Clothing,T-Shirt,2/1/2025,39.92,Debit Card,Yes,4,Yes
+76e0b37a-c080-4ccf-87db-e434ab456f2e,49,Male,Brookshaven,Beauty,Face Cream,2/8/2025,72.08,UPI,No,2,No
+13fa8689-ab9a-4a03-8f4f-bf26f3c1e7c4,26,Female,Huffberg,Clothing,T-Shirt,2/6/2025,115.05,UPI,Yes,5,No
+99d6c486-09b7-406d-8bd8-dcc1674d0aa5,41,Female,Scottside,Beauty,Perfume,2/3/2025,55.86,UPI,No,5,Yes
+9ce84a63-d0a5-4d70-9ac5-70950d81c6a9,32,Female,Watsonshire,Beauty,Lipstick,2/5/2025,52.71,Debit Card,Yes,1,Yes
+c5b97fa6-b377-4f51-bb87-6a53a907d57e,53,Other,Port Angela,Clothing,Jacket,2/5/2025,151.46,Debit Card,Yes,3,Yes
+ba4dff5f-af4d-436f-a88f-813119b6f229,19,Female,Bentonland,Beauty,Lipstick,2/2/2025,18.48,Debit Card,No,2,No
+7a10e82e-79c8-42db-92df-c754d5054067,29,Other,Lisahaven,Beauty,Shampoo,2/1/2025,185.28,UPI,No,4,No
+d1419e7c-0c9e-4af9-a604-c68e9bb9bfee,45,Male,Davisshire,Clothing,Jacket,2/7/2025,196.18,UPI,No,3,Yes
+eca5aa5a-b7f6-4ce2-a03a-e275a2befae1,39,Male,Lake Leahbury,Electronics,Laptop,2/1/2025,406.29,UPI,Yes,5,No
+7af7b4ef-84e6-4972-8588-50649bf3009e,60,Other,East Jesus,Home,Lamp,2/8/2025,20.27,Credit Card,No,3,Yes
+f74e047c-50c3-4b69-b4b8-7ba8e66f95f2,24,Male,Danielside,Clothing,Jacket,2/8/2025,131.14,Debit Card,Yes,5,Yes
+1fa20951-1a9f-4dca-a901-236c752fb728,28,Male,Andrewport,Home,Sofa Cover,2/2/2025,360.04,UPI,Yes,4,Yes
+9fe6d410-1037-452d-89c1-2aa73b40978f,41,Male,Laneberg,Home,Curtains,2/7/2025,173.04,UPI,No,1,Yes
+871fc522-0daa-4e8d-b549-8ad05a1e9ee3,22,Male,Deanville,Clothing,T-Shirt,2/1/2025,189.97,Debit Card,Yes,5,Yes
+2ef05bb9-41b7-4b10-bace-34c04221aa76,60,Male,Rileyborough,Clothing,Dress,2/5/2025,209.77,Cash on Delivery,Yes,3,No
+f9bb56b5-3484-41ef-8fc5-84310b364586,33,Male,Port Angelafort,Beauty,Lipstick,2/9/2025,471.21,UPI,Yes,1,Yes
+b6158cc8-1c1a-4357-9cee-5aaa3dbdc604,18,Other,West Melissafort,Clothing,Dress,2/3/2025,385.49,Cash on Delivery,Yes,5,No
+1759a1b0-2e5a-4722-9a55-98b9a3f8d119,53,Other,West Kathryn,Electronics,Headphones,2/6/2025,14.81,Debit Card,Yes,1,No
+8ba13886-bf67-416b-830b-c6baa3360379,23,Female,Lake Cynthiashire,Electronics,Laptop,2/7/2025,20.84,Cash on Delivery,No,2,Yes
+e5697db5-1f84-4bc9-8d96-ac32749b7654,21,Other,New Rachael,Beauty,Shampoo,2/9/2025,338.24,Credit Card,Yes,3,Yes
+34e1f4e4-80e8-4694-aaf9-3a429e6c1f28,37,Male,West Jasmineland,Beauty,Lipstick,2/7/2025,117.73,UPI,Yes,1,No
+41b7fa24-ae99-4e69-a038-a296c4a4aeb7,22,Female,Port Edwardhaven,Home,Sofa Cover,2/6/2025,311.11,Cash on Delivery,Yes,3,Yes
+5c47e464-ced9-4ca0-81c6-e256cb0375a6,55,Female,Caseyshire,Beauty,Face Cream,2/1/2025,54.73,Cash on Delivery,Yes,1,Yes
+3057dffe-19e5-42ee-a221-38bc69c779c4,34,Female,Maryburgh,Clothing,Dress,2/5/2025,362.65,Credit Card,Yes,4,Yes
+2fc6393b-f3c1-4ae7-b50a-bf92e970a23c,34,Female,Mcclainfort,Beauty,Perfume,2/6/2025,109.3,Credit Card,Yes,3,No
+b5eb0431-7ec8-4c85-9893-e5621262eae2,20,Other,Port Angel,Home,Curtains,2/2/2025,219.26,UPI,Yes,4,Yes
+e66d13d7-528d-41fd-a00e-5e86dd3b0758,32,Male,Williamsstad,Electronics,Laptop,2/2/2025,167.71,Debit Card,No,4,Yes
+eb39dbee-6671-41a8-bd00-e8b3ca401620,20,Male,Christopherstad,Electronics,Laptop,2/8/2025,241.98,Cash on Delivery,No,1,Yes
+d15f8e25-aee2-4e71-9087-cfddb6ef3dfc,38,Other,Robinton,Clothing,T-Shirt,2/6/2025,476.43,Credit Card,Yes,3,No
+fe9aab28-4dfa-4f2d-9832-a0aa7bfea0c3,37,Other,North Sierra,Electronics,Smartphone,2/9/2025,434.9,UPI,Yes,2,No
+47228411-90d0-4849-a599-0e48362fe9d5,54,Female,Clarkland,Beauty,Lipstick,2/9/2025,86.13,Credit Card,Yes,5,Yes
+d4344454-5d83-4273-a9d1-521461f4b810,58,Male,Amberchester,Clothing,Jacket,2/9/2025,122.43,Credit Card,Yes,1,No
+f226784d-ce89-470f-abd2-e00f4f8faf4c,51,Male,Thomasport,Clothing,T-Shirt,2/3/2025,275.87,UPI,Yes,3,No
+a99a03be-7f97-4a1e-9edb-5c9578be02fa,44,Female,West Brian,Beauty,Perfume,2/3/2025,236.92,Cash on Delivery,No,1,Yes
+01b50f28-e651-45fb-8522-12c44226371d,33,Female,Farleyshire,Home,Cookware,2/6/2025,52.68,UPI,Yes,3,No
+98ca2e43-12d0-4ace-8aa7-d085a09c8fb9,32,Other,Chavezhaven,Beauty,Face Cream,2/1/2025,210.94,Cash on Delivery,Yes,1,Yes
+486c8a91-1863-42f3-9426-2e40b16df65d,37,Female,Hernandezview,Home,Sofa Cover,2/3/2025,493.98,Debit Card,Yes,2,Yes
+8750d603-cfc7-49dc-9911-3783502281f1,46,Other,West Yolandamouth,Beauty,Lipstick,2/2/2025,224.11,Credit Card,Yes,1,Yes
+e393f839-5f8e-4bf3-9766-37867bfebe62,55,Male,Thompsonland,Beauty,Shampoo,2/6/2025,105.12,Cash on Delivery,Yes,3,Yes
+4b0e0ad4-0a38-4635-8889-24aa6a86d5d3,26,Female,Hotown,Home,Curtains,2/8/2025,492.19,Credit Card,Yes,3,No
+3ff37625-db84-4b65-9ebf-db6cac80788e,55,Male,Ellisside,Beauty,Lipstick,2/6/2025,53.94,UPI,No,2,No
+7b8fd47e-c574-4503-bf09-75ad0d063f07,41,Other,Teresaton,Clothing,T-Shirt,2/8/2025,223.93,Debit Card,No,3,Yes
+9e5bdb92-9c45-4508-ab59-fa8e0343b0ad,50,Female,Rossmouth,Home,Lamp,2/4/2025,271.98,UPI,Yes,3,No
+81683f5d-e09b-4626-8479-83a164191d95,56,Other,Duncanchester,Electronics,Headphones,2/6/2025,277.11,UPI,Yes,4,No
+cadf915f-1ebc-4ec0-aff1-373742f1b884,28,Male,East Gregory,Home,Lamp,2/5/2025,27.36,Cash on Delivery,Yes,4,Yes
+39c9a098-e74d-4826-8968-5400d13c7d6a,27,Female,East Crystal,Clothing,T-Shirt,2/2/2025,415.39,Credit Card,No,4,No
+dd999c8a-9f88-4c2e-b01e-bc33147fa126,30,Female,Port Carolynfort,Home,Cookware,2/4/2025,55.51,UPI,No,5,No
+ba9a300c-0097-4195-93de-d44437fc0fb2,51,Female,Jacquelinefort,Beauty,Face Cream,2/5/2025,323.09,UPI,Yes,3,Yes
+60730737-710d-4672-955b-4be997aa3982,52,Other,West Amanda,Electronics,Laptop,2/8/2025,33.09,UPI,Yes,3,Yes
+7cab22f3-9473-4ce3-8931-d153156d4b2f,50,Male,Richardberg,Clothing,T-Shirt,2/5/2025,380.88,Credit Card,Yes,4,Yes
+fba4e4ad-249c-40e1-a278-c594a206a23f,60,Other,North Janiceberg,Beauty,Lipstick,2/5/2025,354.83,UPI,No,4,Yes
+6e3dbe53-eb51-4222-81ce-f42024b2130e,20,Female,North Janetport,Home,Cookware,2/9/2025,152.06,Cash on Delivery,Yes,4,No
+0ca532a5-f6d3-4178-9015-03ac9411d1ed,36,Male,Amandaberg,Clothing,Jacket,2/2/2025,445.44,Cash on Delivery,Yes,3,Yes
+00b9ad78-dc85-4b06-82f7-e8cd1be6d91e,23,Other,Gonzalezland,Home,Curtains,2/4/2025,457.78,Cash on Delivery,Yes,5,Yes
+ab87d7bc-0cdc-4796-824d-80b4e4387361,47,Other,Port Deborahmouth,Clothing,Dress,2/5/2025,355.73,Credit Card,Yes,2,No
+483d060c-051c-479b-8594-0c3c8d6376b1,50,Female,North Kariview,Clothing,Jeans,2/4/2025,424.03,UPI,No,4,No
+90568c6c-5ab9-4d6e-b314-33de2378e411,22,Other,Johnchester,Home,Sofa Cover,2/8/2025,143.32,Credit Card,No,1,No
+eb0c1c80-08cc-4cef-91da-df9e58cb2f16,42,Female,Sarahshire,Home,Curtains,2/5/2025,70.74,UPI,Yes,3,No
+ce26323b-a757-4469-915e-24d08bc0b637,55,Female,Collinsmouth,Beauty,Shampoo,2/4/2025,217.04,Debit Card,No,3,Yes
+c795a3ea-96bb-4861-9b97-ea7626c7edf6,60,Other,Stoutport,Electronics,Smartphone,2/8/2025,367.83,UPI,Yes,2,No
+c815d327-f611-46d9-9a31-86916c8d5183,41,Other,South Brenda,Electronics,Laptop,2/7/2025,454.94,UPI,Yes,1,No
+015668e1-91de-4af0-9247-2c3b9b1c741e,38,Other,Romeroville,Clothing,Dress,2/4/2025,493.76,Credit Card,Yes,1,No
+feb6c07a-0ba8-4b79-9d11-b29f2da3a8c9,32,Female,East Richard,Electronics,Smartwatch,2/7/2025,494.27,Credit Card,Yes,2,Yes
+e1e22329-e7e6-4bd7-abfd-87721e0311b8,56,Male,Andreastad,Beauty,Face Cream,2/9/2025,148.04,Debit Card,Yes,5,Yes
+24819c71-da99-4703-bb59-e60a4ead0861,37,Other,South Kevinbury,Clothing,Jeans,2/7/2025,293.88,Cash on Delivery,Yes,1,No
+b7bd1ccd-4272-482d-9d24-0ef2746ae9d0,35,Female,Samanthashire,Home,Cookware,2/6/2025,117.41,Credit Card,Yes,5,Yes
+bee29530-88af-428a-9a65-1dd1091fc72a,29,Other,North Lindamouth,Electronics,Laptop,2/1/2025,109.51,Debit Card,Yes,1,Yes
+f71bd52e-8162-42eb-880f-f2c198972ef6,27,Male,North Leeville,Beauty,Perfume,2/4/2025,298.26,UPI,Yes,1,No
+09729810-3459-4412-8911-453f8e802b54,54,Male,Parkbury,Home,Curtains,2/3/2025,124.41,Credit Card,No,2,Yes
+592af660-33d3-4e93-8c0b-29d720fca792,21,Male,Lake April,Clothing,Jeans,2/2/2025,486.5,Cash on Delivery,No,2,Yes
+0251927e-23b0-4e33-9758-e0d1f97ea5f9,31,Male,New Ronaldview,Electronics,Laptop,2/4/2025,330.06,UPI,Yes,4,Yes
+259fecb1-42d1-4506-9c45-edd3c175e10b,48,Male,East Rita,Home,Lamp,2/5/2025,403.16,Debit Card,No,3,No
+10cc0a44-d783-4d7d-9e58-eeeda68e000d,47,Other,Carrieborough,Electronics,Smartphone,2/1/2025,210.15,Credit Card,Yes,1,No
+b6ff8a2e-1ae6-40d1-8a58-bfab450fd822,24,Female,New Michael,Home,Curtains,2/9/2025,475.32,Cash on Delivery,Yes,1,No
+b8c08f04-13e1-4dfc-b708-046c6c26067c,21,Other,Summersfurt,Clothing,Jeans,2/4/2025,199.68,Debit Card,Yes,4,No
+7b271080-01ed-4fb9-b10c-833016fc4a6d,44,Female,Michaelbury,Electronics,Headphones,2/9/2025,439.54,Cash on Delivery,Yes,5,Yes
+2ea8d0a0-df52-44b6-8ffa-b0d744729e6e,26,Female,Jasonmouth,Clothing,Jeans,2/8/2025,118.07,Debit Card,No,5,No
+0f89357d-367d-4fc7-907b-dc8e3795474a,26,Male,Seanside,Clothing,Dress,2/1/2025,277.28,Debit Card,No,1,No
+4cae0bdf-bc39-4122-a77c-dc59efbf1761,38,Male,Chenport,Home,Lamp,2/5/2025,70.22,Cash on Delivery,No,4,Yes
+7e0e499a-dcbd-414f-85c6-6dd5adff7e06,22,Male,New Victorton,Home,Lamp,2/5/2025,216.15,UPI,No,4,Yes
+f619cb0c-1a81-491a-862d-0c0ed98563ec,39,Female,Port Michelle,Home,Cookware,2/7/2025,423.77,Debit Card,Yes,3,Yes
+d4ef847a-c25c-4842-892e-8a6596279ff9,20,Male,Martinezland,Beauty,Lipstick,2/7/2025,468.82,Credit Card,Yes,2,Yes
+0d7fc6e3-0687-420b-a6ca-c70943b8dedf,23,Female,Port Rayside,Electronics,Smartphone,2/8/2025,163.71,Debit Card,No,2,Yes
+5505b2a6-6003-402f-a9b6-c25ddcf19e5a,31,Female,South Timmouth,Home,Lamp,2/4/2025,118.94,Debit Card,Yes,3,Yes
+2c49d23f-2aea-4a39-8efd-b595c3999319,38,Male,Port Timothyville,Electronics,Laptop,2/3/2025,171.03,UPI,No,4,Yes
+7e11bf0e-d0ec-4e0b-bf0f-5c5cbb2f39ba,54,Other,Monroeport,Clothing,T-Shirt,2/9/2025,239.31,UPI,Yes,1,No
+88afc78b-59cf-4842-838f-06c8cbf64ff4,38,Other,South William,Electronics,Headphones,2/6/2025,265.86,UPI,No,1,Yes
+5f0c6c8b-7e61-4708-82f4-1906ba3fcf97,21,Other,Davidberg,Electronics,Smartwatch,2/4/2025,290.95,Credit Card,No,4,Yes
+72633f90-10d2-4ba9-b37a-bba38a6bdeb1,30,Female,Savagechester,Beauty,Perfume,2/2/2025,367.06,Credit Card,No,2,No
+d9aee854-24ae-497e-a40c-d139aacc7055,34,Male,Lake Amandaburgh,Beauty,Lipstick,2/9/2025,333.99,Credit Card,No,2,No
+0328b1f5-ae71-433c-b022-fb9053f54a5f,55,Other,Jenniferton,Electronics,Smartphone,2/5/2025,206.31,Debit Card,Yes,3,Yes
+4255b13d-6915-4ab2-83b5-5aa630e9f102,31,Male,Cannonbury,Clothing,Jeans,2/8/2025,340.33,Debit Card,Yes,5,No
+45fbebd1-0697-4d23-b444-42be67e6dc4f,47,Other,North Josephfort,Electronics,Smartwatch,2/1/2025,465.77,Debit Card,Yes,3,No
+c1df1e7b-6656-47a5-8198-2cbe4d14f966,56,Other,Perkinsmouth,Home,Curtains,2/6/2025,280.83,Cash on Delivery,No,2,No
+ac9a21d4-3ede-4989-961d-b4931b95387d,31,Male,Lake John,Home,Lamp,2/8/2025,320.9,Credit Card,Yes,3,No
+19f8f962-37c7-4a7f-8b7f-9ca06ca7271b,39,Female,Port Annestad,Clothing,Jacket,2/4/2025,200.39,Credit Card,No,2,Yes
+7445a346-52d6-4fc8-80eb-dbb2c97664f6,50,Male,South Michaelmouth,Beauty,Lipstick,2/7/2025,324.62,Credit Card,No,4,Yes
+528dbd34-f736-4b48-ae94-0a54850fe35a,41,Female,Wyattport,Beauty,Face Cream,2/7/2025,295.1,Credit Card,No,2,Yes
+f3be57d0-d977-4e84-a53b-3b834b32ead7,49,Male,Hopkinsmouth,Electronics,Smartphone,2/1/2025,269.11,Cash on Delivery,No,5,No
+6d68f371-b6e1-40d2-9fd5-50cbf15022ed,50,Male,North Rileyton,Home,Curtains,2/5/2025,420.94,UPI,Yes,2,Yes
+85842ebc-a820-4253-8343-3f83166d8fa8,48,Other,Mendozaville,Clothing,Jeans,2/1/2025,226.24,UPI,No,2,No
+537b4b12-84e7-4081-974a-42008aa5d7f1,29,Female,Ninamouth,Electronics,Smartphone,2/2/2025,429.54,UPI,No,4,Yes
+d283121d-ded6-4cde-8247-7fa145603f3c,46,Male,West Brittanyberg,Beauty,Perfume,2/8/2025,244.84,UPI,Yes,3,Yes
+b76f81f6-04bf-47dc-b616-530373f51b38,56,Female,Smithton,Electronics,Headphones,2/7/2025,123.07,Debit Card,Yes,3,Yes
+631c1c2c-2bd0-4da2-b7af-cf353b041671,20,Other,Youngfort,Beauty,Face Cream,2/8/2025,45.51,Credit Card,No,3,No
