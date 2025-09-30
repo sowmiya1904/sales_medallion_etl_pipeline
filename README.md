@@ -29,6 +29,9 @@ The pipeline follows the Medallion Architecture pattern:
 
 🥇	Gold Layer – Business-ready fact and dimension tables for analytics (FactPurchases, DimCustomers with SCD2, DimProducts with SCD2, DimDate, DimPayments).
 
+<img width="1146" height="687" alt="ETL_Architecture" src="https://github.com/user-attachments/assets/fe45fd6b-709f-41e0-8920-2651c322806d" />
+
+
 ## ⚙️ Technologies & Tools Used
 
 ✅	Databricks – Unified platform for ETL and orchestration
